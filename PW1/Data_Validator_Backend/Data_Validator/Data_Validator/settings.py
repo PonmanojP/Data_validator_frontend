@@ -130,15 +130,16 @@ SESSION_COOKIE_SECURE = False         # dev over HTTP
 SESSION_COOKIE_SAMESITE = "Lax"
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173",  # your React dev URL
-    "https://pwbackend-1hax.onrender.com",
-    "https://data-validator-frontend.onrender.com",
     "https://pwfrontend.onrender.com",
 ]
 
-
-
 CORS_ALLOW_CREDENTIALS = True
+
+# Use None for cross-domain cookies OR specify your backend domain
+SESSION_COOKIE_DOMAIN = None  # or ".onrender.com" if you want subdomain sharing
+SESSION_COOKIE_SECURE = True   # only if your site uses HTTPS
+CSRF_COOKIE_SECURE = True      # same as above
+CSRF_TRUSTED_ORIGINS = ["https://pwfrontend.onrender.com"]
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.2/howto/static-files/
