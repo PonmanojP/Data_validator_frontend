@@ -1,0 +1,82 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px 20px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;    background-color: #b9b9b9a1;
+    border-radius: 10px;
+    position: fixed;
+    width: 80%;
+    top:5%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+    z-index: 1000;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+    height: 50px;
+    width: 150px;
+    object-fit: contain;
+}
+
+.logo img{
+    height: 100%;
+    width: 100%;
+    object-fit:contain ;
+}
+
+.links{
+    display: flex;
+    list-style: none;
+    width: 30%;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.btn-group{
+    display: flex;
+    gap: 30px; 
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.signup-btn{
+    background-color: #303030;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.login-btn{
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.links li {
+    position: relative;
+    cursor: pointer;
+}
+
+.links li::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    width: 0;
+    height: 2px;
+    background: #303030;
+    transition: width 0.3s ease;
+}
+
+.links li:hover::after {
+    width: 100%;
+}

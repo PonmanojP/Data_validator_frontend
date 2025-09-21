@@ -1,0 +1,110 @@
+.verify-hero {
+    background-color: #CCCECD;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.verify-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.verify-form {
+    background: #fff;
+    padding: 2.5rem 2rem;
+    border-radius: 20px;
+    box-shadow: 0 4px 24px rgba(44, 44, 44, 0.10);
+    min-width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.verify-logo {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.verify-title {
+    color: #303030;
+    margin-bottom: 0.5rem;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.verify-desc {
+    color: #404040;
+    margin-bottom: 2rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.otp-inputs {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.otp-input {
+    width: 48px;
+    height: 56px;
+    font-size: 2rem;
+    text-align: center;
+    border-radius: 12px;
+    border: 2px solid #CCCECD;
+    background: #F7F7F7;
+    color: #303030;
+    font-family: 'Poppins', sans-serif;
+    outline: none;
+    transition: border 0.2s;
+}
+
+.otp-input:focus {
+    border-color: #29543D;
+    background: #E6F2EC;
+}
+
+.verify-btn-main {
+    width: 100%;
+    padding: 0.75rem 2rem;
+    font-size: 1.2rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #fff;
+    background-color: #29543D;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    transition: background 0.2s;
+}
+
+.verify-btn-main:hover {
+    background-color: #218838;
+}
+
+.home-btn {
+    width: 100%;
+    padding: 0.75rem 2rem;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #303030;
+    background-color: #CCCECD;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.home-btn:hover {
+    background-color: #b0b2b1;
+}
