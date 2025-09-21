@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import "./css/verify.css";
+import "./css/Verify.css";
 import logo from "/logo.png"; // Adjust path if needed
 
 const Verify = () => {
