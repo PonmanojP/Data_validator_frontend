@@ -30,6 +30,7 @@ ALLOWED_HOSTS = [
     "localhost",
     "data-validator-frontend.onrender.com",
     "pwbackend-1hax.onrender.com",
+    "pwfrontend.onrender.com",
 ]
 
 EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
@@ -132,6 +133,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",  # your React dev URL
     "https://pwbackend-1hax.onrender.com",
     "https://data-validator-frontend.onrender.com",
+    "https://pwfrontend.onrender.com",
 ]
 
 

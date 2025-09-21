@@ -6,7 +6,7 @@ import Faq from './components/Faq'
 import Footer from './components/Footer'
 import Login from './components/login'
 import Signup from './components/Signup'
-import Verify from './components/verify'
+import Verify from './components/Verify'
 import Dashboard from './components/Dashboard'
 import PrivateRoute from './components/PrivateRoute';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
