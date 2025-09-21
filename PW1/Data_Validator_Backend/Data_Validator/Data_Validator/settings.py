@@ -126,8 +126,7 @@ USE_I18N = True
 
 USE_TZ = True
 
-SESSION_COOKIE_SECURE = False         # dev over HTTP
-SESSION_COOKIE_SAMESITE = "Lax"
+SESSION_COOKIE_SAMESITE = "None"
 
 CORS_ALLOWED_ORIGINS = [
     "https://pwfrontend.onrender.com",
