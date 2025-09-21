@@ -130,6 +130,8 @@ SESSION_COOKIE_SAMESITE = "Lax"
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",  # your React dev URL
+    "https://pwbackend-1hax.onrender.com",
+    "https://data-validator-frontend.onrender.com",
 ]
 
 

@@ -18,7 +18,7 @@ const Signup = () => {
 const handleVerify = async (e) => {
   e.preventDefault();
   if (username && email && password && confirmPassword && password === confirmPassword) {
-    const res = await fetch("http://localhost:8000/api/signup/", {
+    const res = await fetch("https://pwbackend-1hax.onrender.com/api/signup/", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ username, email, password }),
