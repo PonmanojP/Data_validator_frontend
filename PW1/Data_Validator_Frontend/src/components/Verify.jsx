@@ -24,7 +24,7 @@ const handleSubmit = async (e) => {
   const otpCode = otp.join(""); // convert array to string
   const email = localStorage.getItem("pendingEmail");
 
-  const res = await fetch("https://pwbackend-1hax.onrender.com/api/verify/", {
+  const res = await fetch("http://localhost:8000/api/verify/", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ email, otp: otpCode }),

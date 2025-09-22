@@ -1,0 +1,90 @@
+main {
+  --color-main: #ea4335;
+  --color-main-light: #ffad42;
+  --color-main-dark: #bb4d00;
+  --color-secondary: #ffc107;
+  --color-background: #fafafa;
+  background-color: var(--color-background);
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Bottom/Side nav core */
+.bottom-navigation {
+  overflow: hidden;
+  background-color: #272424;
+  transition: 375ms;
+  position: fixed;
+  height: 56px;
+  width: 100%;
+  bottom: 0;
+  right: 0;
+  font-size: 24px;
+  box-shadow: 0 3px 14px 3px rgba(0, 0, 0, 0.12),
+    0 4px 15px rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: space-around;
+  border-radius: 0px 20px 20px 0;
+}
+
+.bottom-navigation .bottom-navigation-destination {
+  padding: 16px 0;
+  text-align: center;
+  flex-grow: 1;
+  font-size: 12px;
+  transition: 225ms cubic-bezier(0.4, 0.2, 0, 1);
+  color: rgba(255, 255, 255, 0.87);
+  cursor: pointer;
+}
+
+.bottom-navigation .bottom-navigation-destination.active {
+  padding: 6px 12px 10px 12px;
+}
+
+.bottom-navigation-label {
+  opacity: 0;
+  transition: 225ms cubic-bezier(0.4, 0.2, 0, 1);
+}
+
+.bottom-navigation-destination.active .bottom-navigation-label {
+  font-size: 14px;
+  opacity: 1;
+}
+
+.bottom-navigation .bottom-navigation-destination .material-icons {
+  font-size: 24px;
+  margin-bottom: 4px;
+  display: block;
+}
+
+/* Desktop view — nav becomes sidebar */
+@media screen and (min-width: 672px) {
+  .bottom-navigation {
+    width: 64px;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    right: initial;
+    display: block;
+  }
+
+  .bottom-navigation .bottom-navigation-destination {
+    color: rgba(255, 255, 255, 0.54);
+    padding: 20px;
+  }
+
+  .bottom-navigation-label {
+    display: none;
+  }
+
+  .bottom-navigation .bottom-navigation-destination.active {
+    color: rgba(255, 255, 255, 0.87);
+    padding: 20px;
+  }
+
+  .bottom-navigation .bottom-navigation-destination .material-icons {
+    margin: 0;
+  }
+
+
+}

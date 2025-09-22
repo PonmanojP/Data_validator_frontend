@@ -3,6 +3,7 @@ from django.contrib.auth import authenticate, login, logout
 from django.core.mail import send_mail
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
+from django.contrib.auth.decorators import login_required
 import random, json
 
 # In-memory OTP store
@@ -102,3 +103,8 @@ def logout_request(request):
 def check_auth(request):
     print(request.user, request.user.is_authenticated)
     return JsonResponse({"isAuthenticated": request.user.is_authenticated})
+
+@login_required
+def get_user(request):
+    print(request.user.username)
+    return JsonResponse({"username": request.user.username})

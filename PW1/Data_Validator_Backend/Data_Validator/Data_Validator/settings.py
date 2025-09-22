@@ -126,19 +126,31 @@ USE_I18N = True
 
 USE_TZ = True
 
-SESSION_COOKIE_SAMESITE = "None"
 
 CORS_ALLOWED_ORIGINS = [
-    "https://pwfrontend.onrender.com",
+    "http://localhost:5173",               # dev
+    "https://pwfrontend.onrender.com",     # prod
 ]
 
 CORS_ALLOW_CREDENTIALS = True
 
-# Use None for cross-domain cookies OR specify your backend domain
-SESSION_COOKIE_DOMAIN = None  # or ".onrender.com" if you want subdomain sharing
-SESSION_COOKIE_SECURE = True   # only if your site uses HTTPS
-CSRF_COOKIE_SECURE = True      # same as above
-CSRF_TRUSTED_ORIGINS = ["https://pwfrontend.onrender.com"]
+CSRF_TRUSTED_ORIGINS = [
+    "http://localhost:5173", 
+    "https://pwfrontend.onrender.com",
+]
+
+if DEBUG:
+    # Local dev over http
+    SESSION_COOKIE_SECURE = False
+    CSRF_COOKIE_SECURE = False
+    SESSION_COOKIE_SAMESITE = "Lax"
+    SESSION_COOKIE_DOMAIN = None
+else:
+    # Render prod over https
+    SESSION_COOKIE_SECURE = True
+    CSRF_COOKIE_SECURE = True
+    SESSION_COOKIE_SAMESITE = "None"
+    SESSION_COOKIE_DOMAIN = None  # don't force domain
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.2/howto/static-files/
