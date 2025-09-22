@@ -45,7 +45,7 @@ export default function Dashboard() {
   };
 
   useEffect(() => {
-    fetch("http://localhost:8000/api/user/", {
+    fetch("https://pwbackend-1hax.onrender.com/api/user/", {
       method: "GET",
       credentials: "include", // <-- important for session cookie
     })

@@ -10,7 +10,7 @@ const Login = () => {
 
 const handleSubmit = async (e) => {
   e.preventDefault();
-  const res = await fetch("http://localhost:8000/api/login/", {
+  const res = await fetch("https://pwbackend-1hax.onrender.com/api/login/", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     credentials: "include", // important!

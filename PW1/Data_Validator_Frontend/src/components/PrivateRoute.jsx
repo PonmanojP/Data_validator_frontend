@@ -5,7 +5,7 @@ const PrivateRoute = ({ children }) => {
   const [isAuthenticated, setIsAuthenticated] = useState(null);
 
   useEffect(() => {
-    fetch("http://localhost:8000/api/check-auth/", {
+    fetch("https://pwbackend-1hax.onrender.com/api/check-auth/", {
       credentials: "include",  // send session cookie
     })
       .then(res => res.json())
