@@ -1,0 +1,1001 @@
+Patient_ID,Full_Name,DOB,Age,Gender,Ethnicity,Zip_Code,Occupation,Contact_Number,Email,Address,Diagnosis_Code,Symptoms,Genetic_Markers,Family_History,Treatment_Type,Treatment_Response,Lab_Results,Hospital_ID,Consent_Flag,Consent_Date,Data_Source,Disease_Progression,Survival_Months,Readmission
+,,,107.4217251432834,Male,Black,23798.72309675409,Retired,,,,J45,"Shortness of breath, Wheezing",,No,Lifestyle Change,No Change,,H002,No,,Insurance Claim,Stable,,Yes
+,,,108.87018585623179,Other,White,57089.77479059484,Teacher,,,,J45,"Shortness of breath, Wheezing",,Yes,Lifestyle Change,Worsened,,H004,Yes,,Insurance Claim,Improving,,Yes
+,,,105.739583029589,Female,Asian,54906.166716023516,,,,,J45,"Wheezing, Shortness of breath",,No,Medication,Improved,,H002,Yes,,Clinical Trial,Worsening,12.508594366565191,Yes
+,,,53.56426683094708,Male,Asian,75933.3205631234,Unemployed,,,,C34,,,No,Surgery,Worsened,,H001,Yes,,Hospital EMR,Improving,98.24064301705859,Yes
+,,,56.146245222337626,Other,Other,52206.387841796706,Clerk,,,,I10,"Dizziness, Headache",,No,Therapy,Improved,,H003,No,,Hospital EMR,Improving,,No
+,,,74.45195016980163,Male,Asian,53666.90440158558,Engineer,,,,F32,,,Yes,Lifestyle Change,No Change,,H001,No,,Insurance Claim,Stable,,Yes
+,,,73.5930175158459,Other,Other,64568.01779417791,Unemployed,,,,I10,"Dizziness, Headache",,No,Medication,No Change,,H004,No,,Insurance Claim,Stable,,No
+,,,20.584301639147803,Female,White,74926.65118608171,Retired,,,,E11,,,Yes,Lifestyle Change,No Change,,H003,No,,Insurance Claim,Worsening,,Yes
+,,,45.65465928993981,Female,Asian,126003.90024879585,Student,,,,J45,"Wheezing, Shortness of breath",,Yes,Therapy,Improved,,H004,No,,Hospital EMR,Stable,,No
+,,,103.82192063493247,Female,Other,42418.92552934158,Retired,,,,F32,,,No,Lifestyle Change,Improved,,H003,No,,Insurance Claim,Worsening,,Yes
+,,,83.00613590513038,Male,Other,136549.97309876955,Teacher,,,,E11,,,No,Therapy,No Change,,H003,Yes,,Insurance Claim,Worsening,,No
+,,,54.51663065471214,Other,Black,23205.890349013578,Unemployed,,,,K21,"Heartburn, Regurgitation",,No,Medication,Worsened,,H002,No,,Hospital EMR,Worsening,,No
+,,,71.99498822626411,Other,Asian,62344.84539382293,,,,,F32,,,Yes,Lifestyle Change,Improved,,H003,No,,Insurance Claim,Stable,,Yes
+,,,61.113880694588985,Female,Black,5415.3814964301055,Retired,,,,F32,,,No,Surgery,Improved,,H003,Yes,,Clinical Trial,Improving,,Yes
+,,,45.385087898326645,Male,Other,69156.97867355202,Doctor,,,,K21,"Regurgitation, Heartburn",,No,Medication,No Change,,H001,No,,Insurance Claim,Stable,255.6930766367249,No
+,,,5.385096770647921,Male,White,96178.6621027952,Teacher,,,,E11,,,No,Surgery,Worsened,,H003,No,,Clinical Trial,Stable,-6.321850914217748,Yes
+,,,71.76702668775596,Female,Other,46534.827143926675,Unemployed,,,,J45,"Wheezing, Shortness of breath",,Yes,Lifestyle Change,No Change,,H001,Yes,,Clinical Trial,Worsening,,No
+,,,17.43586272821125,Male,White,4371.456968801016,Retired,,,,C34,,,No,Surgery,Worsened,,H002,No,,Hospital EMR,Worsening,,No
+,,,117.20931971113853,Female,White,156490.82315421652,Nurse,,,,K21,"Heartburn, Regurgitation",,Yes,Lifestyle Change,Improved,,H004,No,,Insurance Claim,Improving,,Yes
+,,,35.96881371344222,Female,Hispanic,81902.67983214854,Teacher,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,Improved,,H002,No,,Insurance Claim,Improving,,Yes
+,,,47.13319254017701,Other,Hispanic,72964.35346608337,Unemployed,,,,C34,,,No,Surgery,Improved,,H002,No,,Clinical Trial,Improving,,Yes
+,,,18.333792109409387,Male,Other,70517.97970359803,Teacher,,,,J45,"Wheezing, Shortness of breath",,Yes,Surgery,Improved,,H003,No,,Insurance Claim,Improving,,Yes
+,,,96.53388765689908,Other,Other,31574.36558070661,Doctor,,,,F32,,,No,Therapy,Worsened,,H004,Yes,,Clinical Trial,Worsening,,Yes
+,,,89.50316652674653,Male,White,59749.20520566538,Student,,,,F32,,,Yes,Therapy,No Change,,H002,Yes,,Insurance Claim,Stable,,No
+,,,-71.95644943516791,Other,White,3808.9924309127264,Retired,,,,M54,"Stiffness, Back pain",,Yes,Therapy,No Change,,H004,No,,Clinical Trial,Improving,,No
+,,,55.35667357548877,Female,Other,11731.70881446327,Retired,,,,C34,,,No,Surgery,Improved,,H003,No,,Insurance Claim,Stable,225.3590090248258,Yes
+,,,42.19082754583555,Other,White,64058.226318862915,Retired,,,,M54,"Stiffness, Back pain",,Yes,Therapy,No Change,,H002,Yes,,Hospital EMR,Improving,,No
+,,,33.30255631449076,Female,Other,28543.728963316855,Retired,,,,I10,"Dizziness, Headache",,No,Surgery,No Change,,H004,Yes,,Clinical Trial,Worsening,,Yes
+,,,78.2600686686531,Female,Other,99382.01007937909,Engineer,,,,E11,,,Yes,Medication,Worsened,,H002,No,,Insurance Claim,Stable,,Yes
+,,,49.82428397586551,Other,White,19736.284731309315,,,,,M54,"Stiffness, Back pain",,No,Surgery,No Change,,H002,Yes,,Hospital EMR,Improving,,No
+,,,22.76439903709746,Female,White,63149.992680766285,Engineer,,,,J45,"Shortness of breath, Wheezing",,No,Medication,No Change,,H002,Yes,,Insurance Claim,Improving,56.95836227674808,No
+,,,77.89118991230639,Female,Other,16319.670766888095,Student,,,,K21,"Heartburn, Regurgitation",,Yes,Medication,Worsened,,H001,Yes,,Clinical Trial,Stable,,No
+,,,-10.83507297648189,Male,Hispanic,106397.90877308618,Student,,,,K21,"Heartburn, Regurgitation",,No,Lifestyle Change,Worsened,,H004,Yes,,Clinical Trial,Stable,126.51939092314018,Yes
+,,,0.7061795243926241,Female,Black,60524.989431510025,Student,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,Improved,,H002,No,,Hospital EMR,Stable,,No
+,,,59.152706688315085,Male,Asian,21107.110373372285,Clerk,,,,E11,,,No,Surgery,Improved,,H001,No,,Insurance Claim,Worsening,,No
+,,,96.72542427887136,Male,Black,22776.001252266964,Retired,,,,J45,"Wheezing, Shortness of breath",,No,Surgery,No Change,,H003,Yes,,Clinical Trial,Stable,135.11143876167597,No
+,,,83.36945401490918,Male,White,39531.50618051903,Student,,,,K21,"Heartburn, Regurgitation",,Yes,Surgery,Improved,,H004,Yes,,Clinical Trial,Stable,,No
+,,,94.6607794799483,Female,Other,54978.874906962155,Unemployed,,,,F32,,,No,Surgery,Improved,,H003,Yes,,Hospital EMR,Worsening,,Yes
+,,,165.12159330928523,Other,White,17939.77307405387,Retired,,,,I10,"Headache, Dizziness",,No,Lifestyle Change,No Change,,H003,Yes,,Insurance Claim,Improving,,No
+,,,54.56468242752681,Female,Black,106008.62200399916,Doctor,,,,I10,"Dizziness, Headache",,Yes,Lifestyle Change,No Change,,H001,Yes,,Clinical Trial,Improving,,Yes
+,,,39.32203375966925,Female,Black,10736.606162179458,Retired,,,,I10,"Headache, Dizziness",,Yes,Lifestyle Change,Worsened,,H002,Yes,,Insurance Claim,Stable,,No
+,,,-33.872375742175144,Other,Black,25737.313980998595,Engineer,,,,K21,"Heartburn, Regurgitation",,Yes,Therapy,No Change,,H003,Yes,,Clinical Trial,Stable,,No
+,,,67.41923890350122,Female,Other,15576.89775016777,Student,,,,J45,"Wheezing, Shortness of breath",,Yes,Therapy,Worsened,,H001,Yes,,Hospital EMR,Stable,47.427015240415344,Yes
+,,,70.0108445986101,Other,Other,-5481.046914142944,Retired,,,,I10,"Headache, Dizziness",,No,Therapy,Improved,,H003,No,,Hospital EMR,Worsening,49.13099537089286,No
+,,,35.18554639632478,Female,White,19453.82227262816,Retired,,,,M54,"Back pain, Stiffness",,Yes,Medication,Improved,,H002,Yes,,Hospital EMR,Stable,,No
+,,,9.219541145653633,Female,Black,19008.954100436604,Retired,,,,E11,,,No,Surgery,Worsened,,H002,No,,Insurance Claim,Stable,,No
+,,,52.64849830722488,Other,Asian,2750.929849718079,Retired,,,,C34,,,Yes,Lifestyle Change,Worsened,,H002,No,,Hospital EMR,Stable,,Yes
+,,,107.73828263901314,Other,Hispanic,30926.34617277358,Retired,,,,F32,,,No,Lifestyle Change,Worsened,,H003,No,,Hospital EMR,Stable,,No
+,,,-12.559840335980176,Female,Hispanic,67873.47337535473,Student,,,,E11,,,No,Lifestyle Change,No Change,,H003,No,,Insurance Claim,Worsening,,No
+,,,15.79560232181573,Male,Other,63183.138009817136,Clerk,,,,J45,"Shortness of breath, Wheezing",,Yes,Surgery,Worsened,,H001,Yes,,Hospital EMR,Stable,,No
+,,,52.6487041574463,Male,Asian,31726.151830984498,Teacher,,,,J45,"Wheezing, Shortness of breath",,Yes,Medication,Improved,,H003,No,,Clinical Trial,Stable,,No
+,,,-38.36317394567863,Male,White,47512.20567746106,Teacher,,,,E11,,,No,Surgery,No Change,,H002,Yes,,Clinical Trial,Worsening,,No
+,,,40.66801145243043,Female,Other,9122.32575249607,Retired,,,,I10,"Dizziness, Headache",,Yes,Medication,Improved,,H004,No,,Hospital EMR,Improving,,No
+,,,118.38336018141494,Female,White,57113.57472805291,Doctor,,,,K21,"Regurgitation, Heartburn",,No,Lifestyle Change,No Change,,H001,Yes,,Clinical Trial,Stable,,No
+,,,64.21310751556842,Other,Black,23439.512786185616,Retired,,,,I10,"Headache, Dizziness",,No,Lifestyle Change,Worsened,,H001,No,,Hospital EMR,Improving,,No
+,,,23.597537783394507,Female,Black,78670.48520687236,Nurse,,,,J45,"Wheezing, Shortness of breath",,No,Surgery,No Change,,H004,Yes,,Hospital EMR,Worsening,,No
+,,,55.55142817624931,Female,White,58229.833803582056,Nurse,,,,E11,,,Yes,Medication,No Change,,H001,No,,Insurance Claim,Stable,,No
+,,,91.99624174863015,Male,Other,84833.32030509198,Retired,,,,J45,"Shortness of breath, Wheezing",,No,Surgery,No Change,,H002,No,,Insurance Claim,Worsening,,Yes
+,,,79.96282063763438,Other,Hispanic,72383.93001594114,Student,,,,J45,"Wheezing, Shortness of breath",,Yes,Surgery,No Change,,H001,Yes,,Insurance Claim,Worsening,,No
+,,,10.252735811028543,Other,White,31890.305094645344,Engineer,,,,C34,,,No,Therapy,Worsened,,H001,No,,Hospital EMR,Improving,,No
+,,,-9.315985110573756,Male,Other,35908.934050533586,Nurse,,,,M54,"Stiffness, Back pain",,Yes,Lifestyle Change,Worsened,,H004,Yes,,Hospital EMR,Stable,,Yes
+,,,43.524245137004385,Female,White,27298.197676734588,,,,,K21,"Heartburn, Regurgitation",,No,Therapy,Worsened,,H002,Yes,,Insurance Claim,Worsening,,Yes
+,,,26.16719708458482,Female,White,92231.71075740366,Unemployed,,,,I10,"Headache, Dizziness",,No,Medication,No Change,,H001,Yes,,Hospital EMR,Worsening,31.808593415338066,No
+,,,110.15403697621088,Female,Asian,78711.47170674044,Clerk,,,,E11,,,Yes,Lifestyle Change,Improved,,H002,No,,Insurance Claim,Stable,-39.96932100113396,Yes
+,,,-17.92559226543041,Female,White,59587.845910043834,Student,,,,E11,,,Yes,Surgery,No Change,,H004,No,,Insurance Claim,Worsening,,Yes
+,,,18.12918262141146,Other,Asian,38440.582455130156,Retired,,,,K21,"Regurgitation, Heartburn",,Yes,Medication,Improved,,H001,Yes,,Clinical Trial,Worsening,,Yes
+,,,11.364590455583091,Male,White,21290.1765684089,Retired,,,,F32,,,No,Therapy,No Change,,H003,Yes,,Hospital EMR,Worsening,,No
+,,,90.22669633546539,Male,Black,74179.90875332172,Retired,,,,J45,"Shortness of breath, Wheezing",,Yes,Surgery,Worsened,,H002,Yes,,Clinical Trial,Worsening,,Yes
+,,,49.992173048777154,Female,Hispanic,-12199.684685062697,Student,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,Worsened,,H004,Yes,,Clinical Trial,Worsening,188.65526023249464,Yes
+,,,23.72491095099388,Other,Other,1429.755643056731,Nurse,,,,F32,,,No,Medication,Worsened,,H004,No,,Insurance Claim,Stable,,No
+,,,34.45306819868356,Female,White,48516.04168076368,Teacher,,,,M54,"Stiffness, Back pain",,No,Therapy,No Change,,H003,Yes,,Hospital EMR,Worsening,,Yes
+,,,6.332164127319398,Other,Other,94107.2947503572,Retired,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,Improved,,H003,Yes,,Hospital EMR,Worsening,,No
+,,,72.28068522855776,Female,Asian,108352.63590002645,Retired,,,,J45,"Wheezing, Shortness of breath",,No,Therapy,Improved,,H003,Yes,,Clinical Trial,Improving,58.1079352061452,No
+,,,30.072683812193702,Female,White,52715.09768443242,,,,,K21,"Regurgitation, Heartburn",,No,Therapy,No Change,,H001,No,,Clinical Trial,Stable,,No
+,,,-14.220892403806111,Female,Hispanic,81923.45109056936,Student,,,,I10,"Headache, Dizziness",,Yes,Surgery,Worsened,,H001,No,,Hospital EMR,Stable,,No
+,,,66.47211774683923,Male,Other,22577.73951795885,Engineer,,,,E11,,,No,Medication,No Change,,H004,Yes,,Clinical Trial,Worsening,,No
+,,,12.418654655380653,Male,Other,43135.831289484006,Nurse,,,,J45,"Wheezing, Shortness of breath",,No,Therapy,Worsened,,H001,Yes,,Hospital EMR,Stable,,Yes
+,,,83.65985633184872,Male,Asian,70539.19119017737,,,,,E11,,,Yes,Medication,No Change,,H004,Yes,,Hospital EMR,Improving,,No
+,,,0.6917479592075253,Female,Other,52885.88727030865,Clerk,,,,F32,,,No,Lifestyle Change,No Change,,H002,No,,Clinical Trial,Improving,,Yes
+,,,54.06629379187636,Female,Other,107981.21829707568,Doctor,,,,K21,"Heartburn, Regurgitation",,No,Therapy,Worsened,,H002,Yes,,Hospital EMR,Stable,,Yes
+,,,66.03672263279715,Female,Asian,15361.077695467491,Doctor,,,,C34,,,Yes,Surgery,Improved,,H001,Yes,,Insurance Claim,Improving,,No
+,,,6.578379461430229,Male,White,60660.52586327526,Student,,,,F32,,,Yes,Lifestyle Change,Worsened,,H001,Yes,,Clinical Trial,Stable,125.68480289670785,No
+,,,84.11524345097669,Female,White,22382.2224375688,Engineer,,,,E11,,,Yes,Lifestyle Change,Improved,,H002,No,,Clinical Trial,Stable,126.07739228509406,No
+,,,62.306055037913346,Other,Other,-329.4819418989309,Retired,,,,K21,"Heartburn, Regurgitation",,Yes,Therapy,Worsened,,H003,No,,Insurance Claim,Stable,,No
+,,,74.88190687619044,Male,Asian,3136.4794645954635,Engineer,,,,E11,,,No,Surgery,Improved,,H002,Yes,,Hospital EMR,Worsening,,Yes
+,,,70.39572934823298,Female,Asian,72241.59231939215,Clerk,,,,M54,"Stiffness, Back pain",,No,Medication,Improved,,H004,Yes,,Hospital EMR,Improving,,No
+,,,159.26635064741308,Male,Other,-6585.443392143818,,,,,C34,,,Yes,Therapy,No Change,,H003,Yes,,Clinical Trial,Stable,,Yes
+,,,16.86312005779491,Male,Hispanic,74794.68550978732,Retired,,,,C34,,,No,Lifestyle Change,Worsened,,H003,Yes,,Insurance Claim,Improving,,Yes
+,,,38.249571858448704,Other,Asian,30178.110405497177,Student,,,,F32,,,Yes,Medication,Worsened,,H001,Yes,,Clinical Trial,Worsening,,Yes
+,,,11.585553294801167,Other,Asian,-2797.1994913534254,Doctor,,,,K21,"Heartburn, Regurgitation",,Yes,Surgery,No Change,,H003,No,,Insurance Claim,Stable,,No
+,,,67.76898221024987,Other,Asian,107791.72804425191,Unemployed,,,,C34,,,Yes,Surgery,Improved,,H004,Yes,,Clinical Trial,Worsening,,No
+,,,17.334328952991896,Female,White,13620.353623018875,Retired,,,,I10,"Headache, Dizziness",,Yes,Surgery,Improved,,H004,No,,Insurance Claim,Improving,82.32213828809978,Yes
+,,,18.109210883013883,Other,Other,23140.372882302447,Nurse,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,No Change,,H004,Yes,,Insurance Claim,Worsening,,Yes
+,,,64.11284279485565,Female,Black,-100849.12806608892,Engineer,,,,J45,"Wheezing, Shortness of breath",,Yes,Therapy,No Change,,H004,No,,Clinical Trial,Stable,,Yes
+,,,89.34743901319145,Female,Asian,99779.23144722519,Retired,,,,K21,"Heartburn, Regurgitation",,No,Lifestyle Change,No Change,,H003,Yes,,Insurance Claim,Worsening,,Yes
+,,,103.08384350782707,Other,Hispanic,70186.07195316935,Clerk,,,,F32,,,Yes,Surgery,Improved,,H001,Yes,,Insurance Claim,Stable,,Yes
+,,,89.1346981682338,Other,Black,78233.71313757867,Clerk,,,,K21,"Heartburn, Regurgitation",,Yes,Surgery,Worsened,,H003,Yes,,Hospital EMR,Worsening,,Yes
+,,,-27.857511854289612,Other,White,60759.03200249823,Retired,,,,M54,"Back pain, Stiffness",,No,Medication,Improved,,H004,Yes,,Insurance Claim,Worsening,,Yes
+,,,16.838449918938053,Female,Hispanic,102342.59510457097,Unemployed,,,,K21,"Regurgitation, Heartburn",,No,Surgery,Worsened,,H001,Yes,,Hospital EMR,Stable,,No
+,,,0.22059432824378963,Female,Other,61675.849692968055,Retired,,,,J45,"Shortness of breath, Wheezing",,No,Lifestyle Change,No Change,,H002,No,,Hospital EMR,Worsening,,No
+,,,55.64167113842277,Male,Asian,-5328.609385465916,Retired,,,,M54,"Stiffness, Back pain",,Yes,Therapy,No Change,,H001,No,,Insurance Claim,Stable,,Yes
+,,,84.21070593688572,Male,Other,-25252.388474459076,Teacher,,,,I10,"Dizziness, Headache",,No,Therapy,No Change,,H002,Yes,,Hospital EMR,Worsening,,No
+,,,38.16393406030704,Other,Other,83850.64892521835,,,,,I10,"Headache, Dizziness",,No,Medication,No Change,,H003,No,,Insurance Claim,Stable,,No
+,,,22.447694905394812,Male,Black,58088.832368947384,Teacher,,,,C34,,,No,Medication,Improved,,H003,Yes,,Clinical Trial,Improving,,No
+,,,114.36960281116274,Male,Hispanic,35378.47457273011,Student,,,,E11,,,Yes,Surgery,Worsened,,H001,No,,Hospital EMR,Worsening,,No
+,,,29.00077953535282,Other,White,40046.0415918155,Retired,,,,C34,,,Yes,Medication,No Change,,H004,Yes,,Insurance Claim,Stable,121.20111939481484,No
+,,,45.690836144373606,Female,Black,87364.84940661065,Retired,,,,I10,"Headache, Dizziness",,No,Therapy,Improved,,H002,No,,Hospital EMR,Worsening,86.92585884108163,No
+,,,-31.169548773610543,Female,Other,45243.31268079784,Retired,,,,I10,"Headache, Dizziness",,Yes,Medication,No Change,,H002,Yes,,Clinical Trial,Stable,,No
+,,,56.83798251027838,Other,White,-14002.46480416696,Unemployed,,,,M54,"Back pain, Stiffness",,No,Therapy,Worsened,,H002,Yes,,Clinical Trial,Worsening,,No
+,,,-16.287567650040998,Female,White,53638.01106205178,Clerk,,,,I10,"Headache, Dizziness",,No,Medication,Worsened,,H001,Yes,,Hospital EMR,Stable,41.974119926292694,No
+,,,21.45498136283348,Male,Black,56853.68230401774,Teacher,,,,K21,"Heartburn, Regurgitation",,No,Medication,Worsened,,H004,Yes,,Clinical Trial,Worsening,,No
+,,,72.65761578232447,Male,Hispanic,110087.00117810676,Unemployed,,,,E11,,,No,Therapy,No Change,,H001,No,,Insurance Claim,Stable,,Yes
+,,,108.44711748352594,Female,Hispanic,105160.80431266845,Retired,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,No Change,,H001,No,,Hospital EMR,Worsening,,No
+,,,84.73154724431512,Other,Black,61540.985555881125,Clerk,,,,F32,,,No,Surgery,Improved,,H004,Yes,,Insurance Claim,Improving,,No
+,,,-9.386846034247574,Female,Black,10656.161451113761,Clerk,,,,K21,"Regurgitation, Heartburn",,No,Medication,Improved,,H004,Yes,,Clinical Trial,Stable,29.719329152871488,No
+,,,22.94446873495057,Female,Other,16976.113047634113,Engineer,,,,I10,"Headache, Dizziness",,Yes,Lifestyle Change,No Change,,H002,Yes,,Clinical Trial,Stable,,No
+,,,66.62045474692262,Female,Asian,90035.78181090366,Retired,,,,J45,"Shortness of breath, Wheezing",,Yes,Medication,No Change,,H003,Yes,,Hospital EMR,Improving,,No
+,,,101.81144534648746,Female,Black,82521.08310835644,Retired,,,,E11,,,Yes,Therapy,No Change,,H004,Yes,,Clinical Trial,Improving,,Yes
+,,,2.3945819380361364,Female,Asian,196278.44847892364,Teacher,,,,I10,"Headache, Dizziness",,Yes,Therapy,No Change,,H002,Yes,,Hospital EMR,Improving,,No
+,,,64.83482737027552,Male,Other,60405.67800800224,Nurse,,,,M54,"Back pain, Stiffness",,Yes,Surgery,No Change,,H001,Yes,,Hospital EMR,Improving,,No
+,,,23.731511362093997,Other,Hispanic,-40466.86564868946,Retired,,,,J45,"Wheezing, Shortness of breath",,Yes,Therapy,No Change,,H003,Yes,,Clinical Trial,Worsening,,Yes
+,,,49.68606863209878,Other,Hispanic,114847.91343029855,Retired,,,,K21,"Heartburn, Regurgitation",,Yes,Surgery,No Change,,H004,No,,Insurance Claim,Improving,,Yes
+,,,77.07374562898056,Other,Asian,89933.89987416092,Engineer,,,,M54,"Stiffness, Back pain",,Yes,Therapy,No Change,,H001,No,,Insurance Claim,Stable,,Yes
+,,,58.74807266971162,Female,Black,-14254.120893603384,Nurse,,,,K21,"Heartburn, Regurgitation",,Yes,Lifestyle Change,Worsened,,H002,No,,Clinical Trial,Improving,,No
+,,,9.171850157487464,Female,Black,49284.057861325,Clerk,,,,J45,"Wheezing, Shortness of breath",,Yes,Lifestyle Change,Worsened,,H003,Yes,,Clinical Trial,Worsening,,Yes
+,,,-8.273433888809226,Other,Asian,22806.52034206233,Clerk,,,,I10,"Dizziness, Headache",,No,Lifestyle Change,Improved,,H004,No,,Clinical Trial,Improving,,Yes
+,,,43.789195568261206,Other,Other,44484.02415972033,Teacher,,,,J45,"Shortness of breath, Wheezing",,No,Surgery,Worsened,,H003,No,,Hospital EMR,Worsening,,Yes
+,,,22.108530894203327,Other,Hispanic,33529.17193294247,Engineer,,,,C34,,,No,Surgery,No Change,,H004,No,,Clinical Trial,Improving,,Yes
+,,,60.32703317442845,Other,White,42561.354955210634,Clerk,,,,E11,,,Yes,Medication,Worsened,,H003,No,,Insurance Claim,Worsening,,No
+,,,86.75729056727907,Female,Asian,79932.2908796201,Clerk,,,,E11,,,No,Surgery,No Change,,H002,No,,Hospital EMR,Worsening,101.4217780338438,Yes
+,,,61.33859847219931,Female,White,140097.5085848865,Retired,,,,F32,,,Yes,Surgery,Worsened,,H002,Yes,,Clinical Trial,Stable,,No
+,,,48.33333010024611,Female,Asian,35216.056145801624,Clerk,,,,J45,"Wheezing, Shortness of breath",,Yes,Surgery,Improved,,H004,No,,Clinical Trial,Worsening,,Yes
+,,,-29.660811331407714,Male,Asian,89655.87305108382,Doctor,,,,J45,"Wheezing, Shortness of breath",,No,Surgery,Worsened,,H001,Yes,,Hospital EMR,Worsening,,No
+,,,59.37797565431514,Male,Asian,38121.04248490765,Student,,,,C34,,,Yes,Surgery,Improved,,H003,Yes,,Clinical Trial,Worsening,235.0197439865065,No
+,,,119.72436738894837,Female,Hispanic,100474.85549126932,Nurse,,,,E11,,,No,Therapy,Worsened,,H003,Yes,,Hospital EMR,Stable,,Yes
+,,,34.368288303995776,Female,Other,117889.64747933141,Retired,,,,E11,,,Yes,Lifestyle Change,Worsened,,H001,Yes,,Insurance Claim,Stable,,Yes
+,,,-7.961290342531374,Other,Asian,5161.13011855651,Retired,,,,C34,,,Yes,Therapy,Improved,,H004,Yes,,Clinical Trial,Worsening,,Yes
+,,,79.9890124419124,Female,Other,82085.43079298778,,,,,E11,,,No,Surgery,Improved,,H003,Yes,,Clinical Trial,Stable,,No
+,,,45.7117373070588,Male,Black,16457.595279295667,Doctor,,,,E11,,,No,Medication,Improved,,H004,No,,Insurance Claim,Stable,,Yes
+,,,52.08762131742694,Other,Hispanic,151000.8434949534,Unemployed,,,,J45,"Wheezing, Shortness of breath",,Yes,Medication,Improved,,H002,Yes,,Clinical Trial,Worsening,,Yes
+,,,-23.77755880556697,Female,Black,37831.57757945129,Nurse,,,,F32,,,Yes,Surgery,Worsened,,H004,No,,Hospital EMR,Worsening,,Yes
+,,,56.87142043330974,Female,Black,97424.30187427737,Teacher,,,,F32,,,No,Therapy,No Change,,H001,Yes,,Hospital EMR,Worsening,,No
+,,,-37.86595449366147,Other,Other,51793.31946469759,Student,,,,I10,"Headache, Dizziness",,No,Surgery,Improved,,H004,Yes,,Hospital EMR,Worsening,,No
+,,,82.79427373708958,Other,White,50183.00251390477,Retired,,,,K21,"Regurgitation, Heartburn",,Yes,Surgery,Improved,,H001,No,,Insurance Claim,Improving,,No
+,,,86.92876530944463,Female,Hispanic,63754.738463319234,Nurse,,,,J45,"Shortness of breath, Wheezing",,Yes,Lifestyle Change,Improved,,H003,No,,Insurance Claim,Worsening,,No
+,,,68.34599121536203,Female,Asian,28052.784524345407,,,,,E11,,,Yes,Therapy,No Change,,H003,No,,Insurance Claim,Improving,,No
+,,,108.4370136286112,Female,White,12694.23627836111,Unemployed,,,,M54,"Back pain, Stiffness",,Yes,Therapy,No Change,,H002,No,,Clinical Trial,Stable,,No
+,,,49.59039986194551,Other,White,-24014.99277840551,Retired,,,,F32,,,Yes,Surgery,No Change,,H002,Yes,,Hospital EMR,Stable,,Yes
+,,,112.79820473183825,Male,White,21416.0948810963,Retired,,,,M54,"Stiffness, Back pain",,No,Therapy,No Change,,H002,Yes,,Clinical Trial,Stable,,No
+,,,106.28027954003275,Female,Asian,46260.634561824896,Retired,,,,C34,,,Yes,Surgery,No Change,,H003,Yes,,Insurance Claim,Improving,,No
+,,,44.06680079406625,Male,Other,42001.44777334426,Student,,,,J45,"Shortness of breath, Wheezing",,No,Therapy,Worsened,,H002,No,,Insurance Claim,Worsening,76.91826704086911,Yes
+,,,52.855395676541505,Male,Hispanic,68015.30976265954,Teacher,,,,M54,"Stiffness, Back pain",,No,Medication,Worsened,,H003,No,,Clinical Trial,Improving,,No
+,,,-6.387503662750214,Male,Hispanic,72773.11568423941,,,,,C34,,,No,Medication,No Change,,H003,No,,Clinical Trial,Stable,109.19415851041072,Yes
+,,,80.33971883165641,Other,Other,45316.641530053486,Engineer,,,,F32,,,Yes,Therapy,Improved,,H001,Yes,,Insurance Claim,Stable,,No
+,,,36.394819251907066,Other,White,75915.26383963687,Teacher,,,,J45,"Wheezing, Shortness of breath",,No,Medication,Improved,,H003,No,,Clinical Trial,Worsening,,Yes
+,,,20.126414679973156,Male,White,67661.42108666273,Student,,,,J45,"Shortness of breath, Wheezing",,Yes,Medication,Improved,,H004,Yes,,Clinical Trial,Stable,,Yes
+,,,59.79281784523337,Male,Hispanic,63395.28815879457,Retired,,,,M54,"Back pain, Stiffness",,No,Therapy,Worsened,,H003,No,,Hospital EMR,Stable,,No
+,,,19.485497089513956,Other,Black,-49433.80137235754,Retired,,,,M54,"Stiffness, Back pain",,No,Surgery,No Change,,H004,No,,Hospital EMR,Worsening,,No
+,,,76.3778920308861,Male,White,28040.7945601013,Student,,,,C34,,,No,Medication,No Change,,H004,Yes,,Insurance Claim,Worsening,,Yes
+,,,47.46694219023976,Male,Asian,-35580.29612522418,Retired,,,,E11,,,Yes,Surgery,Improved,,H002,No,,Clinical Trial,Worsening,,Yes
+,,,83.98516618493107,Other,White,28228.196629273843,Doctor,,,,K21,"Heartburn, Regurgitation",,Yes,Surgery,Worsened,,H001,No,,Clinical Trial,Stable,,No
+,,,24.406307500054616,Male,Asian,70349.15685279765,Nurse,,,,C34,,,No,Medication,Improved,,H001,Yes,,Hospital EMR,Stable,,Yes
+,,,80.46000392046591,Male,White,-34496.943239671484,Nurse,,,,M54,"Stiffness, Back pain",,No,Medication,Improved,,H004,No,,Clinical Trial,Worsening,-13.641733738245364,No
+,,,47.81613266276137,Other,Other,78724.61565934347,Retired,,,,M54,"Stiffness, Back pain",,No,Medication,No Change,,H002,No,,Insurance Claim,Stable,,Yes
+,,,73.39485233561787,Male,Black,45607.58758754703,Student,,,,E11,,,No,Therapy,No Change,,H002,Yes,,Hospital EMR,Improving,,No
+,,,-16.19570779275498,Other,Other,150430.69620536544,,,,,E11,,,Yes,Medication,No Change,,H002,No,,Insurance Claim,Worsening,,No
+,,,5.161321138657435,Female,Black,25864.783000676915,Student,,,,I10,"Dizziness, Headache",,Yes,Lifestyle Change,Worsened,,H004,Yes,,Insurance Claim,Stable,,Yes
+,,,2.0819642415591697,Other,Black,23985.272123072253,Teacher,,,,K21,"Heartburn, Regurgitation",,No,Medication,Worsened,,H003,No,,Hospital EMR,Improving,,Yes
+,,,163.80512498516717,Female,Other,-22191.412013973808,Retired,,,,I10,"Dizziness, Headache",,Yes,Lifestyle Change,Worsened,,H002,No,,Clinical Trial,Worsening,,No
+,,,-6.677865956083698,Female,Asian,6232.025516883732,,,,,J45,"Wheezing, Shortness of breath",,Yes,Surgery,Improved,,H001,No,,Hospital EMR,Stable,,No
+,,,21.661358766069842,Other,Black,14350.589731520286,Unemployed,,,,I10,"Dizziness, Headache",,No,Surgery,Improved,,H004,Yes,,Insurance Claim,Worsening,,Yes
+,,,37.303913879247126,Male,Black,95911.26331685095,Student,,,,E11,,,No,Therapy,Improved,,H004,No,,Clinical Trial,Worsening,,No
+,,,65.86708097889084,Male,Asian,34919.62974256758,Unemployed,,,,F32,,,No,Surgery,Worsened,,H001,Yes,,Clinical Trial,Worsening,,Yes
+,,,0.6297656183370188,Male,Asian,62758.3190879128,Doctor,,,,F32,,,Yes,Therapy,Improved,,H001,No,,Insurance Claim,Stable,40.788628447726644,No
+,,,64.42933503771786,Other,Hispanic,25397.34735528702,Teacher,,,,I10,"Dizziness, Headache",,Yes,Surgery,No Change,,H004,No,,Hospital EMR,Improving,,No
+,,,27.25167202527595,Female,Black,45256.17180832887,Clerk,,,,C34,,,Yes,Therapy,Worsened,,H004,Yes,,Clinical Trial,Worsening,,Yes
+,,,89.35483900033617,Other,Hispanic,33964.81015878294,Retired,,,,J45,"Wheezing, Shortness of breath",,No,Surgery,Worsened,,H002,Yes,,Insurance Claim,Improving,,No
+,,,55.98067362267328,Other,White,62668.84798794731,Teacher,,,,J45,"Shortness of breath, Wheezing",,Yes,Lifestyle Change,Improved,,H002,No,,Insurance Claim,Worsening,,Yes
+,,,99.8732947632549,Other,Black,54818.86942950268,,,,,F32,,,Yes,Surgery,No Change,,H004,Yes,,Insurance Claim,Worsening,,Yes
+,,,-2.623306822243549,Female,Asian,116437.97279523761,Retired,,,,M54,"Back pain, Stiffness",,Yes,Medication,Worsened,,H002,No,,Hospital EMR,Stable,-54.21226818850488,No
+,,,28.537983975295873,Other,Other,40273.70620557646,Retired,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,Improved,,H001,Yes,,Clinical Trial,Improving,,No
+,,,53.493440531931775,Other,Hispanic,49190.527609918674,Student,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,No Change,,H003,Yes,,Hospital EMR,Improving,,No
+,,,65.29943306577849,Male,Black,4577.403982022664,Engineer,,,,M54,"Back pain, Stiffness",,No,Lifestyle Change,Improved,,H002,No,,Insurance Claim,Stable,,No
+,,,29.539541029428257,Male,Hispanic,105634.68260915473,Retired,,,,I10,"Dizziness, Headache",,No,Therapy,Improved,,H002,No,,Insurance Claim,Stable,,Yes
+,,,63.11530666390034,Other,Asian,48562.845589421406,Student,,,,F32,,,No,Medication,Improved,,H002,Yes,,Clinical Trial,Worsening,,Yes
+,,,29.17361271225914,Male,Other,108652.16613376116,Clerk,,,,F32,,,No,Medication,Worsened,,H004,Yes,,Insurance Claim,Stable,,Yes
+,,,9.295655188757301,Other,Asian,45417.19046682575,Retired,,,,M54,"Stiffness, Back pain",,Yes,Lifestyle Change,No Change,,H002,No,,Clinical Trial,Worsening,17.83479542188536,Yes
+,,,8.17173896838946,Female,Black,26966.349000432183,Student,,,,E11,,,Yes,Medication,Improved,,H003,No,,Clinical Trial,Improving,,No
+,,,59.0631444790235,Female,Black,100388.70689645008,Doctor,,,,E11,,,No,Medication,Worsened,,H001,No,,Insurance Claim,Stable,,No
+,,,22.201712449600052,Female,Hispanic,35171.27284404336,Nurse,,,,J45,"Wheezing, Shortness of breath",,No,Surgery,Improved,,H002,No,,Hospital EMR,Worsening,,Yes
+,,,-26.960776931611917,Other,Asian,1544.5863357396793,Retired,,,,I10,"Headache, Dizziness",,Yes,Lifestyle Change,Worsened,,H003,No,,Clinical Trial,Worsening,,Yes
+,,,36.520671323096025,Female,Black,90531.42118144676,,,,,I10,"Headache, Dizziness",,No,Therapy,Improved,,H003,No,,Insurance Claim,Worsening,,No
+,,,40.472732671602536,Male,Black,36268.6734279275,Teacher,,,,F32,,,No,Medication,Improved,,H003,Yes,,Clinical Trial,Improving,,Yes
+,,,81.55743698474528,Male,White,38641.235194622095,Unemployed,,,,I10,"Dizziness, Headache",,Yes,Therapy,Improved,,H002,Yes,,Hospital EMR,Worsening,,No
+,,,41.724589368930275,Other,Asian,-16008.461597253365,Retired,,,,I10,"Headache, Dizziness",,Yes,Lifestyle Change,Improved,,H003,No,,Hospital EMR,Improving,,No
+,,,62.780304479718566,Female,Other,26720.853185220847,Unemployed,,,,E11,,,No,Surgery,Worsened,,H004,Yes,,Insurance Claim,Worsening,,Yes
+,,,109.59447277226487,Female,White,106136.2186158949,Student,,,,J45,"Shortness of breath, Wheezing",,Yes,Surgery,Worsened,,H002,Yes,,Hospital EMR,Improving,,No
+,,,-21.412316630689574,Male,Hispanic,-26979.31272640621,Clerk,,,,I10,"Dizziness, Headache",,No,Lifestyle Change,Improved,,H003,Yes,,Insurance Claim,Improving,,Yes
+,,,56.710354297491705,Female,Black,-13580.914384378342,Student,,,,M54,"Back pain, Stiffness",,No,Medication,Improved,,H003,Yes,,Clinical Trial,Improving,,Yes
+,,,79.81416321193666,Female,Other,41406.159948530774,Student,,,,J45,"Shortness of breath, Wheezing",,No,Therapy,No Change,,H002,Yes,,Hospital EMR,Improving,,Yes
+,,,101.6412805065816,Male,Hispanic,85145.07662680652,Teacher,,,,J45,"Shortness of breath, Wheezing",,No,Lifestyle Change,No Change,,H003,Yes,,Insurance Claim,Worsening,,Yes
+,,,-5.937099197096122,Other,White,81241.23970157569,Clerk,,,,I10,"Dizziness, Headache",,Yes,Medication,Improved,,H001,No,,Hospital EMR,Worsening,,Yes
+,,,135.20632194497173,Female,Black,78225.6629200617,Nurse,,,,C34,,,Yes,Surgery,No Change,,H002,No,,Clinical Trial,Worsening,,No
+,,,2.4146186568917365,Other,Black,132418.51103831176,Retired,,,,M54,"Back pain, Stiffness",,No,Lifestyle Change,No Change,,H002,Yes,,Clinical Trial,Worsening,-109.2026910204161,No
+,,,-8.257262072121165,Other,Asian,82032.56929475517,Engineer,,,,F32,,,No,Lifestyle Change,Improved,,H001,Yes,,Clinical Trial,Worsening,,No
+,,,-45.69161248241299,Female,Asian,16633.179616414724,Retired,,,,M54,"Stiffness, Back pain",,Yes,Surgery,Worsened,,H004,Yes,,Clinical Trial,Stable,,Yes
+,,,31.268288399208004,Female,Other,4038.859454848396,Doctor,,,,C34,,,Yes,Lifestyle Change,No Change,,H001,Yes,,Hospital EMR,Improving,,No
+,,,14.19786683246971,Female,Black,99509.79138663616,Clerk,,,,C34,,,Yes,Therapy,Improved,,H002,Yes,,Hospital EMR,Stable,57.08556682778481,Yes
+,,,30.50396732840712,Female,Other,9901.4234868975,Nurse,,,,K21,"Regurgitation, Heartburn",,No,Lifestyle Change,Improved,,H002,No,,Clinical Trial,Improving,,No
+,,,75.96832941596747,Male,White,47199.68744903399,Retired,,,,K21,"Heartburn, Regurgitation",,Yes,Lifestyle Change,No Change,,H002,No,,Clinical Trial,Improving,,Yes
+,,,-53.915431883052364,Female,Hispanic,81323.76048808286,,,,,I10,"Dizziness, Headache",,No,Surgery,Worsened,,H001,No,,Clinical Trial,Worsening,,Yes
+,,,35.512010519231964,Other,Other,32308.06620586376,Nurse,,,,C34,,,No,Lifestyle Change,No Change,,H001,No,,Insurance Claim,Worsening,,Yes
+,,,29.594850003268142,Other,Asian,152987.49313457066,Retired,,,,I10,"Headache, Dizziness",,Yes,Therapy,No Change,,H002,Yes,,Hospital EMR,Stable,,No
+,,,19.83546449371664,Female,Other,42894.08178249201,Retired,,,,C34,,,Yes,Therapy,Improved,,H001,No,,Clinical Trial,Stable,111.1801801673015,No
+,,,204.54543643504365,Male,White,106651.5007476381,Nurse,,,,M54,"Back pain, Stiffness",,No,Surgery,Worsened,,H001,No,,Hospital EMR,Worsening,,No
+,,,32.22641891527951,Female,White,33131.710616678865,Nurse,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,No Change,,H004,Yes,,Hospital EMR,Stable,,Yes
+,,,10.357863548034414,Female,Black,8026.113689558406,Teacher,,,,M54,"Stiffness, Back pain",,Yes,Medication,Worsened,,H003,Yes,,Hospital EMR,Improving,,Yes
+,,,158.42365825624879,Male,Hispanic,94562.88657644176,Clerk,,,,I10,"Headache, Dizziness",,Yes,Therapy,Improved,,H002,No,,Hospital EMR,Improving,,Yes
+,,,9.760204282422833,Other,Black,91108.76068853102,Retired,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,Worsened,,H004,No,,Insurance Claim,Improving,,Yes
+,,,69.1009720408644,Male,Black,65057.383868024815,Nurse,,,,I10,"Headache, Dizziness",,No,Surgery,No Change,,H002,Yes,,Hospital EMR,Improving,,Yes
+,,,-24.01341383225197,Female,Other,5258.059726205654,Clerk,,,,I10,"Headache, Dizziness",,Yes,Therapy,Improved,,H003,Yes,,Hospital EMR,Improving,,No
+,,,89.83007944474322,Female,White,14124.014841783492,Retired,,,,F32,,,Yes,Medication,No Change,,H002,No,,Clinical Trial,Worsening,,No
+,,,1.780367713039587,Male,Other,11675.297670494438,Unemployed,,,,I10,"Dizziness, Headache",,Yes,Therapy,Worsened,,H003,No,,Clinical Trial,Stable,,No
+,,,49.0708268263817,Female,Asian,9808.21868313546,Doctor,,,,E11,,,No,Therapy,Worsened,,H002,Yes,,Hospital EMR,Stable,,Yes
+,,,17.36830148285014,Other,Hispanic,35525.570500250644,Teacher,,,,M54,"Back pain, Stiffness",,Yes,Lifestyle Change,No Change,,H001,Yes,,Hospital EMR,Worsening,,No
+,,,69.26048631527611,Female,White,73187.51418481117,Clerk,,,,K21,"Regurgitation, Heartburn",,Yes,Therapy,Improved,,H002,No,,Insurance Claim,Stable,,No
+,,,-18.296562860546274,Other,White,70669.89951556927,Engineer,,,,K21,"Regurgitation, Heartburn",,Yes,Surgery,No Change,,H002,No,,Insurance Claim,Improving,,Yes
+,,,29.749888315843556,Female,Hispanic,35075.16500754373,Student,,,,J45,"Shortness of breath, Wheezing",,No,Medication,Improved,,H004,Yes,,Hospital EMR,Stable,,Yes
+,,,76.67615130045795,Female,White,12417.712244878396,Clerk,,,,I10,"Headache, Dizziness",,Yes,Lifestyle Change,No Change,,H001,Yes,,Insurance Claim,Improving,55.38554963429527,No
+,,,40.75782034295095,Female,Hispanic,12905.183903494291,Retired,,,,C34,,,Yes,Medication,Worsened,,H004,Yes,,Insurance Claim,Improving,,Yes
+,,,68.31722114799209,Other,Other,66239.47758510907,Retired,,,,J45,"Shortness of breath, Wheezing",,No,Therapy,Improved,,H001,Yes,,Hospital EMR,Stable,,No
+,,,25.891334468783377,Female,Other,64826.7895117012,Teacher,,,,C34,,,No,Medication,Improved,,H001,Yes,,Hospital EMR,Worsening,,No
+,,,1.1648135258394472,Other,Black,51201.663937325146,Teacher,,,,K21,"Regurgitation, Heartburn",,Yes,Surgery,No Change,,H001,Yes,,Hospital EMR,Stable,,Yes
+,,,73.76745963211566,Male,Hispanic,48692.63793981381,Retired,,,,K21,"Heartburn, Regurgitation",,Yes,Lifestyle Change,Worsened,,H001,No,,Clinical Trial,Stable,41.49860488993965,Yes
+,,,126.19288468438128,Other,Hispanic,-28090.920793533234,Nurse,,,,F32,,,Yes,Therapy,No Change,,H003,Yes,,Hospital EMR,Improving,,Yes
+,,,1.03856986470197,Male,White,82227.78326151063,,,,,M54,"Stiffness, Back pain",,Yes,Therapy,Worsened,,H001,Yes,,Clinical Trial,Improving,,No
+,,,22.20208565539497,Female,White,-16631.863715015887,Engineer,,,,J45,"Wheezing, Shortness of breath",,Yes,Surgery,Improved,,H003,Yes,,Hospital EMR,Worsening,,No
+,,,59.36941994966952,Other,Asian,65908.23591061584,Retired,,,,I10,"Headache, Dizziness",,No,Therapy,Improved,,H004,No,,Clinical Trial,Improving,,No
+,,,79.48078475339236,Female,Asian,21999.792272820094,Retired,,,,F32,,,Yes,Medication,Worsened,,H004,No,,Clinical Trial,Worsening,,Yes
+,,,144.95298919253156,Male,Hispanic,1008.936593513863,Teacher,,,,F32,,,Yes,Surgery,Worsened,,H002,No,,Clinical Trial,Worsening,,Yes
+,,,10.009468221245625,Other,White,72723.98119349945,Retired,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,No Change,,H001,No,,Clinical Trial,Worsening,,Yes
+,,,90.33181197353125,Other,White,-1440.3846723921567,Clerk,,,,I10,"Dizziness, Headache",,Yes,Therapy,Improved,,H003,Yes,,Clinical Trial,Improving,,No
+,,,-0.3907255210854146,Female,Other,89001.63287109502,Doctor,,,,J45,"Shortness of breath, Wheezing",,Yes,Surgery,Improved,,H004,No,,Clinical Trial,Worsening,,No
+,,,2.6553687744406247,Female,Asian,41138.91726242965,Doctor,,,,C34,,,No,Surgery,Worsened,,H001,Yes,,Hospital EMR,Worsening,,Yes
+,,,44.06352810090105,Other,Other,70091.30510959998,Doctor,,,,E11,,,Yes,Surgery,No Change,,H001,No,,Insurance Claim,Worsening,,No
+,,,50.41430295355476,Other,Other,100960.9112732245,Retired,,,,M54,"Stiffness, Back pain",,No,Therapy,No Change,,H001,Yes,,Clinical Trial,Worsening,121.27650910504406,No
+,,,143.90648535799028,Other,Other,96611.5165018045,Unemployed,,,,C34,,,No,Lifestyle Change,Improved,,H002,Yes,,Insurance Claim,Improving,,Yes
+,,,35.54377813486316,Male,Hispanic,86464.49197963734,Doctor,,,,J45,"Wheezing, Shortness of breath",,Yes,Medication,Improved,,H003,Yes,,Insurance Claim,Worsening,,Yes
+,,,21.443004779173354,Other,White,90662.58866047666,Retired,,,,C34,,,No,Therapy,Improved,,H004,No,,Hospital EMR,Worsening,,No
+,,,12.429180841084241,Female,Black,53262.416790581396,Nurse,,,,M54,"Stiffness, Back pain",,Yes,Lifestyle Change,Improved,,H003,No,,Hospital EMR,Worsening,,No
+,,,123.76397904536663,Other,Asian,37852.343321384935,Retired,,,,E11,,,Yes,Medication,No Change,,H003,No,,Clinical Trial,Improving,,Yes
+,,,-21.116224584954793,Male,Black,150852.89452251774,Student,,,,K21,"Regurgitation, Heartburn",,Yes,Therapy,Worsened,,H002,No,,Insurance Claim,Stable,,No
+,,,-0.5491436221002193,Other,Asian,27109.172825684225,Retired,,,,C34,,,No,Lifestyle Change,No Change,,H003,Yes,,Clinical Trial,Improving,,No
+,,,-16.88780889388287,Female,Hispanic,34244.65232609146,Unemployed,,,,I10,"Dizziness, Headache",,Yes,Surgery,No Change,,H003,Yes,,Hospital EMR,Stable,,No
+,,,-1.0083784490566252,Male,Asian,16356.260899989218,Doctor,,,,C34,,,No,Surgery,Worsened,,H001,No,,Hospital EMR,Worsening,,No
+,,,108.28104941636084,Male,Other,43929.88320039498,Engineer,,,,M54,"Stiffness, Back pain",,Yes,Therapy,Worsened,,H004,No,,Insurance Claim,Improving,,No
+,,,22.066258064272233,Male,Hispanic,86321.49093088595,Retired,,,,K21,"Heartburn, Regurgitation",,No,Surgery,No Change,,H004,No,,Hospital EMR,Stable,,No
+,,,-20.528440410678115,Male,Other,94942.6380581486,Retired,,,,E11,,,No,Therapy,Improved,,H001,Yes,,Insurance Claim,Stable,,Yes
+,,,40.287775208005854,Female,Other,67552.71702583403,Nurse,,,,M54,"Stiffness, Back pain",,No,Surgery,Improved,,H004,No,,Clinical Trial,Worsening,,Yes
+,,,4.17176760124859,Female,Other,57303.60704679768,Doctor,,,,J45,"Wheezing, Shortness of breath",,Yes,Therapy,No Change,,H003,No,,Hospital EMR,Stable,,Yes
+,,,45.65370839738501,Other,Hispanic,173385.530158151,Engineer,,,,C34,,,No,Medication,No Change,,H003,No,,Hospital EMR,Stable,,No
+,,,84.89711796257221,Other,White,84781.96588364088,Doctor,,,,F32,,,No,Medication,No Change,,H002,No,,Hospital EMR,Worsening,,Yes
+,,,10.614492625482757,Male,Hispanic,38335.70399895853,Unemployed,,,,E11,,,No,Medication,Worsened,,H001,No,,Insurance Claim,Stable,,Yes
+,,,92.81637862553094,Female,Other,30871.42753836023,Teacher,,,,K21,"Regurgitation, Heartburn",,Yes,Therapy,No Change,,H003,Yes,,Insurance Claim,Stable,,No
+,,,-0.4847077784992351,Female,Other,67607.90122032557,Student,,,,F32,,,No,Surgery,No Change,,H002,No,,Clinical Trial,Stable,59.55654887339987,No
+,,,-10.019608126160422,Female,Other,53083.87326782808,Retired,,,,C34,,,Yes,Medication,Improved,,H003,Yes,,Hospital EMR,Stable,,No
+,,,27.112329637107777,Female,Other,-17991.47577374002,Student,,,,E11,,,No,Surgery,Worsened,,H004,Yes,,Clinical Trial,Improving,,No
+,,,75.41604491057002,Female,White,55951.34641523764,,,,,I10,"Headache, Dizziness",,Yes,Lifestyle Change,Improved,,H001,Yes,,Hospital EMR,Stable,,Yes
+,,,108.88332519391061,Female,Other,112337.97939159666,Teacher,,,,K21,"Heartburn, Regurgitation",,Yes,Medication,Improved,,H001,No,,Clinical Trial,Worsening,,Yes
+,,,56.57649353506875,Female,Asian,66129.9827089824,Teacher,,,,I10,"Headache, Dizziness",,Yes,Therapy,Improved,,H003,Yes,,Clinical Trial,Improving,69.89273980353462,Yes
+,,,162.78960184742542,Male,White,47154.17395847485,Retired,,,,K21,"Heartburn, Regurgitation",,No,Surgery,No Change,,H002,Yes,,Clinical Trial,Improving,,No
+,,,113.76454103306956,Female,Hispanic,77089.00348565025,Retired,,,,M54,"Back pain, Stiffness",,Yes,Therapy,Improved,,H001,No,,Clinical Trial,Worsening,,No
+,,,25.918175730843952,Female,Hispanic,68013.58926160265,Retired,,,,J45,"Shortness of breath, Wheezing",,Yes,Lifestyle Change,No Change,,H004,Yes,,Hospital EMR,Stable,,Yes
+,,,1.7636713994351823,Other,Hispanic,54912.570287291725,Retired,,,,F32,,,No,Lifestyle Change,No Change,,H002,No,,Insurance Claim,Stable,,Yes
+,,,27.74451591263268,Male,Asian,39065.17110844865,Doctor,,,,I10,"Headache, Dizziness",,No,Lifestyle Change,Worsened,,H002,No,,Clinical Trial,Worsening,,No
+,,,68.90496589572192,Female,Black,41553.68400083105,Retired,,,,J45,"Shortness of breath, Wheezing",,No,Medication,Improved,,H002,Yes,,Clinical Trial,Improving,,No
+,,,50.86011577087055,Male,Other,65173.053600555504,Engineer,,,,C34,,,No,Lifestyle Change,Worsened,,H003,No,,Hospital EMR,Improving,,Yes
+,,,91.54591984779012,Other,Other,119409.59435608517,Clerk,,,,J45,"Shortness of breath, Wheezing",,Yes,Medication,No Change,,H004,Yes,,Insurance Claim,Stable,,Yes
+,,,45.090253829023396,Male,Asian,85338.64192952243,Retired,,,,J45,"Wheezing, Shortness of breath",,Yes,Surgery,Worsened,,H002,No,,Insurance Claim,Stable,,Yes
+,,,106.84847704368438,Other,White,-7500.506881084535,Unemployed,,,,K21,"Regurgitation, Heartburn",,No,Lifestyle Change,No Change,,H004,No,,Clinical Trial,Improving,,No
+,,,44.39506435558494,Female,Hispanic,33393.76889325185,Doctor,,,,F32,,,Yes,Lifestyle Change,Worsened,,H004,No,,Hospital EMR,Improving,,Yes
+,,,5.081189589672163,Female,Hispanic,98638.63627131497,,,,,K21,"Heartburn, Regurgitation",,Yes,Medication,No Change,,H003,No,,Hospital EMR,Stable,,Yes
+,,,80.56709910268283,Female,White,-2865.452749042366,Engineer,,,,E11,,,Yes,Therapy,Worsened,,H002,Yes,,Hospital EMR,Worsening,,Yes
+,,,41.404612229116765,Other,Hispanic,33066.55851563448,Student,,,,F32,,,Yes,Lifestyle Change,Improved,,H001,No,,Insurance Claim,Stable,,Yes
+,,,24.611339568941055,Other,Other,25465.558730692952,Retired,,,,C34,,,Yes,Lifestyle Change,Improved,,H004,Yes,,Clinical Trial,Improving,,Yes
+,,,47.482962171106436,Female,Hispanic,45638.34321365526,Clerk,,,,I10,"Headache, Dizziness",,No,Therapy,No Change,,H001,No,,Hospital EMR,Worsening,,Yes
+,,,86.43581408372017,Male,Black,79241.57987801894,Doctor,,,,K21,"Regurgitation, Heartburn",,No,Surgery,Improved,,H004,Yes,,Clinical Trial,Worsening,,Yes
+,,,1.8654068233032093,Male,Asian,99000.49668114967,Retired,,,,I10,"Dizziness, Headache",,No,Therapy,No Change,,H001,No,,Clinical Trial,Improving,,Yes
+,,,3.768061698228756,Female,Hispanic,46206.06640957936,Engineer,,,,J45,"Shortness of breath, Wheezing",,No,Medication,Improved,,H003,No,,Clinical Trial,Worsening,,Yes
+,,,43.9992507210801,Male,Black,31564.1365923306,,,,,F32,,,No,Therapy,No Change,,H003,No,,Clinical Trial,Worsening,,No
+,,,36.509808213180065,Female,White,87450.8412266034,Teacher,,,,I10,"Dizziness, Headache",,Yes,Medication,Improved,,H004,No,,Insurance Claim,Improving,,Yes
+,,,59.45160231963857,Other,Black,19559.756374202792,Teacher,,,,I10,"Dizziness, Headache",,No,Medication,No Change,,H004,No,,Clinical Trial,Improving,,No
+,,,68.42787923776754,Female,Asian,-46601.79697522392,Student,,,,F32,,,No,Surgery,No Change,,H004,Yes,,Insurance Claim,Worsening,,No
+,,,115.66733684422063,Other,Asian,78305.8045979644,Nurse,,,,K21,"Heartburn, Regurgitation",,Yes,Surgery,Worsened,,H001,No,,Insurance Claim,Improving,,Yes
+,,,38.61876119855986,Female,Other,41032.2658322716,,,,,K21,"Heartburn, Regurgitation",,Yes,Therapy,No Change,,H001,No,,Clinical Trial,Improving,,Yes
+,,,11.219201026178508,Other,Hispanic,30986.568162405325,Engineer,,,,E11,,,No,Therapy,Worsened,,H002,Yes,,Insurance Claim,Worsening,,No
+,,,66.86570017087288,Male,Hispanic,98816.62635996894,Retired,,,,I10,"Headache, Dizziness",,Yes,Surgery,Worsened,,H002,No,,Clinical Trial,Worsening,94.94022171930747,Yes
+,,,102.85284878325554,Male,Hispanic,45030.727842908615,Nurse,,,,F32,,,Yes,Lifestyle Change,Worsened,,H002,No,,Clinical Trial,Stable,,No
+,,,-16.23532683757471,Other,Black,54308.57877518683,Nurse,,,,I10,"Dizziness, Headache",,Yes,Medication,Improved,,H001,Yes,,Hospital EMR,Worsening,,No
+,,,29.966805299048488,Female,Hispanic,17266.639407985316,Unemployed,,,,J45,"Shortness of breath, Wheezing",,No,Therapy,Improved,,H001,No,,Hospital EMR,Stable,,No
+,,,18.41121563199313,Other,Other,36504.151961999516,Unemployed,,,,J45,"Wheezing, Shortness of breath",,Yes,Surgery,Improved,,H003,No,,Hospital EMR,Worsening,,Yes
+,,,6.249853724263907,Other,Asian,51722.83263027803,Nurse,,,,J45,"Shortness of breath, Wheezing",,No,Medication,No Change,,H002,Yes,,Hospital EMR,Improving,,No
+,,,50.304383037665495,Female,Other,136938.9367724441,Retired,,,,E11,,,Yes,Surgery,No Change,,H001,Yes,,Clinical Trial,Improving,,Yes
+,,,86.2966821531257,Male,White,85336.00308978927,Clerk,,,,M54,"Stiffness, Back pain",,Yes,Surgery,Worsened,,H002,No,,Hospital EMR,Improving,,No
+,,,6.8158607159553934,Other,Black,62417.0006818941,Nurse,,,,J45,"Shortness of breath, Wheezing",,No,Surgery,No Change,,H004,Yes,,Hospital EMR,Worsening,,Yes
+,,,37.30754732070559,Other,Hispanic,56380.924241541536,Retired,,,,E11,,,Yes,Therapy,No Change,,H001,No,,Hospital EMR,Improving,,No
+,,,90.64531456295231,Female,Other,120552.61942491194,,,,,E11,,,No,Surgery,Improved,,H001,No,,Insurance Claim,Stable,,No
+,,,36.83101492271838,Male,Asian,59786.42924865009,,,,,E11,,,No,Surgery,No Change,,H002,Yes,,Insurance Claim,Improving,,No
+,,,23.75248818768957,Other,Hispanic,66001.55396140515,Teacher,,,,M54,"Back pain, Stiffness",,Yes,Medication,No Change,,H003,Yes,,Hospital EMR,Stable,-4.23571973577285,No
+,,,50.38162681767153,Male,Other,27961.507118299076,Unemployed,,,,C34,,,No,Therapy,No Change,,H001,No,,Hospital EMR,Improving,,Yes
+,,,66.88923955568056,Male,White,151805.17596846918,Clerk,,,,M54,"Back pain, Stiffness",,Yes,Lifestyle Change,Worsened,,H002,No,,Insurance Claim,Worsening,,Yes
+,,,103.45397894278682,Male,Asian,-27815.115273852876,Engineer,,,,I10,"Headache, Dizziness",,Yes,Lifestyle Change,Worsened,,H001,No,,Insurance Claim,Stable,,No
+,,,56.46202170590433,Other,Other,67674.5900193179,Unemployed,,,,J45,"Shortness of breath, Wheezing",,No,Surgery,Worsened,,H004,No,,Insurance Claim,Worsening,,No
+,,,-1.458364323319934,Female,White,-23098.320690015447,,,,,K21,"Heartburn, Regurgitation",,No,Medication,Improved,,H002,Yes,,Hospital EMR,Improving,,Yes
+,,,42.708156069259786,Male,White,84763.1310739762,Nurse,,,,C34,,,No,Therapy,Worsened,,H001,Yes,,Hospital EMR,Stable,,Yes
+,,,59.164713212484045,Male,Hispanic,45712.11703317122,Retired,,,,I10,"Dizziness, Headache",,Yes,Surgery,Worsened,,H003,Yes,,Insurance Claim,Stable,,Yes
+,,,15.159886545430668,Female,Asian,52196.339972475456,Unemployed,,,,I10,"Headache, Dizziness",,Yes,Medication,Worsened,,H004,No,,Clinical Trial,Stable,,No
+,,,6.143584030587421,Other,Asian,52105.936279739326,Nurse,,,,M54,"Back pain, Stiffness",,No,Medication,Improved,,H002,No,,Clinical Trial,Worsening,103.55911492808013,Yes
+,,,-5.76501529168436,Other,Other,69437.40527854544,Engineer,,,,F32,,,Yes,Therapy,Improved,,H001,Yes,,Clinical Trial,Improving,,No
+,,,57.07902523558253,Female,Black,33075.126558195545,Student,,,,F32,,,Yes,Surgery,No Change,,H004,No,,Clinical Trial,Worsening,,Yes
+,,,78.25866147699571,Male,Other,61339.962986172526,Engineer,,,,I10,"Dizziness, Headache",,Yes,Surgery,No Change,,H004,Yes,,Insurance Claim,Worsening,,No
+,,,22.115635618067184,Other,Hispanic,59236.380857372824,Retired,,,,E11,,,No,Medication,Worsened,,H002,Yes,,Hospital EMR,Worsening,,Yes
+,,,21.692876939331885,Female,Other,-45889.437168427656,Unemployed,,,,E11,,,Yes,Surgery,No Change,,H002,Yes,,Clinical Trial,Worsening,1.5417875837256343,No
+,,,21.8844035719728,Other,Hispanic,70659.44807897627,Retired,,,,F32,,,Yes,Therapy,Improved,,H003,No,,Clinical Trial,Worsening,24.932829903508,Yes
+,,,32.74867590731789,Other,Hispanic,17513.158120193606,Student,,,,J45,"Wheezing, Shortness of breath",,Yes,Therapy,Worsened,,H001,No,,Hospital EMR,Worsening,,No
+,,,81.57667192950335,Male,Other,79646.9352787141,Student,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,Worsened,,H004,No,,Insurance Claim,Improving,,No
+,,,80.67170838619703,Female,Other,61260.677431090575,Engineer,,,,I10,"Dizziness, Headache",,No,Medication,No Change,,H003,No,,Insurance Claim,Worsening,,Yes
+,,,62.80455282771077,Male,Hispanic,47318.53979670888,Engineer,,,,M54,"Back pain, Stiffness",,No,Lifestyle Change,No Change,,H001,No,,Insurance Claim,Worsening,103.13727953469773,Yes
+,,,-17.75878928311355,Male,Asian,82965.26273443928,,,,,J45,"Shortness of breath, Wheezing",,Yes,Medication,No Change,,H002,Yes,,Hospital EMR,Worsening,92.39392107970491,Yes
+,,,105.28957498847525,Female,Asian,73896.31095175662,Nurse,,,,K21,"Regurgitation, Heartburn",,Yes,Therapy,Improved,,H002,Yes,,Insurance Claim,Improving,,Yes
+,,,-15.56834496473715,Male,Asian,139534.09630667348,Unemployed,,,,I10,"Dizziness, Headache",,No,Lifestyle Change,No Change,,H004,Yes,,Hospital EMR,Stable,70.378842522063,Yes
+,,,-27.826836905227523,Female,Asian,29186.886293506417,Teacher,,,,E11,,,No,Medication,Improved,,H002,Yes,,Clinical Trial,Improving,,Yes
+,,,30.7365063216037,Male,Asian,64788.21343649927,,,,,E11,,,Yes,Therapy,No Change,,H002,Yes,,Hospital EMR,Stable,,Yes
+,,,15.88939840412281,Other,Other,95978.23409097252,Clerk,,,,C34,,,Yes,Surgery,Improved,,H003,No,,Clinical Trial,Worsening,,Yes
+,,,42.06714843139147,Other,Black,94200.11577298366,Nurse,,,,J45,"Wheezing, Shortness of breath",,No,Medication,Worsened,,H001,No,,Insurance Claim,Worsening,,Yes
+,,,-42.18707171921356,Female,Other,24429.02726529145,Student,,,,K21,"Regurgitation, Heartburn",,Yes,Medication,No Change,,H003,No,,Insurance Claim,Worsening,,No
+,,,36.168206362436806,Male,Hispanic,123827.67048641166,Retired,,,,K21,"Regurgitation, Heartburn",,Yes,Surgery,No Change,,H003,Yes,,Hospital EMR,Improving,,Yes
+,,,56.685939420454204,Other,White,147867.09344309557,Nurse,,,,C34,,,No,Medication,No Change,,H002,Yes,,Clinical Trial,Improving,-13.937951344333563,Yes
+,,,-22.9522066752413,Female,Asian,52334.756041162815,Retired,,,,K21,"Heartburn, Regurgitation",,No,Medication,No Change,,H003,No,,Insurance Claim,Improving,,Yes
+,,,52.40835394297167,Male,White,74950.21390249996,Retired,,,,I10,"Headache, Dizziness",,Yes,Medication,Worsened,,H002,No,,Insurance Claim,Stable,,Yes
+,,,98.45371285405813,Male,White,7582.74903842268,Retired,,,,F32,,,No,Lifestyle Change,Improved,,H004,Yes,,Insurance Claim,Worsening,,No
+,,,79.26393699886239,Male,White,32462.761030853188,Student,,,,I10,"Dizziness, Headache",,Yes,Therapy,No Change,,H002,Yes,,Clinical Trial,Worsening,,No
+,,,62.0665411996902,Female,Black,8566.424210588199,Engineer,,,,J45,"Shortness of breath, Wheezing",,Yes,Surgery,Improved,,H003,Yes,,Clinical Trial,Worsening,,No
+,,,2.1660118469866845,Female,Black,20141.01154336658,Clerk,,,,E11,,,Yes,Lifestyle Change,Improved,,H002,Yes,,Insurance Claim,Worsening,,Yes
+,,,61.6484676669213,Female,Black,8745.635341735368,Retired,,,,J45,"Shortness of breath, Wheezing",,Yes,Medication,Improved,,H004,No,,Insurance Claim,Improving,,Yes
+,,,46.854498586449175,Male,Other,56292.8891240343,Engineer,,,,E11,,,Yes,Medication,No Change,,H001,Yes,,Insurance Claim,Worsening,,Yes
+,,,51.150580241263015,Male,White,73042.03827477465,Unemployed,,,,I10,"Dizziness, Headache",,No,Therapy,Worsened,,H003,No,,Insurance Claim,Stable,,Yes
+,,,102.01130574741372,Other,Asian,9955.292464380806,Unemployed,,,,C34,,,No,Surgery,Worsened,,H001,No,,Insurance Claim,Stable,,No
+,,,4.556163908514058,Female,Other,38705.726313043306,Clerk,,,,E11,,,No,Therapy,Worsened,,H004,No,,Clinical Trial,Improving,,Yes
+,,,77.40535594461599,Other,Hispanic,57253.10819180809,Doctor,,,,M54,"Back pain, Stiffness",,No,Medication,Worsened,,H002,No,,Insurance Claim,Improving,,No
+,,,-41.849851746039306,Other,Black,27106.356487618446,Clerk,,,,F32,,,No,Surgery,Improved,,H004,No,,Clinical Trial,Stable,,Yes
+,,,54.02036672875085,Female,Hispanic,45789.52675426867,Student,,,,M54,"Stiffness, Back pain",,Yes,Medication,Worsened,,H003,No,,Clinical Trial,Stable,,No
+,,,-38.48767196974402,Male,White,80582.10675242389,Clerk,,,,K21,"Heartburn, Regurgitation",,Yes,Lifestyle Change,No Change,,H003,Yes,,Insurance Claim,Improving,,No
+,,,30.62996951359881,Other,White,16222.328799696643,Retired,,,,E11,,,Yes,Lifestyle Change,Improved,,H001,Yes,,Insurance Claim,Improving,,Yes
+,,,7.700719554906923,Female,Black,30046.36143625966,Unemployed,,,,J45,"Shortness of breath, Wheezing",,No,Lifestyle Change,Improved,,H004,No,,Insurance Claim,Worsening,,No
+,,,97.72439271462213,Other,White,39856.39171632547,Retired,,,,J45,"Shortness of breath, Wheezing",,Yes,Lifestyle Change,Worsened,,H001,No,,Hospital EMR,Worsening,,Yes
+,,,18.173182222063193,Female,Other,103931.90631926982,Retired,,,,E11,,,Yes,Lifestyle Change,Improved,,H004,No,,Insurance Claim,Improving,-25.8276909872749,No
+,,,85.80181979531463,Male,White,24906.164329815103,Unemployed,,,,K21,"Regurgitation, Heartburn",,No,Therapy,Worsened,,H003,Yes,,Clinical Trial,Stable,,Yes
+,,,122.42178915857508,Female,Asian,39966.5349601813,Retired,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,No Change,,H002,Yes,,Insurance Claim,Stable,,Yes
+,,,55.210799866181134,Male,White,97430.52780806042,Student,,,,K21,"Regurgitation, Heartburn",,No,Lifestyle Change,Improved,,H001,No,,Insurance Claim,Improving,54.214073159376085,No
+,,,1.5941649891002285,Other,Black,38567.870245775164,Teacher,,,,M54,"Stiffness, Back pain",,Yes,Surgery,Improved,,H001,No,,Clinical Trial,Stable,,No
+,,,-26.689257784835497,Other,Black,44338.7231479716,Engineer,,,,J45,"Shortness of breath, Wheezing",,No,Therapy,Worsened,,H001,No,,Hospital EMR,Worsening,25.341459578394286,No
+,,,54.646912870790594,Male,Other,4940.810127799014,Doctor,,,,J45,"Wheezing, Shortness of breath",,No,Lifestyle Change,No Change,,H004,Yes,,Clinical Trial,Stable,,Yes
+,,,21.767035717987177,Male,Black,21401.187323005397,Retired,,,,E11,,,No,Medication,Worsened,,H004,No,,Hospital EMR,Improving,,No
+,,,57.70841952787415,Other,Black,98611.74429483316,,,,,I10,"Headache, Dizziness",,No,Lifestyle Change,Improved,,H001,Yes,,Hospital EMR,Stable,,Yes
+,,,-52.61437904708794,Male,Hispanic,69061.89199660819,Doctor,,,,E11,,,No,Medication,Worsened,,H003,Yes,,Hospital EMR,Worsening,,Yes
+,,,78.17142011558893,Male,Other,96732.40238451018,Student,,,,E11,,,No,Lifestyle Change,No Change,,H002,Yes,,Hospital EMR,Improving,,No
+,,,27.850421867091192,Female,White,36013.88319510206,,,,,J45,"Shortness of breath, Wheezing",,No,Surgery,Improved,,H002,No,,Clinical Trial,Stable,,No
+,,,77.25721334668313,Male,Hispanic,61939.747228509324,Retired,,,,K21,"Regurgitation, Heartburn",,Yes,Therapy,No Change,,H003,Yes,,Clinical Trial,Improving,,Yes
+,,,70.9433659995722,Male,Other,36135.06441667418,Engineer,,,,F32,,,Yes,Therapy,Worsened,,H004,Yes,,Clinical Trial,Improving,,Yes
+,,,104.86878180495044,Male,Other,46695.41723675538,,,,,J45,"Wheezing, Shortness of breath",,Yes,Medication,Worsened,,H002,Yes,,Hospital EMR,Improving,,Yes
+,,,60.300297248543515,Male,White,95486.79666592972,Retired,,,,M54,"Stiffness, Back pain",,No,Therapy,Improved,,H003,No,,Insurance Claim,Stable,,Yes
+,,,107.15473204468063,Male,Hispanic,45682.51116436153,Student,,,,F32,,,Yes,Lifestyle Change,Improved,,H004,No,,Clinical Trial,Worsening,,Yes
+,,,92.51744539886653,Other,Other,96939.38416152244,Retired,,,,K21,"Regurgitation, Heartburn",,Yes,Surgery,No Change,,H004,Yes,,Hospital EMR,Worsening,,Yes
+,,,41.47262623075348,Male,Black,10486.31617904323,Engineer,,,,E11,,,Yes,Therapy,Improved,,H004,Yes,,Insurance Claim,Worsening,,Yes
+,,,82.76590633107006,Female,Black,80141.37857082777,Retired,,,,J45,"Wheezing, Shortness of breath",,No,Medication,No Change,,H004,Yes,,Insurance Claim,Stable,10.728860437191004,Yes
+,,,42.10530918282064,Female,White,74484.93941607876,Engineer,,,,J45,"Wheezing, Shortness of breath",,Yes,Medication,Improved,,H002,No,,Clinical Trial,Stable,,Yes
+,,,17.649168159117803,Female,Black,18814.014064656672,Retired,,,,M54,"Back pain, Stiffness",,Yes,Surgery,No Change,,H004,Yes,,Insurance Claim,Improving,,Yes
+,,,26.666203907795463,Other,Hispanic,103114.91679355413,Teacher,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,Worsened,,H003,No,,Hospital EMR,Worsening,,Yes
+,,,88.63569468586456,Female,Black,51431.427936639506,Retired,,,,E11,,,No,Lifestyle Change,Worsened,,H002,No,,Hospital EMR,Worsening,,Yes
+,,,27.469746282170725,Female,Black,30313.172195809042,Teacher,,,,C34,,,Yes,Surgery,No Change,,H003,No,,Clinical Trial,Stable,,Yes
+,,,-47.89781849328162,Other,White,153680.81177104352,Teacher,,,,I10,"Dizziness, Headache",,No,Surgery,Worsened,,H003,Yes,,Insurance Claim,Stable,,No
+,,,24.429478070102036,Male,Other,49091.81461566704,Unemployed,,,,E11,,,No,Therapy,No Change,,H003,No,,Insurance Claim,Improving,,No
+,,,70.8414119842279,Other,Black,101680.45889357591,Retired,,,,I10,"Dizziness, Headache",,Yes,Therapy,Worsened,,H001,Yes,,Insurance Claim,Stable,,Yes
+,,,63.3838347420735,Other,Black,27812.434076370577,Nurse,,,,E11,,,Yes,Therapy,Improved,,H004,No,,Hospital EMR,Stable,,Yes
+,,,-6.3717601063867235,Female,White,102500.97510915321,Clerk,,,,F32,,,Yes,Lifestyle Change,No Change,,H004,No,,Hospital EMR,Worsening,11.653225947040156,No
+,,,70.36044332291182,Female,White,60808.5515900345,Retired,,,,K21,"Regurgitation, Heartburn",,Yes,Surgery,No Change,,H001,Yes,,Insurance Claim,Stable,,No
+,,,25.529791670813683,Male,Other,74834.32458618096,Engineer,,,,K21,"Regurgitation, Heartburn",,Yes,Surgery,Improved,,H002,No,,Insurance Claim,Worsening,,No
+,,,79.33040631446781,Male,White,18961.913481797317,Engineer,,,,M54,"Back pain, Stiffness",,Yes,Surgery,No Change,,H001,Yes,,Clinical Trial,Stable,,Yes
+,,,25.7387113646582,Other,Hispanic,53588.08367897643,Nurse,,,,F32,,,Yes,Medication,No Change,,H002,Yes,,Clinical Trial,Stable,,No
+,,,46.029276694372825,Other,Other,78916.7342209404,Unemployed,,,,F32,,,Yes,Surgery,Improved,,H002,No,,Clinical Trial,Stable,,Yes
+,,,31.74916186845509,Female,Black,64671.276533732744,Teacher,,,,I10,"Dizziness, Headache",,No,Surgery,Worsened,,H004,Yes,,Clinical Trial,Stable,,Yes
+,,,50.7770449855545,Other,Other,52778.509803755136,Retired,,,,K21,"Regurgitation, Heartburn",,Yes,Lifestyle Change,No Change,,H004,No,,Clinical Trial,Worsening,,Yes
+,,,47.1418380659431,Other,Other,92197.94856628095,Retired,,,,J45,"Shortness of breath, Wheezing",,No,Lifestyle Change,No Change,,H003,Yes,,Clinical Trial,Stable,,No
+,,,-31.836209247985686,Male,Asian,-23660.968173746453,Student,,,,M54,"Back pain, Stiffness",,No,Surgery,No Change,,H004,Yes,,Hospital EMR,Stable,,Yes
+,,,47.999643325757305,Male,Other,45088.10715001052,Engineer,,,,F32,,,Yes,Surgery,Worsened,,H004,No,,Insurance Claim,Worsening,,Yes
+,,,61.733174270407716,Male,Asian,80556.38503372551,Retired,,,,F32,,,Yes,Therapy,Worsened,,H003,No,,Clinical Trial,Stable,,No
+,,,93.01735132481812,Female,Other,48451.71186399461,Student,,,,I10,"Headache, Dizziness",,No,Lifestyle Change,No Change,,H004,No,,Insurance Claim,Improving,54.16526363807169,Yes
+,,,84.41727463120151,Male,White,85028.36008887377,Teacher,,,,M54,"Back pain, Stiffness",,Yes,Medication,No Change,,H002,No,,Insurance Claim,Worsening,,No
+,,,80.73802368516799,Female,White,94911.3442582282,Nurse,,,,M54,"Stiffness, Back pain",,No,Surgery,Improved,,H003,Yes,,Insurance Claim,Stable,,No
+,,,33.96228238552461,Female,Black,777.3532424965451,Student,,,,M54,"Stiffness, Back pain",,No,Therapy,Worsened,,H002,No,,Clinical Trial,Worsening,,Yes
+,,,197.07082939605849,Female,Black,84794.1048710191,Retired,,,,I10,"Dizziness, Headache",,No,Lifestyle Change,Improved,,H004,No,,Clinical Trial,Improving,,No
+,,,45.20820436978407,Other,White,58895.235557903405,Doctor,,,,K21,"Regurgitation, Heartburn",,No,Medication,Worsened,,H003,Yes,,Clinical Trial,Stable,,Yes
+,,,-34.300788465901704,Female,Other,58104.20766199083,Unemployed,,,,I10,"Headache, Dizziness",,No,Medication,Worsened,,H001,Yes,,Insurance Claim,Worsening,,Yes
+,,,110.29347758582888,Female,Hispanic,92550.91712492118,Teacher,,,,K21,"Heartburn, Regurgitation",,Yes,Surgery,Worsened,,H003,No,,Clinical Trial,Stable,,Yes
+,,,114.77597975131803,Female,Hispanic,95930.19036196424,Teacher,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,No Change,,H003,Yes,,Clinical Trial,Improving,,No
+,,,12.705403179695724,Female,Other,40621.451692777126,Student,,,,J45,"Wheezing, Shortness of breath",,No,Medication,Worsened,,H002,Yes,,Hospital EMR,Improving,,Yes
+,,,-3.189073235426825,Female,Hispanic,56333.1294777383,Retired,,,,F32,,,Yes,Therapy,Improved,,H003,No,,Insurance Claim,Stable,,No
+,,,-52.756121264991265,Female,White,73072.74397776737,Engineer,,,,K21,"Regurgitation, Heartburn",,No,Surgery,Worsened,,H003,No,,Clinical Trial,Worsening,,No
+,,,-5.073738379512886,Other,Hispanic,-28067.024211561846,,,,,I10,"Dizziness, Headache",,No,Lifestyle Change,Worsened,,H001,Yes,,Clinical Trial,Worsening,,Yes
+,,,38.87383323832069,Other,Black,110950.09671480933,Engineer,,,,E11,,,Yes,Surgery,No Change,,H002,Yes,,Insurance Claim,Improving,,Yes
+,,,-10.432728812172307,Male,Other,49986.94442652094,Retired,,,,M54,"Stiffness, Back pain",,No,Therapy,Improved,,H001,No,,Hospital EMR,Improving,,No
+,,,115.52324636772263,Male,Other,32889.75246729357,Retired,,,,I10,"Headache, Dizziness",,Yes,Surgery,Improved,,H004,Yes,,Clinical Trial,Stable,,Yes
+,,,86.80188906297195,Male,White,89218.56585403948,Teacher,,,,E11,,,Yes,Lifestyle Change,No Change,,H003,Yes,,Insurance Claim,Worsening,,No
+,,,-20.324864275461167,Female,Hispanic,-2619.353429320996,Engineer,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,Worsened,,H003,Yes,,Clinical Trial,Worsening,,No
+,,,28.26061147589551,Other,White,64844.29200578392,Engineer,,,,I10,"Headache, Dizziness",,No,Lifestyle Change,No Change,,H004,Yes,,Hospital EMR,Worsening,,Yes
+,,,52.49556053723475,Other,Other,25713.27240830623,Retired,,,,C34,,,Yes,Lifestyle Change,No Change,,H004,Yes,,Hospital EMR,Improving,,No
+,,,1.418855229809143,Female,Black,15948.655748652967,Teacher,,,,E11,,,No,Therapy,Improved,,H002,Yes,,Hospital EMR,Improving,,Yes
+,,,50.886242893792975,Female,Black,58833.03276653997,Retired,,,,C34,,,Yes,Medication,Worsened,,H001,No,,Insurance Claim,Stable,,Yes
+,,,3.774676108266253,Female,Other,54898.30102046435,Student,,,,K21,"Regurgitation, Heartburn",,Yes,Therapy,No Change,,H001,Yes,,Hospital EMR,Stable,,Yes
+,,,37.04990194637513,Other,White,33438.17883943853,Clerk,,,,M54,"Stiffness, Back pain",,No,Surgery,Worsened,,H003,Yes,,Hospital EMR,Stable,,No
+,,,15.401399883324615,Other,Asian,86474.79932264332,Student,,,,J45,"Shortness of breath, Wheezing",,No,Therapy,No Change,,H003,No,,Clinical Trial,Worsening,,No
+,,,7.567384885246263,Other,Other,100516.1864013177,Clerk,,,,C34,,,No,Lifestyle Change,Worsened,,H004,Yes,,Insurance Claim,Stable,,Yes
+,,,85.19856559151208,Male,Other,139527.34191015954,Retired,,,,I10,"Dizziness, Headache",,Yes,Lifestyle Change,Improved,,H002,No,,Hospital EMR,Stable,,No
+,,,91.63752553241704,Female,Black,116031.13851438896,Clerk,,,,C34,,,Yes,Surgery,Improved,,H002,Yes,,Clinical Trial,Worsening,,Yes
+,,,14.665872922021896,Other,Other,11942.85226558278,Doctor,,,,F32,,,No,Lifestyle Change,Worsened,,H003,Yes,,Hospital EMR,Improving,,Yes
+,,,9.925665048136084,Other,Other,31493.097783732606,Nurse,,,,M54,"Back pain, Stiffness",,Yes,Medication,Improved,,H002,Yes,,Insurance Claim,Improving,,No
+,,,-8.849120063364651,Male,Other,-21215.614675486533,,,,,C34,,,No,Surgery,Worsened,,H001,No,,Clinical Trial,Improving,,Yes
+,,,48.888097773643665,Other,Hispanic,8928.427684862103,Clerk,,,,C34,,,No,Therapy,Worsened,,H002,No,,Clinical Trial,Worsening,,Yes
+,,,16.173745911940046,Female,Asian,43095.91020487361,,,,,J45,"Wheezing, Shortness of breath",,No,Therapy,No Change,,H002,Yes,,Insurance Claim,Stable,,Yes
+,,,57.62695059300828,Female,Asian,56903.884087646016,Doctor,,,,E11,,,Yes,Medication,Worsened,,H004,Yes,,Hospital EMR,Improving,,No
+,,,65.07851880996722,Other,Black,60056.70526939505,Retired,,,,C34,,,Yes,Medication,No Change,,H002,Yes,,Hospital EMR,Worsening,35.62402200871626,Yes
+,,,28.69483206108086,Other,Other,110420.25184876879,Nurse,,,,K21,"Heartburn, Regurgitation",,Yes,Therapy,Improved,,H002,No,,Clinical Trial,Stable,,No
+,,,22.326430714606396,Female,Asian,88288.22560423316,Student,,,,J45,"Shortness of breath, Wheezing",,Yes,Lifestyle Change,Improved,,H003,No,,Insurance Claim,Improving,,Yes
+,,,76.11578457397293,Other,Other,79405.58728805785,Retired,,,,C34,,,No,Lifestyle Change,Worsened,,H004,Yes,,Clinical Trial,Stable,,Yes
+,,,76.8629572344761,Male,Black,142731.80998104834,Teacher,,,,F32,,,No,Therapy,No Change,,H002,No,,Clinical Trial,Improving,72.86113698807495,No
+,,,-15.619424381173445,Male,Black,51858.87285469437,Retired,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,Improved,,H003,Yes,,Clinical Trial,Worsening,,No
+,,,46.39234371736094,Other,Asian,17867.22439260633,Retired,,,,I10,"Dizziness, Headache",,Yes,Medication,Worsened,,H002,Yes,,Clinical Trial,Worsening,,Yes
+,,,2.220465323845744,Female,Other,86590.40597039553,Doctor,,,,F32,,,Yes,Lifestyle Change,Worsened,,H002,No,,Hospital EMR,Improving,,No
+,,,-42.290955038903036,Female,Asian,33373.9653617868,Teacher,,,,J45,"Wheezing, Shortness of breath",,Yes,Medication,Worsened,,H004,No,,Clinical Trial,Improving,,Yes
+,,,93.39946951073193,Female,Other,42881.302426697504,Engineer,,,,E11,,,Yes,Medication,Improved,,H002,Yes,,Hospital EMR,Improving,6.7786247993741675,No
+,,,108.73470238668705,Male,White,130972.73928845467,,,,,K21,"Heartburn, Regurgitation",,No,Lifestyle Change,Improved,,H002,No,,Clinical Trial,Worsening,,No
+,,,-26.223454754442606,Male,Black,87883.45899170458,Nurse,,,,K21,"Heartburn, Regurgitation",,Yes,Lifestyle Change,Worsened,,H002,Yes,,Insurance Claim,Improving,,No
+,,,107.48574789425342,Other,Other,93035.07377837691,Student,,,,M54,"Stiffness, Back pain",,No,Therapy,Worsened,,H003,Yes,,Insurance Claim,Stable,44.286410543704974,Yes
+,,,-41.580654517111455,Other,Other,27582.42001306849,Unemployed,,,,E11,,,Yes,Lifestyle Change,Improved,,H003,Yes,,Insurance Claim,Stable,,Yes
+,,,49.80466488335465,Other,White,-24274.684502789445,Retired,,,,K21,"Heartburn, Regurgitation",,No,Therapy,Improved,,H004,No,,Insurance Claim,Improving,,Yes
+,,,29.096020506341684,Male,Black,166934.24511063285,Nurse,,,,F32,,,Yes,Medication,Improved,,H003,Yes,,Clinical Trial,Stable,,Yes
+,,,74.62508667287504,Other,Black,27949.59912106677,Nurse,,,,I10,"Dizziness, Headache",,Yes,Surgery,Improved,,H003,Yes,,Insurance Claim,Worsening,,No
+,,,112.07479218346727,Male,Hispanic,-26121.680414061768,Retired,,,,F32,,,No,Therapy,Worsened,,H002,No,,Insurance Claim,Stable,,Yes
+,,,58.1479368410032,Other,Black,78905.07885393927,Doctor,,,,J45,"Shortness of breath, Wheezing",,Yes,Lifestyle Change,No Change,,H002,No,,Clinical Trial,Improving,,No
+,,,-14.962158943421432,Male,White,48576.359753861616,Teacher,,,,C34,,,Yes,Surgery,Improved,,H003,No,,Insurance Claim,Stable,,Yes
+,,,72.30653245536587,Male,Asian,24153.51822407558,Clerk,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,Worsened,,H002,Yes,,Clinical Trial,Worsening,,No
+,,,4.708960182906745,Female,Black,-22950.40636615771,,,,,M54,"Stiffness, Back pain",,No,Medication,Worsened,,H004,Yes,,Hospital EMR,Worsening,,Yes
+,,,17.26870953493676,Male,Hispanic,87135.99840809876,Nurse,,,,I10,"Dizziness, Headache",,Yes,Lifestyle Change,Worsened,,H002,No,,Insurance Claim,Improving,,Yes
+,,,40.45941687070483,Female,Asian,35244.88141472776,Retired,,,,M54,"Stiffness, Back pain",,No,Surgery,No Change,,H001,No,,Hospital EMR,Improving,25.391946418956028,Yes
+,,,37.21807013627867,Female,Black,103037.58651800653,,,,,I10,"Dizziness, Headache",,No,Surgery,No Change,,H003,Yes,,Clinical Trial,Worsening,,Yes
+,,,-10.212617530991523,Female,Asian,22887.1598105249,Engineer,,,,K21,"Regurgitation, Heartburn",,No,Therapy,Improved,,H001,Yes,,Clinical Trial,Improving,,Yes
+,,,40.61989682340411,Male,Other,105362.99779713464,,,,,J45,"Wheezing, Shortness of breath",,Yes,Medication,Worsened,,H003,Yes,,Insurance Claim,Improving,,Yes
+,,,74.13126566332475,Male,Black,13086.107828912078,Teacher,,,,C34,,,No,Lifestyle Change,No Change,,H003,Yes,,Clinical Trial,Improving,,No
+,,,-6.411550136800273,Other,Other,10997.276099868777,Teacher,,,,E11,,,No,Lifestyle Change,Worsened,,H001,No,,Clinical Trial,Stable,,No
+,,,-18.830444293092413,Female,Asian,101617.93511949592,Retired,,,,M54,"Back pain, Stiffness",,No,Medication,Worsened,,H004,Yes,,Clinical Trial,Improving,90.87010560116629,Yes
+,,,33.85807723227622,Male,Other,-29782.226114244026,Engineer,,,,I10,"Dizziness, Headache",,No,Lifestyle Change,Worsened,,H002,No,,Insurance Claim,Improving,5.544149574744946,Yes
+,,,75.32623752286156,Other,White,92439.84395158202,Engineer,,,,I10,"Headache, Dizziness",,Yes,Surgery,Improved,,H003,Yes,,Insurance Claim,Worsening,,Yes
+,,,67.30733071616241,Female,Asian,14157.416252225617,Student,,,,E11,,,No,Medication,Worsened,,H004,No,,Hospital EMR,Improving,138.26274952788037,No
+,,,165.42267114017105,Other,Black,63353.68324242401,,,,,M54,"Back pain, Stiffness",,No,Therapy,Worsened,,H002,Yes,,Clinical Trial,Stable,,No
+,,,7.79087949912412,Other,White,128480.48625088841,Retired,,,,K21,"Regurgitation, Heartburn",,No,Therapy,Worsened,,H004,No,,Clinical Trial,Stable,,No
+,,,29.8902071520261,Male,Asian,107153.10477730521,Engineer,,,,I10,"Headache, Dizziness",,No,Lifestyle Change,Improved,,H003,Yes,,Hospital EMR,Stable,,Yes
+,,,43.48514933210577,Other,White,88166.63558450014,Engineer,,,,M54,"Stiffness, Back pain",,Yes,Medication,Worsened,,H002,No,,Clinical Trial,Stable,,No
+,,,55.068240715833255,Female,Hispanic,45903.14039716072,Engineer,,,,J45,"Wheezing, Shortness of breath",,Yes,Lifestyle Change,Worsened,,H004,Yes,,Hospital EMR,Stable,,No
+,,,73.56695651539941,Other,Hispanic,84077.18251530227,,,,,I10,"Headache, Dizziness",,Yes,Medication,No Change,,H004,No,,Clinical Trial,Stable,,Yes
+,,,5.472068472989163,Male,Black,42952.46944907225,Retired,,,,C34,,,Yes,Surgery,Worsened,,H002,No,,Hospital EMR,Stable,-19.773629524337135,No
+,,,-23.44835152852921,Female,Black,21605.01478453755,Retired,,,,E11,,,No,Therapy,Improved,,H003,No,,Hospital EMR,Improving,,No
+,,,53.34298645655704,Male,Black,37415.10335038574,Teacher,,,,J45,"Shortness of breath, Wheezing",,Yes,Lifestyle Change,No Change,,H002,No,,Hospital EMR,Worsening,-14.247433011601416,No
+,,,83.66471087669575,Male,Black,84362.22782932213,Doctor,,,,F32,,,Yes,Surgery,No Change,,H004,Yes,,Clinical Trial,Worsening,,No
+,,,103.16729535241383,Male,Hispanic,19566.155803196492,Clerk,,,,K21,"Heartburn, Regurgitation",,Yes,Surgery,No Change,,H001,No,,Clinical Trial,Worsening,,Yes
+,,,84.64101857692734,Female,Asian,20809.10645919681,Nurse,,,,I10,"Headache, Dizziness",,Yes,Therapy,Improved,,H004,Yes,,Hospital EMR,Stable,105.35573111684641,No
+,,,1.0784460637589592,Female,Hispanic,71294.51625093444,Student,,,,C34,,,No,Lifestyle Change,Improved,,H001,Yes,,Clinical Trial,Improving,,Yes
+,,,66.18243931430607,Female,Other,48053.21091521958,Student,,,,F32,,,Yes,Medication,Improved,,H002,No,,Insurance Claim,Improving,,Yes
+,,,11.339620181317771,Other,Hispanic,84888.7941654613,Retired,,,,F32,,,Yes,Medication,No Change,,H002,No,,Hospital EMR,Worsening,,No
+,,,-11.201563903027779,Other,Hispanic,89761.66845147545,,,,,K21,"Heartburn, Regurgitation",,No,Medication,Improved,,H004,No,,Hospital EMR,Improving,,No
+,,,42.24407787287282,Female,Other,35066.131516315574,Clerk,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,No Change,,H004,No,,Clinical Trial,Improving,10.076453574691318,No
+,,,59.92287833489697,Other,Black,40168.766000785996,Teacher,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,Worsened,,H002,Yes,,Hospital EMR,Stable,,No
+,,,6.369953060481819,Female,Black,58906.11707039767,Engineer,,,,C34,,,Yes,Medication,Worsened,,H003,No,,Hospital EMR,Improving,,Yes
+,,,27.36590849987072,Other,Asian,31242.228757550714,Unemployed,,,,M54,"Back pain, Stiffness",,No,Lifestyle Change,Improved,,H003,No,,Insurance Claim,Improving,,Yes
+,,,90.35204064196482,Other,White,15957.235364043681,Doctor,,,,M54,"Back pain, Stiffness",,No,Medication,Improved,,H003,Yes,,Insurance Claim,Stable,35.22314166581677,No
+,,,54.81316041241067,Male,White,8644.800055597909,Nurse,,,,M54,"Back pain, Stiffness",,Yes,Medication,Improved,,H002,Yes,,Insurance Claim,Stable,,No
+,,,69.38944759621714,Male,Black,-27149.449149465756,Retired,,,,I10,"Headache, Dizziness",,Yes,Lifestyle Change,No Change,,H001,Yes,,Clinical Trial,Stable,115.25532560230022,Yes
+,,,-4.7267793593583605,Other,White,15384.70745289042,Doctor,,,,F32,,,No,Lifestyle Change,Improved,,H003,Yes,,Insurance Claim,Worsening,,Yes
+,,,46.112697047355326,Male,Asian,89313.7724203025,Retired,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,Worsened,,H001,Yes,,Insurance Claim,Stable,,Yes
+,,,30.89219339782473,Other,Other,16860.633869156223,Engineer,,,,E11,,,Yes,Lifestyle Change,Improved,,H002,Yes,,Hospital EMR,Improving,,No
+,,,10.060386427135576,Female,Black,-31507.758568360456,Retired,,,,C34,,,Yes,Lifestyle Change,No Change,,H004,Yes,,Clinical Trial,Worsening,,No
+,,,25.405972826675242,Female,Other,167838.29972861483,Unemployed,,,,E11,,,Yes,Surgery,Improved,,H003,No,,Insurance Claim,Improving,,Yes
+,,,-138.99036900097218,Other,Black,-26377.19294349743,Nurse,,,,I10,"Headache, Dizziness",,No,Lifestyle Change,No Change,,H001,Yes,,Insurance Claim,Improving,,No
+,,,-1.601624078746239,Other,Black,-26292.531680007836,Unemployed,,,,J45,"Wheezing, Shortness of breath",,Yes,Therapy,Worsened,,H004,Yes,,Insurance Claim,Stable,,Yes
+,,,88.73302145917845,Other,Black,70750.77850322728,Retired,,,,E11,,,No,Surgery,Improved,,H001,Yes,,Hospital EMR,Worsening,,Yes
+,,,33.533802716182414,Male,Other,16548.300743721193,Nurse,,,,M54,"Stiffness, Back pain",,No,Therapy,Improved,,H003,Yes,,Hospital EMR,Improving,72.9253893575957,No
+,,,-7.3749778001315995,Female,Asian,54711.46678289544,,,,,M54,"Back pain, Stiffness",,No,Medication,No Change,,H003,No,,Hospital EMR,Stable,,Yes
+,,,59.36999380084319,Male,Other,24266.697299982345,Engineer,,,,C34,,,No,Surgery,No Change,,H003,Yes,,Hospital EMR,Stable,,No
+,,,15.114150745627056,Female,Hispanic,49656.27762870812,Engineer,,,,M54,"Back pain, Stiffness",,Yes,Medication,No Change,,H003,No,,Clinical Trial,Stable,,Yes
+,,,50.50792608633273,Female,Other,76669.00080173093,Student,,,,C34,,,No,Lifestyle Change,Worsened,,H001,No,,Clinical Trial,Stable,,Yes
+,,,4.91189144163806,Female,White,27676.84512940093,Engineer,,,,C34,,,No,Lifestyle Change,Improved,,H003,No,,Clinical Trial,Worsening,,Yes
+,,,46.21100451059215,Male,Black,75267.53783045501,Unemployed,,,,M54,"Stiffness, Back pain",,Yes,Lifestyle Change,Worsened,,H001,Yes,,Clinical Trial,Worsening,,No
+,,,25.101688621271006,Male,Hispanic,-1016.6783439761966,Engineer,,,,I10,"Headache, Dizziness",,Yes,Surgery,Improved,,H003,No,,Insurance Claim,Improving,,No
+,,,79.26676871743473,Other,White,-34323.46119728391,Engineer,,,,I10,"Dizziness, Headache",,Yes,Therapy,No Change,,H001,Yes,,Hospital EMR,Improving,,No
+,,,29.298136311488726,Other,Other,50096.03461285062,Clerk,,,,E11,,,No,Therapy,Worsened,,H003,No,,Insurance Claim,Worsening,,Yes
+,,,27.2158409890108,Male,Asian,74951.19656468346,Student,,,,C34,,,No,Medication,Improved,,H003,Yes,,Clinical Trial,Stable,,Yes
+,,,71.7736220078383,Male,Hispanic,29101.99083757353,Retired,,,,F32,,,Yes,Therapy,Worsened,,H004,No,,Insurance Claim,Improving,,Yes
+,,,23.8507153292814,Female,Asian,99546.537657166,,,,,I10,"Headache, Dizziness",,No,Medication,Improved,,H003,No,,Insurance Claim,Worsening,,No
+,,,6.402285486468813,Other,Black,80152.70393168856,Engineer,,,,I10,"Headache, Dizziness",,No,Surgery,Worsened,,H002,No,,Hospital EMR,Stable,,No
+,,,-17.566673376428927,Female,Asian,90429.98319361273,Student,,,,C34,,,No,Surgery,Improved,,H002,Yes,,Insurance Claim,Improving,,Yes
+,,,26.02399752933985,Other,White,74167.43984075908,Nurse,,,,M54,"Back pain, Stiffness",,No,Lifestyle Change,Improved,,H002,Yes,,Insurance Claim,Improving,,No
+,,,40.86137407662265,Female,Other,70917.43930966998,Retired,,,,K21,"Heartburn, Regurgitation",,Yes,Medication,No Change,,H001,No,,Insurance Claim,Worsening,,No
+,,,41.20581030400919,Male,Black,165289.22096279595,Teacher,,,,J45,"Wheezing, Shortness of breath",,No,Lifestyle Change,No Change,,H002,Yes,,Hospital EMR,Worsening,,Yes
+,,,64.28731612308796,Other,Black,79050.48625462217,Nurse,,,,I10,"Dizziness, Headache",,No,Medication,No Change,,H002,Yes,,Insurance Claim,Improving,,No
+,,,37.9167817276777,Female,Asian,105394.4781179005,Unemployed,,,,C34,,,No,Medication,No Change,,H003,Yes,,Insurance Claim,Worsening,,Yes
+,,,82.83165273818108,Male,Hispanic,-6328.910403976664,Teacher,,,,C34,,,Yes,Therapy,No Change,,H003,No,,Hospital EMR,Worsening,,Yes
+,,,32.77129618238446,Female,Black,166298.82523903332,Teacher,,,,M54,"Back pain, Stiffness",,No,Therapy,Worsened,,H002,No,,Hospital EMR,Stable,,Yes
+,,,-44.98402951835392,Male,Hispanic,95915.07834102177,Student,,,,M54,"Back pain, Stiffness",,No,Lifestyle Change,Worsened,,H001,No,,Hospital EMR,Stable,,Yes
+,,,41.68511528645376,Male,Other,74822.15689310251,Retired,,,,M54,"Stiffness, Back pain",,No,Therapy,Improved,,H004,Yes,,Hospital EMR,Worsening,,Yes
+,,,49.24947156267048,Other,Hispanic,62471.91117916818,Retired,,,,F32,,,Yes,Lifestyle Change,Worsened,,H004,Yes,,Clinical Trial,Stable,,No
+,,,-14.229244324934015,Other,Hispanic,22870.105921122762,Clerk,,,,C34,,,Yes,Lifestyle Change,No Change,,H001,Yes,,Clinical Trial,Worsening,,Yes
+,,,-7.364489834108641,Female,Black,14692.96186133916,Teacher,,,,K21,"Heartburn, Regurgitation",,Yes,Lifestyle Change,Worsened,,H001,Yes,,Clinical Trial,Improving,,No
+,,,4.430019128258877,Male,Black,68933.92139410629,Retired,,,,M54,"Stiffness, Back pain",,No,Therapy,No Change,,H004,Yes,,Insurance Claim,Worsening,,No
+,,,55.51218620294542,Male,Other,50608.11771980478,Retired,,,,F32,,,Yes,Medication,Worsened,,H001,No,,Insurance Claim,Stable,,No
+,,,-0.34248220179769007,Female,Asian,88163.22050955537,Retired,,,,I10,"Headache, Dizziness",,Yes,Therapy,Improved,,H003,No,,Hospital EMR,Worsening,,Yes
+,,,9.806417679151181,Other,White,68417.49526161377,Retired,,,,J45,"Wheezing, Shortness of breath",,No,Surgery,No Change,,H003,No,,Insurance Claim,Improving,,Yes
+,,,148.575799959121,Female,Black,90635.58252441458,Nurse,,,,J45,"Shortness of breath, Wheezing",,Yes,Surgery,Improved,,H002,No,,Insurance Claim,Worsening,,Yes
+,,,51.38200500044289,Male,Black,68750.32596254743,Nurse,,,,E11,,,Yes,Medication,Improved,,H002,No,,Clinical Trial,Worsening,,No
+,,,-45.540247687023445,Male,Asian,44505.63340777285,Nurse,,,,C34,,,No,Therapy,Worsened,,H004,Yes,,Clinical Trial,Worsening,,No
+,,,44.21869083933199,Other,Other,6943.779438155312,Teacher,,,,E11,,,Yes,Surgery,No Change,,H003,No,,Insurance Claim,Improving,,Yes
+,,,67.85370591221591,Female,Hispanic,-1495.4051930534588,Teacher,,,,K21,"Heartburn, Regurgitation",,No,Lifestyle Change,Worsened,,H002,No,,Clinical Trial,Stable,,Yes
+,,,141.12883548822484,Male,Other,53727.614981026505,Doctor,,,,F32,,,Yes,Lifestyle Change,Improved,,H001,No,,Insurance Claim,Stable,114.28720319428676,Yes
+,,,18.85430005071365,Female,Hispanic,13216.517598833449,Student,,,,F32,,,Yes,Surgery,Worsened,,H003,Yes,,Clinical Trial,Improving,,No
+,,,33.192647651970795,Male,Asian,40931.74605000249,Student,,,,J45,"Wheezing, Shortness of breath",,Yes,Lifestyle Change,No Change,,H002,Yes,,Hospital EMR,Worsening,,Yes
+,,,51.39118864273816,Female,Asian,82390.46979505947,Retired,,,,C34,,,Yes,Therapy,Worsened,,H003,Yes,,Clinical Trial,Stable,,Yes
+,,,4.0575531608420405,Male,Hispanic,51749.24705815959,Engineer,,,,J45,"Wheezing, Shortness of breath",,Yes,Therapy,Worsened,,H002,No,,Clinical Trial,Improving,,Yes
+,,,29.65662869106241,Female,Asian,24262.985467454342,Doctor,,,,J45,"Wheezing, Shortness of breath",,Yes,Therapy,Improved,,H001,No,,Hospital EMR,Stable,,Yes
+,,,75.43337964064145,Female,White,22627.311116089215,Teacher,,,,F32,,,Yes,Medication,Worsened,,H001,No,,Insurance Claim,Stable,,No
+,,,64.0711047284693,Other,Other,152752.59279444287,Retired,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,No Change,,H001,No,,Clinical Trial,Stable,,No
+,,,62.30857357044735,Female,Black,138384.56043306767,Retired,,,,F32,,,No,Medication,Worsened,,H004,No,,Hospital EMR,Worsening,,No
+,,,55.70204103331294,Other,Black,-17823.88191918894,Nurse,,,,M54,"Back pain, Stiffness",,Yes,Therapy,Worsened,,H003,Yes,,Hospital EMR,Worsening,,Yes
+,,,92.19924092164231,Other,Hispanic,186736.31067173227,Engineer,,,,M54,"Back pain, Stiffness",,No,Surgery,Worsened,,H001,Yes,,Clinical Trial,Stable,,Yes
+,,,30.919534085171033,Other,Other,77226.8395658865,Clerk,,,,C34,,,No,Lifestyle Change,Improved,,H004,No,,Clinical Trial,Improving,,No
+,,,-5.786428003794196,Female,Black,53463.52960443863,Engineer,,,,M54,"Back pain, Stiffness",,No,Therapy,Improved,,H004,No,,Clinical Trial,Stable,,No
+,,,46.04885395492847,Female,White,76187.21225535523,Unemployed,,,,K21,"Heartburn, Regurgitation",,Yes,Surgery,Worsened,,H001,No,,Hospital EMR,Worsening,,No
+,,,36.30188192280789,Female,Other,63946.207621802445,Doctor,,,,K21,"Heartburn, Regurgitation",,No,Therapy,No Change,,H004,Yes,,Hospital EMR,Stable,,No
+,,,-17.119838427513017,Female,White,-6207.762378324518,,,,,F32,,,No,Surgery,Improved,,H003,No,,Hospital EMR,Improving,,Yes
+,,,71.22943109579899,Female,Hispanic,47713.002522152194,Doctor,,,,M54,"Stiffness, Back pain",,Yes,Surgery,Worsened,,H002,Yes,,Hospital EMR,Worsening,,Yes
+,,,33.25817654270147,Other,Asian,59600.09574244343,Clerk,,,,K21,"Heartburn, Regurgitation",,No,Surgery,Improved,,H004,Yes,,Hospital EMR,Improving,,Yes
+,,,35.20474406671336,Female,White,479.7742750675534,Engineer,,,,I10,"Dizziness, Headache",,Yes,Therapy,Improved,,H001,Yes,,Clinical Trial,Stable,,No
+,,,36.566238563330685,Female,White,47936.09143754157,Teacher,,,,K21,"Regurgitation, Heartburn",,Yes,Lifestyle Change,Improved,,H004,Yes,,Insurance Claim,Stable,,Yes
+,,,23.277860750170934,Female,Hispanic,-27147.623935662807,Retired,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,No Change,,H002,No,,Insurance Claim,Improving,,Yes
+,,,79.40892303382765,Male,White,75351.54123681072,Student,,,,E11,,,No,Surgery,Worsened,,H004,No,,Clinical Trial,Stable,,Yes
+,,,-19.82010512568339,Other,Asian,23106.336567783696,Retired,,,,K21,"Heartburn, Regurgitation",,No,Medication,Improved,,H001,No,,Insurance Claim,Worsening,,No
+,,,11.903609986604025,Male,Hispanic,-17960.912001524084,Student,,,,F32,,,Yes,Lifestyle Change,Improved,,H003,No,,Insurance Claim,Worsening,,Yes
+,,,85.77781969300267,Other,Hispanic,20783.365297809225,Doctor,,,,C34,,,Yes,Surgery,Worsened,,H002,Yes,,Clinical Trial,Stable,,Yes
+,,,108.9624368509705,Male,White,65127.133382479566,Retired,,,,C34,,,No,Medication,Improved,,H004,No,,Insurance Claim,Stable,,Yes
+,,,50.42777128439417,Other,Other,62195.2366132299,Student,,,,E11,,,No,Lifestyle Change,Improved,,H001,No,,Hospital EMR,Worsening,,No
+,,,57.82282938394001,Male,Black,41204.80788212511,Clerk,,,,I10,"Dizziness, Headache",,Yes,Lifestyle Change,Worsened,,H004,No,,Hospital EMR,Worsening,,Yes
+,,,25.03798572647808,Female,Hispanic,40997.899453311795,Student,,,,I10,"Headache, Dizziness",,Yes,Medication,No Change,,H004,Yes,,Hospital EMR,Worsening,,No
+,,,74.99164400431074,Other,White,74349.24160822092,Retired,,,,F32,,,No,Surgery,Worsened,,H001,No,,Insurance Claim,Worsening,,Yes
+,,,39.653710172676064,Other,Other,39462.25600225653,Unemployed,,,,C34,,,No,Medication,Worsened,,H004,No,,Clinical Trial,Stable,,Yes
+,,,68.00648916296902,Other,Asian,69493.3657144608,Teacher,,,,I10,"Headache, Dizziness",,No,Lifestyle Change,No Change,,H004,No,,Insurance Claim,Improving,,Yes
+,,,96.41005012541231,Other,Black,117976.38496613692,Engineer,,,,I10,"Dizziness, Headache",,Yes,Surgery,Worsened,,H002,No,,Hospital EMR,Stable,,No
+,,,51.255786760053255,Other,Hispanic,21642.896933148993,Engineer,,,,J45,"Shortness of breath, Wheezing",,No,Surgery,No Change,,H001,Yes,,Clinical Trial,Improving,,No
+,,,47.528135829216346,Other,Black,54184.09764150705,Nurse,,,,F32,,,Yes,Therapy,No Change,,H003,Yes,,Insurance Claim,Worsening,,No
+,,,-9.846013814820164,Other,Other,15128.6773995277,Doctor,,,,F32,,,No,Medication,Worsened,,H002,No,,Clinical Trial,Stable,,Yes
+,,,33.93637221330408,Other,Hispanic,87871.7086667548,Student,,,,E11,,,Yes,Surgery,No Change,,H003,No,,Clinical Trial,Stable,,Yes
+,,,6.034267395479926,Male,Other,9950.72867673718,Engineer,,,,M54,"Back pain, Stiffness",,Yes,Lifestyle Change,Improved,,H003,Yes,,Hospital EMR,Stable,,Yes
+,,,26.6210704251394,Male,Asian,11719.218153001008,Retired,,,,M54,"Stiffness, Back pain",,No,Medication,Improved,,H003,No,,Clinical Trial,Stable,,Yes
+,,,91.52941853459703,Other,Hispanic,63429.56405022502,Engineer,,,,I10,"Headache, Dizziness",,No,Medication,No Change,,H001,Yes,,Insurance Claim,Stable,,No
+,,,55.33627865216551,Other,Other,68765.4984445612,Unemployed,,,,C34,,,Yes,Therapy,No Change,,H003,Yes,,Clinical Trial,Worsening,118.97800724525231,No
+,,,84.69121357805044,Male,Asian,-3564.813795500413,Doctor,,,,E11,,,Yes,Therapy,Improved,,H004,No,,Hospital EMR,Worsening,,Yes
+,,,46.764592856764615,Female,Other,85211.55620555017,Nurse,,,,E11,,,No,Lifestyle Change,Worsened,,H001,No,,Clinical Trial,Worsening,-14.684806141774786,No
+,,,84.80117281092745,Male,White,14134.57193050707,Doctor,,,,K21,"Heartburn, Regurgitation",,No,Surgery,No Change,,H002,No,,Insurance Claim,Stable,,No
+,,,46.07836925425643,Male,Other,108911.51270372639,Retired,,,,C34,,,No,Medication,Worsened,,H004,Yes,,Hospital EMR,Improving,,No
+,,,74.54788119648022,Other,Asian,-5983.9224996208395,Retired,,,,F32,,,Yes,Surgery,Improved,,H004,No,,Insurance Claim,Improving,,Yes
+,,,38.59675170450926,Male,Hispanic,100587.61175795623,Retired,,,,F32,,,No,Medication,No Change,,H004,No,,Insurance Claim,Worsening,,No
+,,,71.34684708104987,Male,Asian,48889.673303647476,Unemployed,,,,J45,"Shortness of breath, Wheezing",,Yes,Medication,No Change,,H002,Yes,,Hospital EMR,Improving,,No
+,,,38.71436737991657,Other,White,48094.156793549955,Teacher,,,,K21,"Heartburn, Regurgitation",,No,Medication,No Change,,H003,Yes,,Clinical Trial,Worsening,,Yes
+,,,12.204529115797566,Other,Black,85716.21042264918,Student,,,,F32,,,No,Surgery,Worsened,,H002,No,,Insurance Claim,Improving,,Yes
+,,,76.80045906346325,Other,Hispanic,85149.30948557725,Retired,,,,E11,,,No,Medication,Worsened,,H002,Yes,,Insurance Claim,Stable,,Yes
+,,,37.69815403445258,Male,Asian,82496.05607093219,Teacher,,,,J45,"Wheezing, Shortness of breath",,Yes,Surgery,No Change,,H004,Yes,,Insurance Claim,Improving,,Yes
+,,,81.40223668483131,Female,Other,42464.45823373637,Teacher,,,,J45,"Wheezing, Shortness of breath",,No,Therapy,Worsened,,H004,No,,Hospital EMR,Improving,,No
+,,,51.13670379239114,Other,White,32533.88235959573,Engineer,,,,E11,,,Yes,Surgery,Improved,,H004,Yes,,Clinical Trial,Worsening,,No
+,,,59.29594167794731,Male,Black,49951.12188717274,Retired,,,,M54,"Stiffness, Back pain",,Yes,Lifestyle Change,Worsened,,H003,No,,Hospital EMR,Improving,62.18123692901212,Yes
+,,,38.23518810570979,Female,Black,-5723.894904355337,Nurse,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,Worsened,,H002,No,,Insurance Claim,Stable,,No
+,,,61.97543133417392,Male,Black,113977.03464333725,,,,,J45,"Shortness of breath, Wheezing",,Yes,Medication,No Change,,H003,No,,Insurance Claim,Worsening,,No
+,,,51.509903412750035,Male,Hispanic,56003.83355596236,Retired,,,,K21,"Heartburn, Regurgitation",,Yes,Medication,Worsened,,H002,No,,Clinical Trial,Improving,38.588298429931505,Yes
+,,,-11.303600456169178,Female,Black,18859.681681269252,Retired,,,,M54,"Stiffness, Back pain",,Yes,Medication,Worsened,,H004,No,,Hospital EMR,Improving,,No
+,,,127.90232150177405,Male,Hispanic,45580.02669022569,Clerk,,,,F32,,,Yes,Medication,Improved,,H001,Yes,,Hospital EMR,Stable,,Yes
+,,,-40.04827578975641,Female,Hispanic,75257.83475363185,Unemployed,,,,E11,,,No,Surgery,No Change,,H003,Yes,,Clinical Trial,Improving,,No
+,,,61.56178559098015,Other,Hispanic,49390.35698056632,Unemployed,,,,E11,,,Yes,Medication,Worsened,,H002,No,,Clinical Trial,Stable,44.017301653805056,No
+,,,42.87820493048514,Male,Black,38972.31373578892,Teacher,,,,C34,,,No,Surgery,Improved,,H003,Yes,,Insurance Claim,Worsening,,Yes
+,,,15.06124185388628,Male,Asian,27144.585794603532,Student,,,,K21,"Regurgitation, Heartburn",,No,Lifestyle Change,No Change,,H003,No,,Clinical Trial,Improving,,Yes
+,,,33.29443631870901,Male,Other,64042.79198581516,Student,,,,I10,"Dizziness, Headache",,Yes,Surgery,Improved,,H001,Yes,,Insurance Claim,Stable,,No
+,,,54.180580161405565,Other,Asian,27913.117864987806,Student,,,,E11,,,Yes,Surgery,No Change,,H004,Yes,,Hospital EMR,Improving,,Yes
+,,,38.16265301167127,Male,Hispanic,36393.39777914918,Teacher,,,,E11,,,Yes,Therapy,Worsened,,H004,Yes,,Clinical Trial,Worsening,,Yes
+,,,76.74453415859898,Female,White,91848.81847200738,,,,,M54,"Back pain, Stiffness",,No,Lifestyle Change,Worsened,,H002,No,,Clinical Trial,Improving,,No
+,,,56.84499367308648,Female,Hispanic,113023.03944700166,Doctor,,,,K21,"Heartburn, Regurgitation",,Yes,Therapy,Improved,,H003,Yes,,Clinical Trial,Worsening,,No
+,,,73.03770392595268,Female,Other,79719.6527337554,Student,,,,F32,,,No,Surgery,No Change,,H004,Yes,,Hospital EMR,Worsening,138.88104476773174,No
+,,,61.986101619546936,Female,White,95643.75247337659,Clerk,,,,M54,"Back pain, Stiffness",,No,Lifestyle Change,No Change,,H002,Yes,,Insurance Claim,Stable,,No
+,,,79.89469958456245,Other,Hispanic,30664.085225457766,Doctor,,,,K21,"Heartburn, Regurgitation",,No,Therapy,Improved,,H003,Yes,,Insurance Claim,Improving,,Yes
+,,,15.538413102018026,Other,Asian,110021.90927668616,Clerk,,,,F32,,,Yes,Medication,No Change,,H001,No,,Insurance Claim,Worsening,,Yes
+,,,77.00193826772724,Other,Black,19190.933513721553,,,,,J45,"Shortness of breath, Wheezing",,Yes,Medication,Worsened,,H001,Yes,,Insurance Claim,Worsening,,Yes
+,,,-13.286612782913656,Male,Black,106062.26560798066,Retired,,,,J45,"Shortness of breath, Wheezing",,Yes,Surgery,Improved,,H003,No,,Hospital EMR,Stable,,No
+,,,-3.501891730122324,Female,White,53281.47139986289,Retired,,,,F32,,,No,Medication,Worsened,,H002,No,,Hospital EMR,Improving,,No
+,,,-6.380696763745634,Female,Black,85565.88453281968,Student,,,,I10,"Dizziness, Headache",,Yes,Medication,Worsened,,H002,No,,Clinical Trial,Worsening,,Yes
+,,,-26.550253344198296,Male,Asian,84377.5406973426,Unemployed,,,,K21,"Regurgitation, Heartburn",,No,Medication,Improved,,H002,No,,Hospital EMR,Worsening,,No
+,,,55.54444354189739,Male,Hispanic,69602.45746047291,Retired,,,,J45,"Wheezing, Shortness of breath",,Yes,Therapy,No Change,,H001,Yes,,Hospital EMR,Stable,,No
+,,,38.04129246654331,Female,Hispanic,70155.27921516287,Nurse,,,,E11,,,No,Medication,No Change,,H001,No,,Hospital EMR,Improving,,No
+,,,67.91185667300338,Female,White,77646.02020086336,Retired,,,,J45,"Wheezing, Shortness of breath",,Yes,Medication,No Change,,H002,Yes,,Clinical Trial,Worsening,,No
+,,,58.610204962268,Male,White,60403.04020002847,Teacher,,,,F32,,,Yes,Surgery,Worsened,,H001,No,,Clinical Trial,Stable,,Yes
+,,,-1.484234663897663,Other,White,7546.669176702322,Retired,,,,J45,"Wheezing, Shortness of breath",,Yes,Therapy,Worsened,,H004,Yes,,Clinical Trial,Stable,,No
+,,,69.74424456102398,Other,White,25669.236961355462,Doctor,,,,E11,,,Yes,Therapy,Improved,,H002,Yes,,Hospital EMR,Worsening,,No
+,,,-20.882155636607294,Other,White,85081.52641374245,Retired,,,,I10,"Headache, Dizziness",,Yes,Lifestyle Change,Improved,,H001,Yes,,Hospital EMR,Worsening,62.224107720602646,No
+,,,59.273008427735896,Other,Other,-26173.50635943403,Nurse,,,,E11,,,Yes,Therapy,No Change,,H003,Yes,,Hospital EMR,Stable,,No
+,,,14.784326174408022,Male,Asian,14396.155641486728,Nurse,,,,K21,"Regurgitation, Heartburn",,Yes,Lifestyle Change,Improved,,H001,Yes,,Hospital EMR,Worsening,,No
+,,,143.88509667316316,Female,Other,94677.46861182194,Teacher,,,,F32,,,Yes,Medication,Improved,,H002,No,,Hospital EMR,Improving,,No
+,,,35.76474057249092,Female,Hispanic,68555.51045006233,Teacher,,,,F32,,,Yes,Medication,No Change,,H003,Yes,,Clinical Trial,Worsening,,Yes
+,,,75.23667619162416,Female,White,-31238.942464467924,Doctor,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,No Change,,H002,No,,Insurance Claim,Improving,,No
+,,,93.99052966823879,Male,Black,21782.842311356137,Teacher,,,,F32,,,No,Medication,Worsened,,H002,No,,Hospital EMR,Worsening,,Yes
+,,,108.45825745640725,Female,Black,-22615.42339440486,Doctor,,,,M54,"Stiffness, Back pain",,No,Therapy,Improved,,H002,Yes,,Hospital EMR,Worsening,,No
+,,,41.422066867346715,Male,Other,154263.43481022795,Nurse,,,,C34,,,No,Medication,Worsened,,H002,No,,Insurance Claim,Stable,,Yes
+,,,1.6646497978843406,Other,Hispanic,-21104.872591910338,Doctor,,,,E11,,,Yes,Medication,Worsened,,H002,Yes,,Clinical Trial,Worsening,,Yes
+,,,55.09370223369839,Other,White,-18238.26787676169,,,,,E11,,,No,Medication,Worsened,,H001,No,,Clinical Trial,Improving,,Yes
+,,,68.70771174854069,Male,Hispanic,90566.05719681995,Clerk,,,,I10,"Headache, Dizziness",,No,Medication,Worsened,,H004,No,,Hospital EMR,Worsening,77.34571497884401,Yes
+,,,10.947330620254817,Other,Asian,63882.08793774684,Nurse,,,,I10,"Headache, Dizziness",,Yes,Medication,Worsened,,H002,Yes,,Hospital EMR,Worsening,,No
+,,,86.46247464987205,Other,Asian,96050.24693630176,Retired,,,,I10,"Dizziness, Headache",,No,Surgery,No Change,,H004,Yes,,Hospital EMR,Worsening,,No
+,,,-40.665942308440016,Other,Black,72926.50651730607,Teacher,,,,E11,,,No,Lifestyle Change,Improved,,H002,Yes,,Hospital EMR,Worsening,104.95530423774542,Yes
+,,,66.26344073598953,Male,White,65409.24027270555,Doctor,,,,F32,,,No,Medication,Worsened,,H003,No,,Insurance Claim,Stable,,No
+,,,34.01080018700429,Male,Other,-20930.19687223633,,,,,I10,"Headache, Dizziness",,No,Therapy,No Change,,H004,Yes,,Clinical Trial,Stable,,Yes
+,,,62.94379767614826,Other,White,113920.5072473571,Unemployed,,,,M54,"Back pain, Stiffness",,Yes,Surgery,No Change,,H002,No,,Insurance Claim,Worsening,,Yes
+,,,19.934675621295845,Male,Asian,101057.36027010821,Retired,,,,I10,"Dizziness, Headache",,No,Surgery,Improved,,H004,Yes,,Hospital EMR,Improving,,Yes
+,,,109.2372829999141,Other,Other,111802.28773422803,Retired,,,,F32,,,Yes,Therapy,Worsened,,H004,Yes,,Hospital EMR,Worsening,,Yes
+,,,10.06004078019822,Male,Hispanic,62303.6875045305,Clerk,,,,I10,"Headache, Dizziness",,Yes,Surgery,Worsened,,H001,No,,Clinical Trial,Improving,99.73627216208712,Yes
+,,,100.16149464449812,Other,Asian,16763.126067781825,Clerk,,,,M54,"Back pain, Stiffness",,No,Medication,No Change,,H003,Yes,,Clinical Trial,Worsening,,Yes
+,,,21.736866198155568,Male,Hispanic,75549.12552035654,Retired,,,,J45,"Shortness of breath, Wheezing",,Yes,Medication,Improved,,H004,Yes,,Insurance Claim,Worsening,,No
+,,,-13.509534340846116,Female,Hispanic,113405.48641775256,,,,,F32,,,No,Therapy,Worsened,,H001,No,,Hospital EMR,Stable,29.037498261913004,Yes
+,,,33.03326494619363,Male,Asian,95645.17402566607,Retired,,,,K21,"Regurgitation, Heartburn",,Yes,Surgery,Improved,,H001,No,,Hospital EMR,Stable,,Yes
+,,,57.195360682599585,Male,Asian,41996.2111981527,Teacher,,,,C34,,,No,Lifestyle Change,Improved,,H002,No,,Hospital EMR,Improving,,Yes
+,,,25.669965211998637,Male,Black,51357.424110640364,Retired,,,,M54,"Back pain, Stiffness",,Yes,Medication,Improved,,H004,No,,Insurance Claim,Stable,,No
+,,,37.11455278874233,Male,Hispanic,8303.85965288211,Nurse,,,,E11,,,No,Lifestyle Change,Improved,,H003,No,,Hospital EMR,Worsening,,Yes
+,,,88.32862984260947,Female,White,22548.94150882146,Engineer,,,,F32,,,No,Surgery,Worsened,,H001,Yes,,Hospital EMR,Worsening,,Yes
+,,,138.05952319070275,Female,Hispanic,81626.10425827537,Nurse,,,,F32,,,Yes,Therapy,Worsened,,H004,No,,Clinical Trial,Improving,,No
+,,,36.364698741258024,Male,Hispanic,-43385.55882274061,Teacher,,,,F32,,,No,Surgery,No Change,,H004,No,,Hospital EMR,Worsening,,No
+,,,43.30387997712974,Male,Hispanic,93729.01966118324,Teacher,,,,E11,,,Yes,Surgery,Improved,,H003,Yes,,Clinical Trial,Improving,67.85233728329126,No
+,,,136.71939629248786,Male,Other,-4767.009864437783,,,,,J45,"Shortness of breath, Wheezing",,Yes,Medication,No Change,,H003,Yes,,Insurance Claim,Improving,,No
+,,,77.01687366170498,Male,Black,51993.92189398165,Retired,,,,C34,,,No,Lifestyle Change,No Change,,H003,No,,Insurance Claim,Worsening,122.34312096620415,Yes
+,,,42.280385949269586,Female,Black,54946.1177098521,Teacher,,,,J45,"Wheezing, Shortness of breath",,No,Surgery,Improved,,H003,No,,Hospital EMR,Worsening,5.987411390922283,No
+,,,-81.23978722011873,Other,Asian,80314.61709466927,Student,,,,E11,,,Yes,Medication,No Change,,H004,Yes,,Hospital EMR,Stable,,No
+,,,30.309389854968103,Other,Black,15208.512987421229,,,,,M54,"Stiffness, Back pain",,Yes,Medication,Worsened,,H004,Yes,,Hospital EMR,Worsening,,Yes
+,,,12.832357890967085,Male,Black,84505.99465933259,Student,,,,K21,"Regurgitation, Heartburn",,No,Medication,Worsened,,H002,Yes,,Clinical Trial,Stable,,No
+,,,71.68017977298001,Male,Other,8244.832126695728,Retired,,,,M54,"Back pain, Stiffness",,No,Therapy,Worsened,,H002,Yes,,Insurance Claim,Stable,,Yes
+,,,9.898278805373641,Male,White,33066.440842165575,Clerk,,,,F32,,,No,Lifestyle Change,No Change,,H003,Yes,,Hospital EMR,Worsening,,No
+,,,24.49560249838933,Male,Other,67314.93855913657,Nurse,,,,E11,,,No,Surgery,No Change,,H003,Yes,,Clinical Trial,Stable,,No
+,,,-4.142467581551173,Male,White,110836.33664735095,,,,,M54,"Back pain, Stiffness",,Yes,Lifestyle Change,No Change,,H001,Yes,,Clinical Trial,Worsening,,Yes
+,,,24.290166586705624,Other,Hispanic,33879.63346909007,Student,,,,J45,"Wheezing, Shortness of breath",,No,Lifestyle Change,No Change,,H002,No,,Insurance Claim,Improving,,No
+,,,73.96340117822099,Other,Other,110454.70695361542,,,,,I10,"Headache, Dizziness",,No,Medication,Worsened,,H002,Yes,,Hospital EMR,Stable,,Yes
+,,,-6.856379096662302,Male,Black,23144.059342772194,Clerk,,,,K21,"Regurgitation, Heartburn",,No,Medication,Improved,,H003,No,,Hospital EMR,Worsening,,No
+,,,72.49498494049232,Male,White,11701.655984309771,Nurse,,,,I10,"Dizziness, Headache",,Yes,Lifestyle Change,Improved,,H002,No,,Clinical Trial,Improving,,Yes
+,,,-5.871004692108887,Female,Black,120292.33608436324,Engineer,,,,C34,,,Yes,Lifestyle Change,Improved,,H001,No,,Insurance Claim,Improving,,Yes
+,,,42.208822314321935,Female,Asian,-5923.299408138129,Retired,,,,M54,"Back pain, Stiffness",,No,Medication,Worsened,,H004,Yes,,Insurance Claim,Stable,,Yes
+,,,152.97882502596428,Male,White,41033.372387970696,Engineer,,,,I10,"Dizziness, Headache",,No,Medication,No Change,,H001,No,,Hospital EMR,Improving,,No
+,,,28.04224970257738,Female,Hispanic,65770.28371729174,Student,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,Improved,,H001,Yes,,Hospital EMR,Stable,,Yes
+,,,16.55489335478429,Female,White,88229.86725260035,Retired,,,,J45,"Shortness of breath, Wheezing",,No,Lifestyle Change,No Change,,H003,No,,Insurance Claim,Stable,,Yes
+,,,9.784720422385146,Female,Hispanic,68286.38209150688,Retired,,,,J45,"Shortness of breath, Wheezing",,Yes,Lifestyle Change,Worsened,,H003,Yes,,Clinical Trial,Stable,,Yes
+,,,95.90695155546162,Other,Other,77833.01074442998,Nurse,,,,J45,"Shortness of breath, Wheezing",,No,Medication,Improved,,H002,Yes,,Insurance Claim,Improving,,No
+,,,41.22187918711809,Female,White,82517.35917041382,Teacher,,,,F32,,,Yes,Medication,Worsened,,H001,No,,Clinical Trial,Worsening,,Yes
+,,,110.72089978371879,Female,White,62125.46224926514,Unemployed,,,,F32,,,No,Therapy,Worsened,,H002,No,,Clinical Trial,Stable,,Yes
+,,,18.244657033695425,Male,Other,65049.068272784876,Doctor,,,,F32,,,No,Medication,No Change,,H002,Yes,,Clinical Trial,Worsening,,Yes
+,,,21.499000469306225,Male,Hispanic,81024.72408184028,Retired,,,,E11,,,Yes,Surgery,Improved,,H004,Yes,,Insurance Claim,Worsening,,Yes
+,,,125.32011530665503,Female,Hispanic,-354.11054921705363,Teacher,,,,J45,"Wheezing, Shortness of breath",,Yes,Lifestyle Change,No Change,,H002,Yes,,Clinical Trial,Worsening,,No
+,,,31.373231629936182,Female,Asian,61502.1521943157,Retired,,,,E11,,,No,Therapy,Worsened,,H004,No,,Insurance Claim,Stable,78.13981209496785,Yes
+,,,52.8791877270349,Female,Asian,45922.37160030141,Retired,,,,C34,,,Yes,Therapy,Improved,,H003,Yes,,Hospital EMR,Improving,,No
+,,,-4.726663687259851,Male,Other,553.9681135454844,Engineer,,,,C34,,,Yes,Lifestyle Change,Improved,,H004,No,,Insurance Claim,Worsening,56.55587334752376,No
+,,,-31.508777326455885,Female,Asian,63795.62201026728,Unemployed,,,,F32,,,Yes,Therapy,Improved,,H003,No,,Clinical Trial,Stable,,No
+,,,92.39459393616104,Other,Black,25517.121269857056,Retired,,,,I10,"Headache, Dizziness",,Yes,Lifestyle Change,Improved,,H004,No,,Clinical Trial,Stable,,No
+,,,31.64011146592371,Female,White,114336.2387898007,Student,,,,C34,,,No,Therapy,Worsened,,H002,No,,Clinical Trial,Stable,,No
+,,,-22.078210825488732,Other,Asian,-93667.4968838535,Retired,,,,E11,,,No,Lifestyle Change,No Change,,H004,Yes,,Hospital EMR,Stable,,No
+,,,133.5275658010935,Other,Black,15595.299313070553,Engineer,,,,I10,"Headache, Dizziness",,Yes,Surgery,Improved,,H002,Yes,,Hospital EMR,Improving,,Yes
+,,,62.92791786881181,Male,Other,76152.99676632487,Student,,,,J45,"Wheezing, Shortness of breath",,No,Therapy,Improved,,H001,No,,Insurance Claim,Stable,,No
+,,,16.364225894395027,Female,Black,-7030.763664886599,Teacher,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,Improved,,H003,No,,Insurance Claim,Stable,,Yes
+,,,42.53117301223129,Female,White,120421.1748392092,Student,,,,J45,"Shortness of breath, Wheezing",,Yes,Medication,Worsened,,H003,No,,Clinical Trial,Worsening,,No
+,,,126.97673871283867,Male,Black,24249.598927672887,Student,,,,I10,"Headache, Dizziness",,Yes,Surgery,Worsened,,H004,No,,Clinical Trial,Worsening,,No
+,,,7.5266948283365,Female,Black,132299.40841307622,Retired,,,,C34,,,No,Therapy,Worsened,,H001,No,,Hospital EMR,Stable,,Yes
+,,,78.31132491685824,Male,Other,134290.87858370185,Nurse,,,,I10,"Headache, Dizziness",,Yes,Lifestyle Change,Worsened,,H001,Yes,,Hospital EMR,Stable,,No
+,,,-21.332648252414316,Male,Black,25651.031386399904,Student,,,,K21,"Regurgitation, Heartburn",,No,Lifestyle Change,No Change,,H001,No,,Insurance Claim,Improving,,Yes
+,,,15.133362458546179,Other,Black,13732.130606497332,Teacher,,,,I10,"Headache, Dizziness",,Yes,Therapy,Improved,,H003,Yes,,Hospital EMR,Stable,35.93502242205841,No
+,,,-1.9440126909432154,Male,White,-4882.810046558501,Teacher,,,,J45,"Shortness of breath, Wheezing",,No,Medication,Improved,,H002,No,,Insurance Claim,Improving,,Yes
+,,,37.61939855487317,Female,Black,131884.04426962778,Retired,,,,I10,"Headache, Dizziness",,No,Surgery,Worsened,,H001,Yes,,Clinical Trial,Worsening,,Yes
+,,,103.7470879139534,Other,White,15763.827026826568,Retired,,,,K21,"Heartburn, Regurgitation",,Yes,Therapy,Improved,,H004,No,,Hospital EMR,Improving,,No
+,,,21.21734003615019,Female,Hispanic,42206.8769433328,Nurse,,,,C34,,,No,Lifestyle Change,Worsened,,H001,No,,Clinical Trial,Stable,,No
+,,,81.06346669621267,Male,Asian,98582.7983338901,Retired,,,,F32,,,Yes,Lifestyle Change,Worsened,,H004,Yes,,Insurance Claim,Stable,,No
+,,,5.4949077892779545,Male,White,111116.26160178971,Doctor,,,,E11,,,Yes,Surgery,Improved,,H002,Yes,,Clinical Trial,Improving,25.67261696979377,No
+,,,41.01632899235552,Female,Hispanic,21589.61179359311,Doctor,,,,C34,,,Yes,Surgery,Improved,,H002,Yes,,Hospital EMR,Improving,,No
+,,,43.97984997680557,Male,Asian,75796.700549798,Engineer,,,,F32,,,No,Medication,Worsened,,H002,No,,Clinical Trial,Stable,,No
+,,,-3.1354371093256788,Female,Asian,80910.91946444818,Unemployed,,,,C34,,,Yes,Surgery,Improved,,H003,No,,Hospital EMR,Improving,,No
+,,,11.43340092860472,Female,Black,14580.823497615562,Teacher,,,,J45,"Shortness of breath, Wheezing",,Yes,Surgery,No Change,,H003,Yes,,Insurance Claim,Worsening,,Yes
+,,,11.045012205284216,Male,Hispanic,47837.06245347396,Teacher,,,,C34,,,Yes,Surgery,No Change,,H001,No,,Clinical Trial,Worsening,,Yes
+,,,93.53663042801932,Other,Asian,-1315.4283292884252,Teacher,,,,E11,,,Yes,Lifestyle Change,No Change,,H004,Yes,,Clinical Trial,Stable,,No
+,,,43.244118048547094,Female,Black,24390.889319893326,Retired,,,,E11,,,No,Therapy,Worsened,,H003,No,,Hospital EMR,Stable,,Yes
+,,,-13.376484039288883,Other,Hispanic,32942.31443379934,Student,,,,I10,"Dizziness, Headache",,Yes,Medication,Worsened,,H004,No,,Insurance Claim,Stable,,Yes
+,,,-13.420192736298514,Male,White,16832.75560688674,,,,,J45,"Wheezing, Shortness of breath",,No,Therapy,No Change,,H002,No,,Clinical Trial,Worsening,,Yes
+,,,14.254277630070826,Male,Hispanic,50971.1400424709,Teacher,,,,K21,"Regurgitation, Heartburn",,Yes,Surgery,No Change,,H003,No,,Clinical Trial,Improving,,No
+,,,46.611369739780976,Other,Black,10058.183204027813,Retired,,,,J45,"Shortness of breath, Wheezing",,No,Lifestyle Change,Improved,,H001,No,,Clinical Trial,Stable,145.30852686735892,No
+,,,70.32859047176542,Other,Asian,57140.90129772038,Clerk,,,,I10,"Headache, Dizziness",,Yes,Surgery,Worsened,,H001,Yes,,Insurance Claim,Worsening,,Yes
+,,,39.91725337160028,Male,Black,56351.01518647642,Clerk,,,,F32,,,No,Lifestyle Change,Worsened,,H004,Yes,,Clinical Trial,Improving,,Yes
+,,,16.421631955161626,Female,White,34701.04809101792,,,,,I10,"Headache, Dizziness",,Yes,Medication,Worsened,,H004,Yes,,Hospital EMR,Stable,,No
+,,,55.1910649915622,Female,Other,132136.8381508746,Retired,,,,I10,"Headache, Dizziness",,Yes,Lifestyle Change,No Change,,H004,Yes,,Clinical Trial,Improving,83.7589030292828,No
+,,,48.82133712273541,Female,Other,1155.3653763524635,Retired,,,,F32,,,No,Therapy,Worsened,,H001,No,,Hospital EMR,Stable,,No
+,,,45.07400912077977,Female,White,83904.41350081697,Engineer,,,,E11,,,Yes,Therapy,Improved,,H002,Yes,,Insurance Claim,Stable,,Yes
+,,,70.88205188504158,Female,White,96674.42304187591,Student,,,,K21,"Heartburn, Regurgitation",,No,Lifestyle Change,No Change,,H003,No,,Hospital EMR,Stable,,No
+,,,16.657794459820053,Male,Asian,26963.539197297257,Retired,,,,K21,"Regurgitation, Heartburn",,No,Therapy,Improved,,H003,Yes,,Insurance Claim,Stable,,Yes
+,,,53.145206030083145,Male,Other,-8469.642512263483,Clerk,,,,J45,"Shortness of breath, Wheezing",,Yes,Surgery,Improved,,H002,No,,Clinical Trial,Stable,,Yes
+,,,113.8245171338043,Female,White,81692.52057703825,Doctor,,,,M54,"Back pain, Stiffness",,No,Surgery,No Change,,H001,Yes,,Insurance Claim,Stable,,No
+,,,49.92046962057769,Male,Hispanic,-12790.596118229514,Student,,,,C34,,,Yes,Surgery,No Change,,H004,No,,Insurance Claim,Improving,,Yes
+,,,23.921321775768494,Female,White,59291.74974801866,Student,,,,K21,"Regurgitation, Heartburn",,Yes,Surgery,Worsened,,H001,No,,Hospital EMR,Worsening,,Yes
+,,,-20.7352864240754,Other,Black,59325.796719072285,Retired,,,,C34,,,No,Medication,Worsened,,H001,Yes,,Hospital EMR,Improving,,Yes
+,,,-11.770774312586695,Female,Asian,66.81148353263416,Clerk,,,,C34,,,Yes,Lifestyle Change,No Change,,H004,Yes,,Hospital EMR,Improving,,No
+,,,26.672527553112545,Male,Asian,20090.883726573942,Unemployed,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,Worsened,,H001,No,,Hospital EMR,Improving,,Yes
+,,,82.2696450486398,Male,Asian,20746.37846575099,Clerk,,,,F32,,,Yes,Medication,No Change,,H004,No,,Clinical Trial,Improving,,No
+,,,-7.266045202978802,Other,White,98013.01665526823,Student,,,,C34,,,Yes,Surgery,No Change,,H003,Yes,,Hospital EMR,Worsening,,Yes
+,,,42.74501179596313,Male,Asian,56520.744486446405,Retired,,,,M54,"Back pain, Stiffness",,No,Therapy,Worsened,,H003,No,,Insurance Claim,Improving,27.232855876232072,Yes
+,,,9.786483544131794,Female,Other,32878.34824052298,Teacher,,,,F32,,,No,Therapy,No Change,,H001,Yes,,Insurance Claim,Stable,,Yes
+,,,69.51627079105576,Male,White,42562.5168950861,Retired,,,,I10,"Dizziness, Headache",,No,Therapy,No Change,,H003,No,,Insurance Claim,Stable,,Yes
+,,,72.87964572640715,Other,Black,160631.91876882897,Retired,,,,K21,"Heartburn, Regurgitation",,No,Therapy,Improved,,H004,Yes,,Hospital EMR,Improving,,Yes
+,,,20.333072096657872,Other,Other,70326.9003344218,Clerk,,,,M54,"Back pain, Stiffness",,Yes,Therapy,Improved,,H004,Yes,,Hospital EMR,Stable,41.55678757255299,No
+,,,5.625470245415624,Male,Black,17318.706686239686,Student,,,,F32,,,No,Lifestyle Change,Worsened,,H002,Yes,,Hospital EMR,Worsening,,No
+,,,22.896835612725425,Other,White,-29615.077008497166,Clerk,,,,F32,,,Yes,Medication,Improved,,H001,Yes,,Hospital EMR,Stable,,Yes
+,,,60.60592944942327,Female,Hispanic,13948.644341653959,,,,,M54,"Back pain, Stiffness",,Yes,Lifestyle Change,Worsened,,H003,No,,Insurance Claim,Stable,,No
+,,,85.60656075761042,Female,Hispanic,13390.5301470681,Retired,,,,C34,,,No,Surgery,Worsened,,H002,Yes,,Clinical Trial,Stable,,Yes
+,,,73.35705799776801,Male,Hispanic,94961.39449970136,Student,,,,M54,"Back pain, Stiffness",,No,Therapy,Worsened,,H004,No,,Insurance Claim,Improving,,No
+,,,82.32565739250596,Male,White,57528.46007738092,Retired,,,,E11,,,Yes,Medication,Improved,,H002,No,,Hospital EMR,Stable,,Yes
+,,,125.95894673359605,Male,White,169512.4865029009,Engineer,,,,M54,"Stiffness, Back pain",,Yes,Lifestyle Change,Improved,,H004,No,,Clinical Trial,Improving,,No
+,,,31.279147629930556,Other,White,58879.27816567004,Engineer,,,,M54,"Back pain, Stiffness",,Yes,Medication,Worsened,,H004,No,,Clinical Trial,Improving,,Yes
+,,,23.449979504316065,Other,Black,81920.28534068131,Retired,,,,C34,,,Yes,Lifestyle Change,No Change,,H004,No,,Insurance Claim,Worsening,,Yes
+,,,39.86607276162179,Male,Hispanic,63853.59716179667,Doctor,,,,M54,"Stiffness, Back pain",,Yes,Surgery,No Change,,H004,Yes,,Insurance Claim,Improving,,No
+,,,-12.496865984264723,Female,Hispanic,90959.31158724711,Doctor,,,,J45,"Wheezing, Shortness of breath",,Yes,Surgery,Worsened,,H003,No,,Hospital EMR,Improving,,Yes
+,,,59.583646833072066,Other,Other,80392.92060823995,Retired,,,,C34,,,No,Therapy,Improved,,H003,Yes,,Hospital EMR,Improving,,No
+,,,74.05764063933161,Male,White,81269.73093754551,Unemployed,,,,M54,"Back pain, Stiffness",,Yes,Medication,No Change,,H002,Yes,,Hospital EMR,Stable,,No
+,,,74.8575802551885,Other,Asian,40569.13593661109,,,,,F32,,,Yes,Medication,Improved,,H002,No,,Hospital EMR,Stable,,Yes
+,,,58.57172019912806,Male,Hispanic,60283.10941405661,Unemployed,,,,F32,,,Yes,Surgery,Worsened,,H003,Yes,,Clinical Trial,Worsening,,Yes
+,,,-6.615299072542484,Female,Hispanic,4753.176720938063,Retired,,,,I10,"Dizziness, Headache",,No,Medication,No Change,,H002,Yes,,Clinical Trial,Improving,,No
+,,,36.4274267606629,Male,White,77100.9965090359,Student,,,,E11,,,No,Surgery,Worsened,,H003,No,,Hospital EMR,Stable,,No
+,,,67.1500208319077,Female,Hispanic,103453.32943999917,Retired,,,,E11,,,No,Medication,Improved,,H003,No,,Insurance Claim,Improving,,No
+,,,4.370904137154671,Male,Other,83252.1324775708,Retired,,,,K21,"Heartburn, Regurgitation",,Yes,Lifestyle Change,Worsened,,H004,Yes,,Clinical Trial,Improving,,No
+,,,117.61390327708388,Female,Other,68052.97469995702,Retired,,,,M54,"Stiffness, Back pain",,Yes,Therapy,No Change,,H002,No,,Clinical Trial,Stable,117.46930810470202,Yes
+,,,53.63641464574739,Male,Hispanic,39503.217793539414,,,,,J45,"Wheezing, Shortness of breath",,Yes,Surgery,No Change,,H004,Yes,,Insurance Claim,Stable,,Yes
+,,,143.77164428122865,Male,Black,-5750.792465916071,Retired,,,,C34,,,Yes,Medication,Improved,,H004,Yes,,Hospital EMR,Improving,70.26432820450736,No
+,,,-37.194245461867204,Other,Asian,37109.812640687356,Teacher,,,,E11,,,Yes,Lifestyle Change,No Change,,H002,No,,Hospital EMR,Improving,,No
+,,,13.50836538975759,Male,Asian,36160.785938560875,Unemployed,,,,F32,,,No,Medication,No Change,,H002,Yes,,Insurance Claim,Stable,,No
+,,,60.37709180253012,Male,Black,46016.46046169477,Retired,,,,I10,"Headache, Dizziness",,Yes,Therapy,No Change,,H001,No,,Clinical Trial,Improving,,Yes
+,,,-8.543213696736814,Male,Asian,114518.74780955598,Doctor,,,,C34,,,No,Medication,No Change,,H002,No,,Clinical Trial,Improving,,Yes
+,,,111.55765614432724,Male,Black,65340.19084688653,,,,,M54,"Stiffness, Back pain",,No,Medication,Improved,,H002,Yes,,Clinical Trial,Worsening,,Yes
+,,,71.30743200969377,Other,Asian,68566.25763502542,Doctor,,,,J45,"Shortness of breath, Wheezing",,No,Therapy,Improved,,H004,Yes,,Hospital EMR,Improving,,No
+,,,5.884633357584121,Female,Asian,19450.663977050484,Clerk,,,,M54,"Stiffness, Back pain",,Yes,Lifestyle Change,No Change,,H003,No,,Clinical Trial,Stable,,Yes
+,,,21.9521639487369,Female,White,67061.73696032562,Unemployed,,,,E11,,,No,Therapy,Improved,,H004,No,,Insurance Claim,Stable,,No
+,,,8.41543603354027,Female,Black,85916.06836310013,Nurse,,,,F32,,,Yes,Therapy,Improved,,H001,Yes,,Clinical Trial,Worsening,,No
+,,,108.05265113946297,Male,Other,77983.21152088577,Student,,,,F32,,,Yes,Medication,Improved,,H002,No,,Insurance Claim,Stable,,Yes
+,,,64.33144363151202,Female,Other,50056.871921915794,Student,,,,J45,"Wheezing, Shortness of breath",,Yes,Lifestyle Change,Improved,,H003,Yes,,Hospital EMR,Improving,,No
+,,,-5.339632775601821,Male,Hispanic,183111.09440932813,Retired,,,,C34,,,Yes,Lifestyle Change,Improved,,H002,No,,Insurance Claim,Worsening,,No
+,,,53.04715045903097,Female,Hispanic,28973.843644508714,Clerk,,,,M54,"Back pain, Stiffness",,Yes,Therapy,No Change,,H003,Yes,,Insurance Claim,Stable,114.19424208408697,Yes
+,,,77.21847657096005,Male,Hispanic,57292.14958972385,Doctor,,,,I10,"Dizziness, Headache",,Yes,Medication,Improved,,H002,Yes,,Insurance Claim,Improving,,Yes
+,,,68.1958954844666,Female,Hispanic,-16040.305120927776,,,,,I10,"Dizziness, Headache",,Yes,Surgery,No Change,,H001,Yes,,Clinical Trial,Worsening,,Yes
+,,,44.02060786692692,Female,Hispanic,17305.78344551683,Engineer,,,,I10,"Dizziness, Headache",,No,Medication,Worsened,,H002,Yes,,Hospital EMR,Stable,,No
+,,,29.24046463026686,Other,Asian,78110.99051512544,Clerk,,,,M54,"Back pain, Stiffness",,No,Therapy,No Change,,H002,Yes,,Hospital EMR,Worsening,20.28671449368821,No
+,,,109.38370245221473,Other,Other,56818.33868071038,Unemployed,,,,E11,,,No,Medication,Improved,,H004,Yes,,Clinical Trial,Worsening,,No
+,,,24.11037403541697,Female,Hispanic,-17256.543270923394,Student,,,,M54,"Stiffness, Back pain",,No,Therapy,Worsened,,H001,Yes,,Clinical Trial,Improving,,Yes
+,,,38.41847038138714,Other,Black,45752.18952954327,Doctor,,,,I10,"Dizziness, Headache",,Yes,Medication,Improved,,H004,No,,Clinical Trial,Stable,,No
+,,,72.9010242502934,Other,Black,105115.82565253251,Engineer,,,,I10,"Headache, Dizziness",,No,Lifestyle Change,No Change,,H003,Yes,,Hospital EMR,Worsening,,Yes
+,,,30.499255383581126,Other,Asian,77903.04437567623,Retired,,,,E11,,,No,Surgery,Worsened,,H003,No,,Clinical Trial,Improving,75.0203866150423,Yes
+,,,4.2731875499792835,Other,Asian,61495.31633887395,Unemployed,,,,C34,,,Yes,Medication,Improved,,H001,Yes,,Insurance Claim,Worsening,,No
+,,,-42.596895993954895,Male,Hispanic,73441.23943932366,,,,,I10,"Dizziness, Headache",,Yes,Therapy,No Change,,H003,No,,Hospital EMR,Improving,,No
+,,,87.63161299305577,Male,Black,25844.139333116524,,,,,K21,"Regurgitation, Heartburn",,Yes,Lifestyle Change,Improved,,H001,Yes,,Insurance Claim,Stable,,Yes
+,,,83.4144706021558,Male,Hispanic,13164.918771822398,Retired,,,,M54,"Back pain, Stiffness",,Yes,Therapy,No Change,,H004,No,,Insurance Claim,Stable,55.918499285786474,Yes
+,,,9.878538132140964,Male,Other,98011.57414859504,Unemployed,,,,C34,,,No,Lifestyle Change,No Change,,H003,Yes,,Hospital EMR,Stable,,Yes
+,,,29.577049156945463,Male,White,140039.92020741757,Retired,,,,E11,,,No,Surgery,No Change,,H004,Yes,,Clinical Trial,Worsening,,No
+,,,17.896978790080095,Male,Black,72725.45748483395,Retired,,,,I10,"Headache, Dizziness",,Yes,Therapy,Improved,,H001,Yes,,Hospital EMR,Worsening,,No
+,,,100.24989902225242,Female,Black,39230.600906641565,Student,,,,E11,,,No,Surgery,Worsened,,H001,Yes,,Clinical Trial,Worsening,,No
+,,,110.07713873300196,Other,White,123267.66189237623,Retired,,,,K21,"Regurgitation, Heartburn",,No,Medication,Worsened,,H003,Yes,,Clinical Trial,Stable,,Yes
+,,,86.65098443781875,Other,Black,10255.61087674844,Nurse,,,,C34,,,Yes,Medication,Worsened,,H001,Yes,,Insurance Claim,Worsening,,Yes
+,,,-21.90470467205266,Female,Asian,96350.80790718937,Unemployed,,,,C34,,,Yes,Surgery,Improved,,H001,No,,Insurance Claim,Stable,,Yes
+,,,-6.191345170057502,Male,White,91801.06842852567,Student,,,,F32,,,No,Medication,Improved,,H004,Yes,,Hospital EMR,Stable,34.07170022698899,Yes
+,,,51.04639807242698,Male,Other,97472.93186255175,Student,,,,K21,"Heartburn, Regurgitation",,Yes,Therapy,No Change,,H001,Yes,,Clinical Trial,Stable,,No
+,,,16.019647162691605,Male,Hispanic,6055.796816744689,Nurse,,,,C34,,,Yes,Lifestyle Change,Improved,,H001,Yes,,Hospital EMR,Improving,,Yes
+,,,27.611820872439438,Female,Black,-38612.80464065248,Student,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,No Change,,H004,No,,Hospital EMR,Worsening,93.03710927416384,No
+,,,53.91252670387494,Female,Asian,4067.985226033219,Retired,,,,E11,,,Yes,Therapy,No Change,,H001,Yes,,Hospital EMR,Improving,,No
+,,,-7.096261193055131,Other,White,-18578.53232155071,Nurse,,,,E11,,,No,Lifestyle Change,Improved,,H002,No,,Clinical Trial,Stable,,Yes
+,,,34.47844306997799,Male,Asian,-98386.65166787276,Retired,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,No Change,,H002,Yes,,Hospital EMR,Worsening,,No
+,,,36.896995887970206,Male,Black,85418.49069195372,Retired,,,,I10,"Dizziness, Headache",,No,Surgery,Improved,,H001,Yes,,Hospital EMR,Worsening,,No
+,,,30.929261315643835,Female,Black,65872.49928545635,Retired,,,,F32,,,No,Medication,Improved,,H002,No,,Hospital EMR,Stable,,No
+,,,70.68086314115435,Other,White,-42788.13270905843,Retired,,,,C34,,,No,Surgery,No Change,,H001,Yes,,Hospital EMR,Worsening,,Yes
+,,,7.983833180666553,Female,White,-12.80322991635694,Engineer,,,,F32,,,Yes,Surgery,Worsened,,H003,Yes,,Hospital EMR,Improving,,Yes
+,,,-0.6360068411479531,Male,Black,41749.93514570329,Doctor,,,,I10,"Headache, Dizziness",,Yes,Surgery,Improved,,H003,Yes,,Hospital EMR,Worsening,,No
+,,,31.33349882479289,Other,Asian,25967.29539862279,Teacher,,,,K21,"Regurgitation, Heartburn",,Yes,Surgery,Improved,,H002,Yes,,Hospital EMR,Worsening,,Yes
+,,,77.977626307308,Other,Hispanic,27056.43088075343,Clerk,,,,K21,"Heartburn, Regurgitation",,Yes,Therapy,Worsened,,H004,Yes,,Clinical Trial,Improving,,Yes
+,,,37.03362920340619,Male,Black,25938.563295174223,Retired,,,,F32,,,Yes,Surgery,Improved,,H003,Yes,,Clinical Trial,Improving,,No
+,,,24.09693804906222,Other,Other,48550.18085818921,Teacher,,,,F32,,,No,Medication,Improved,,H004,Yes,,Hospital EMR,Improving,,Yes
+,,,46.042990619959554,Female,Asian,-93789.33811706744,,,,,K21,"Heartburn, Regurgitation",,Yes,Therapy,Worsened,,H001,Yes,,Insurance Claim,Worsening,,Yes
+,,,45.65005571615947,Other,Asian,66626.92281142315,Retired,,,,I10,"Headache, Dizziness",,No,Therapy,Improved,,H002,No,,Clinical Trial,Improving,,No
+,,,-73.56547815021682,Male,Other,58007.79910041304,Student,,,,J45,"Wheezing, Shortness of breath",,No,Medication,Improved,,H002,No,,Hospital EMR,Improving,,Yes
+,,,36.77163479694479,Female,Other,56879.41170824606,Student,,,,C34,,,No,Lifestyle Change,Worsened,,H001,Yes,,Clinical Trial,Improving,,No
+,,,37.55810043972903,Male,Hispanic,47907.70015182029,Doctor,,,,C34,,,No,Surgery,Improved,,H001,Yes,,Insurance Claim,Improving,,No
+,,,92.81726169461908,Female,Asian,-31874.879965479886,Engineer,,,,E11,,,Yes,Therapy,Improved,,H001,No,,Clinical Trial,Stable,,No
+,,,57.80002928137269,Other,White,78668.37327333633,Teacher,,,,E11,,,Yes,Lifestyle Change,Improved,,H004,No,,Insurance Claim,Improving,,No
+,,,102.006097472357,Other,Black,119787.63821821824,,,,,C34,,,No,Medication,Worsened,,H001,Yes,,Hospital EMR,Worsening,,No
+,,,17.569094996666923,Female,Hispanic,48697.74469851974,Doctor,,,,F32,,,Yes,Medication,Worsened,,H004,Yes,,Hospital EMR,Worsening,101.80180034522674,Yes
+,,,43.6145584614108,Female,Other,73434.99303027385,,,,,F32,,,Yes,Surgery,Worsened,,H001,Yes,,Insurance Claim,Improving,104.57675115354817,Yes
+,,,54.29743791702312,Other,Asian,71418.11559740372,Student,,,,K21,"Heartburn, Regurgitation",,Yes,Medication,Worsened,,H002,No,,Hospital EMR,Worsening,,Yes
+,,,151.25377089019895,Other,Black,27844.044806294518,Unemployed,,,,C34,,,No,Lifestyle Change,No Change,,H004,No,,Insurance Claim,Stable,,Yes
+,,,3.0121796460519903,Female,Hispanic,29634.915926741578,Retired,,,,J45,"Wheezing, Shortness of breath",,No,Therapy,Worsened,,H003,Yes,,Insurance Claim,Worsening,,No
+,,,76.37663149230438,Female,Asian,106514.8170223388,Nurse,,,,M54,"Back pain, Stiffness",,Yes,Therapy,No Change,,H004,No,,Hospital EMR,Improving,,Yes
+,,,58.72504892536527,Female,Asian,121320.44923728115,Retired,,,,I10,"Dizziness, Headache",,No,Surgery,Improved,,H003,No,,Insurance Claim,Stable,,Yes
+,,,110.32859455738608,Female,Other,-48948.907367365086,Clerk,,,,I10,"Headache, Dizziness",,No,Medication,Improved,,H002,Yes,,Clinical Trial,Stable,,Yes
+,,,-31.540836889369764,Male,Other,123553.92558830301,Retired,,,,M54,"Back pain, Stiffness",,Yes,Surgery,Improved,,H004,Yes,,Hospital EMR,Worsening,,Yes
+,,,12.601877165565684,Female,Black,37627.07103114344,Engineer,,,,E11,,,No,Lifestyle Change,Worsened,,H002,Yes,,Insurance Claim,Worsening,,No
+,,,43.74560112696594,Other,White,80361.2350317899,Retired,,,,I10,"Headache, Dizziness",,Yes,Medication,Worsened,,H003,No,,Clinical Trial,Improving,,Yes
+,,,-18.053265181587076,Other,Black,10952.223245363675,Student,,,,C34,,,Yes,Therapy,No Change,,H002,No,,Insurance Claim,Worsening,,No
+,,,110.10302116452542,Male,Hispanic,61409.87402163007,Retired,,,,F32,,,Yes,Lifestyle Change,No Change,,H003,No,,Hospital EMR,Worsening,,No
+,,,4.819109972928818,Other,White,20440.83090282014,Clerk,,,,I10,"Headache, Dizziness",,No,Therapy,Improved,,H001,No,,Hospital EMR,Worsening,,Yes
+,,,33.247537460488246,Male,Other,93630.07557774757,Engineer,,,,E11,,,No,Lifestyle Change,Improved,,H004,Yes,,Insurance Claim,Stable,,Yes
+,,,82.99591816118667,Female,Other,134566.39214274276,Retired,,,,K21,"Heartburn, Regurgitation",,No,Medication,No Change,,H002,Yes,,Insurance Claim,Improving,,No
+,,,89.0141238311565,Female,Other,79110.25041366069,Clerk,,,,M54,"Stiffness, Back pain",,Yes,Surgery,Worsened,,H003,No,,Clinical Trial,Improving,,No
+,,,62.99395817579179,Male,Other,53356.76967910326,Retired,,,,J45,"Wheezing, Shortness of breath",,No,Therapy,No Change,,H001,Yes,,Clinical Trial,Stable,,No
+,,,97.18707959545827,Female,Black,45150.5176294935,Retired,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,No Change,,H003,No,,Hospital EMR,Stable,,Yes
+,,,2.993626491543017,Other,Asian,61932.73486424534,Nurse,,,,K21,"Heartburn, Regurgitation",,No,Surgery,No Change,,H002,Yes,,Insurance Claim,Stable,,Yes
+,,,100.04666684675536,Other,Asian,68424.83233471954,Teacher,,,,K21,"Regurgitation, Heartburn",,Yes,Therapy,Improved,,H002,No,,Hospital EMR,Improving,98.04197918797327,Yes
+,,,48.16224535818037,Other,Other,39543.81164161371,Retired,,,,M54,"Stiffness, Back pain",,Yes,Medication,Worsened,,H003,Yes,,Insurance Claim,Stable,91.19126297447451,Yes
+,,,5.0864376021042705,Other,Asian,72191.15988180919,Retired,,,,M54,"Stiffness, Back pain",,Yes,Therapy,Worsened,,H003,Yes,,Clinical Trial,Worsening,,Yes
+,,,73.5811253617186,Other,Asian,123583.83653562012,Nurse,,,,F32,,,No,Surgery,Worsened,,H001,Yes,,Hospital EMR,Stable,,Yes
+,,,6.605128621425209,Female,White,-48648.94069264617,Unemployed,,,,F32,,,Yes,Lifestyle Change,Improved,,H004,No,,Clinical Trial,Improving,,Yes
+,,,69.56134730602339,Female,Asian,64162.38071969558,Doctor,,,,I10,"Dizziness, Headache",,Yes,Lifestyle Change,Worsened,,H003,No,,Insurance Claim,Stable,116.79081587585696,Yes
+,,,108.18216922918862,Male,Asian,39133.93592572792,Retired,,,,E11,,,Yes,Therapy,Improved,,H002,Yes,,Hospital EMR,Improving,,No
+,,,-5.1858590944532175,Female,White,73821.72353177333,Retired,,,,M54,"Stiffness, Back pain",,Yes,Medication,No Change,,H001,No,,Insurance Claim,Stable,,Yes
+,,,20.811081885398913,Female,Asian,21263.730897228692,Student,,,,M54,"Stiffness, Back pain",,No,Surgery,No Change,,H003,No,,Clinical Trial,Improving,215.49098342136395,Yes
+,,,15.520205046530458,Other,Hispanic,144215.7081293782,Retired,,,,I10,"Headache, Dizziness",,Yes,Surgery,No Change,,H001,Yes,,Clinical Trial,Stable,121.59681226169504,Yes
+,,,58.48642122534039,Other,Hispanic,23859.107772472853,Clerk,,,,F32,,,Yes,Therapy,Improved,,H004,Yes,,Hospital EMR,Worsening,,No
+,,,34.61465729814942,Other,White,91425.69623246077,Unemployed,,,,F32,,,No,Lifestyle Change,No Change,,H004,Yes,,Hospital EMR,Stable,,Yes
+,,,-4.595761400807399,Male,Asian,52286.544417811296,Clerk,,,,E11,,,No,Surgery,No Change,,H002,No,,Clinical Trial,Stable,,Yes
+,,,76.44595196184014,Female,Other,29130.202447779142,Nurse,,,,I10,"Dizziness, Headache",,No,Medication,Worsened,,H001,Yes,,Clinical Trial,Worsening,,No
+,,,2.197390628785763,Female,Black,38388.761450272854,Doctor,,,,E11,,,Yes,Lifestyle Change,Worsened,,H001,No,,Insurance Claim,Stable,,Yes
+,,,13.252166113243108,Female,Hispanic,72568.5914847833,Retired,,,,E11,,,Yes,Therapy,Worsened,,H002,No,,Insurance Claim,Improving,,No
+,,,9.493083433265918,Other,Other,-38670.78999480529,Student,,,,K21,"Heartburn, Regurgitation",,No,Therapy,Worsened,,H004,No,,Clinical Trial,Stable,,Yes
+,,,69.26402249046158,Female,Hispanic,25125.135672338653,Teacher,,,,F32,,,No,Surgery,Improved,,H002,Yes,,Hospital EMR,Improving,,Yes
+,,,60.51252639738067,Other,White,58453.42328758162,Clerk,,,,M54,"Back pain, Stiffness",,Yes,Medication,No Change,,H001,No,,Hospital EMR,Stable,,No
+,,,-16.118279261767437,Other,Black,21272.558964086533,Engineer,,,,I10,"Headache, Dizziness",,No,Therapy,Improved,,H002,No,,Hospital EMR,Stable,,No
+,,,96.16762983050906,Female,Asian,54771.910415201506,Teacher,,,,C34,,,Yes,Therapy,Improved,,H001,Yes,,Hospital EMR,Improving,101.51788918865437,No
+,,,4.933493576591643,Female,Hispanic,94468.04316314423,Engineer,,,,E11,,,Yes,Surgery,Worsened,,H002,Yes,,Clinical Trial,Stable,,No
+,,,6.539094954213887,Male,Black,60391.28946726186,Retired,,,,M54,"Back pain, Stiffness",,Yes,Medication,No Change,,H004,Yes,,Hospital EMR,Stable,,No
+,,,92.77060231592311,Female,Hispanic,44679.946540406025,Unemployed,,,,F32,,,Yes,Medication,Improved,,H001,No,,Insurance Claim,Improving,,Yes
+,,,87.33010943865006,Male,White,71780.11022073022,Student,,,,E11,,,No,Surgery,Worsened,,H004,Yes,,Insurance Claim,Worsening,,Yes
+,,,60.091430290966535,Other,Black,70309.07564776385,Retired,,,,K21,"Regurgitation, Heartburn",,No,Therapy,Improved,,H002,Yes,,Clinical Trial,Stable,,Yes
+,,,44.45263727602194,Male,Hispanic,-316.95866526077225,Student,,,,E11,,,No,Therapy,Worsened,,H002,No,,Clinical Trial,Stable,,No
+,,,44.119016746559645,Female,Hispanic,61459.24019633033,Engineer,,,,F32,,,No,Therapy,No Change,,H001,No,,Hospital EMR,Improving,,No
+,,,55.48662070097739,Male,Asian,837.4499004295067,Retired,,,,E11,,,No,Medication,No Change,,H002,No,,Hospital EMR,Worsening,,Yes
+,,,50.630125565572364,Female,Hispanic,75565.27043501489,Teacher,,,,M54,"Back pain, Stiffness",,Yes,Lifestyle Change,Worsened,,H004,Yes,,Insurance Claim,Stable,,Yes
+,,,11.410014119226975,Male,Hispanic,55277.496994491856,Clerk,,,,I10,"Dizziness, Headache",,No,Surgery,Improved,,H003,No,,Clinical Trial,Improving,,Yes
+,,,46.34721761714221,Female,Asian,137331.91199714318,Unemployed,,,,K21,"Heartburn, Regurgitation",,No,Therapy,Worsened,,H001,Yes,,Clinical Trial,Improving,,No
+,,,12.723440525947076,Male,White,40034.99253891525,Unemployed,,,,F32,,,Yes,Surgery,Improved,,H004,No,,Hospital EMR,Improving,102.35273506386613,No
+,,,-3.334195234391877,Male,Hispanic,175004.65917433085,Student,,,,F32,,,No,Lifestyle Change,No Change,,H002,Yes,,Hospital EMR,Stable,,No
+,,,-3.942562147812912,Male,White,-39693.2482424555,Clerk,,,,M54,"Back pain, Stiffness",,No,Therapy,Improved,,H003,No,,Hospital EMR,Worsening,,Yes
+,,,52.667153621346664,Other,White,111961.43222622813,Retired,,,,F32,,,Yes,Medication,No Change,,H004,Yes,,Insurance Claim,Stable,,No
+,,,53.77650298549355,Female,Asian,15607.87188089705,Teacher,,,,E11,,,Yes,Surgery,Worsened,,H001,No,,Insurance Claim,Improving,,No
+,,,53.33541577397847,Male,Hispanic,38208.79635540878,Retired,,,,I10,"Dizziness, Headache",,Yes,Lifestyle Change,Improved,,H004,Yes,,Clinical Trial,Improving,,No
+,,,68.49764319161541,Male,Hispanic,19193.511779590313,Retired,,,,F32,,,Yes,Therapy,Worsened,,H004,No,,Clinical Trial,Improving,,No
+,,,53.74040095173622,Other,Asian,29060.645043596298,Retired,,,,F32,,,No,Lifestyle Change,Worsened,,H002,Yes,,Insurance Claim,Worsening,,Yes
+,,,17.933036449662698,Male,Black,-58235.47384781069,Doctor,,,,F32,,,No,Medication,Worsened,,H001,No,,Hospital EMR,Improving,,Yes
+,,,64.00292313731643,Female,White,73674.7050752016,Nurse,,,,J45,"Shortness of breath, Wheezing",,No,Lifestyle Change,No Change,,H003,No,,Hospital EMR,Worsening,,No
+,,,60.84349176902353,Other,Black,160149.02960279872,Nurse,,,,J45,"Wheezing, Shortness of breath",,No,Lifestyle Change,No Change,,H002,Yes,,Insurance Claim,Stable,72.94452103227961,No
+,,,75.97616972836128,Female,Black,80966.48486954258,Engineer,,,,K21,"Regurgitation, Heartburn",,No,Therapy,No Change,,H004,No,,Hospital EMR,Stable,,No
+,,,44.18839401478493,Female,Hispanic,38059.6799235368,,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,Improved,,H002,No,,Insurance Claim,Improving,,Yes
+,,,26.2930183742442,Other,Asian,-19138.253568892305,Student,,,,E11,,,No,Lifestyle Change,Worsened,,H002,No,,Clinical Trial,Stable,48.111959878031556,Yes
+,,,57.244724355484934,Other,Hispanic,77674.95742735882,Doctor,,,,J45,"Wheezing, Shortness of breath",,No,Surgery,Improved,,H001,Yes,,Hospital EMR,Improving,,Yes
+,,,58.61468630711789,Female,Black,89433.15843175643,Retired,,,,I10,"Headache, Dizziness",,Yes,Lifestyle Change,No Change,,H002,No,,Clinical Trial,Worsening,,Yes
+,,,144.39372370577598,Other,White,30442.773711690876,Nurse,,,,F32,,,No,Medication,Improved,,H004,Yes,,Hospital EMR,Improving,,No
+,,,46.19581875749156,Female,Black,78181.9502027773,Retired,,,,M54,"Stiffness, Back pain",,No,Therapy,No Change,,H001,Yes,,Hospital EMR,Worsening,,No
+,,,2.709619484071574,Other,Other,77742.00652591547,Engineer,,,,C34,,,No,Therapy,No Change,,H002,Yes,,Hospital EMR,Improving,,Yes
+,,,41.337996576524034,Male,White,-3634.0795790714365,Student,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,No Change,,H002,Yes,,Clinical Trial,Improving,,No
+,,,47.657959786663206,Male,Hispanic,68444.7261572741,Retired,,,,C34,,,No,Medication,Improved,,H001,No,,Insurance Claim,Stable,,No
+,,,85.40348946327389,Female,White,56251.85740377738,Doctor,,,,J45,"Wheezing, Shortness of breath",,No,Surgery,Improved,,H004,No,,Hospital EMR,Improving,140.3773261073282,No
+,,,51.336927935645974,Other,White,6253.615915881842,Nurse,,,,I10,"Headache, Dizziness",,No,Medication,Improved,,H003,Yes,,Insurance Claim,Stable,,Yes
+,,,103.4083078083024,Female,Asian,12814.57869375958,Student,,,,E11,,,No,Medication,No Change,,H003,No,,Clinical Trial,Stable,,Yes
+,,,3.3690469226614543,Other,Black,75602.20276485756,Retired,,,,K21,"Regurgitation, Heartburn",,Yes,Therapy,Improved,,H003,Yes,,Hospital EMR,Stable,,No
+,,,86.5648893099074,Male,White,25618.466701490946,Unemployed,,,,E11,,,Yes,Surgery,Improved,,H002,No,,Clinical Trial,Stable,,Yes
+,,,23.670770540356905,Female,Asian,-28991.67662702223,Student,,,,M54,"Stiffness, Back pain",,No,Therapy,Worsened,,H004,Yes,,Clinical Trial,Stable,,Yes
+,,,19.06555336835042,Female,Black,11836.129910686415,Retired,,,,M54,"Stiffness, Back pain",,Yes,Surgery,Improved,,H001,No,,Insurance Claim,Improving,,No
+,,,72.78892727157988,Male,Other,57997.78318889184,Retired,,,,F32,,,No,Medication,No Change,,H003,Yes,,Insurance Claim,Improving,,Yes
+,,,53.31393828816063,Male,Other,32355.866736231143,Retired,,,,E11,,,No,Medication,No Change,,H002,No,,Insurance Claim,Worsening,,Yes
+,,,52.65597577878205,Female,White,-23782.571307503178,Nurse,,,,I10,"Headache, Dizziness",,Yes,Medication,Worsened,,H003,No,,Hospital EMR,Stable,,No
+,,,25.175659181087145,Other,Other,-14894.609040382158,Retired,,,,F32,,,No,Lifestyle Change,Worsened,,H004,No,,Clinical Trial,Stable,,Yes
+,,,12.196328750077157,Male,Black,40762.27593246826,Doctor,,,,C34,,,Yes,Surgery,Worsened,,H001,Yes,,Hospital EMR,Stable,39.13478528645584,Yes
+,,,75.55599252933976,Female,Hispanic,62108.58469386985,Retired,,,,F32,,,Yes,Therapy,Improved,,H001,Yes,,Insurance Claim,Worsening,,No
+,,,23.37557449188474,Female,Hispanic,31803.684990816884,Clerk,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,Worsened,,H001,Yes,,Clinical Trial,Improving,,Yes
+,,,58.485814101874944,Other,White,-25194.50328582344,Teacher,,,,F32,,,Yes,Surgery,Worsened,,H002,No,,Insurance Claim,Stable,,No
+,,,99.58019755723035,Other,Black,5176.707026905766,Engineer,,,,K21,"Regurgitation, Heartburn",,No,Lifestyle Change,Worsened,,H004,No,,Hospital EMR,Improving,63.763719467531644,No
+,,,68.89124423408906,Male,Black,127690.29523518965,Unemployed,,,,C34,,,No,Lifestyle Change,No Change,,H003,No,,Hospital EMR,Worsening,,No
+,,,22.372063284069124,Other,Asian,72882.6338062587,Retired,,,,I10,"Headache, Dizziness",,No,Surgery,Improved,,H003,No,,Clinical Trial,Stable,,Yes
+,,,79.92843578809108,Other,Asian,41304.17181465553,Engineer,,,,I10,"Headache, Dizziness",,Yes,Therapy,No Change,,H002,No,,Insurance Claim,Improving,,Yes
+,,,88.7029435239195,Other,Asian,95607.7973571347,Engineer,,,,C34,,,No,Surgery,No Change,,H001,Yes,,Hospital EMR,Improving,,No
+,,,66.08429163668472,Other,Other,65183.43210087847,Unemployed,,,,C34,,,No,Surgery,Worsened,,H004,No,,Hospital EMR,Worsening,,No
+,,,75.17174469532202,Other,White,81502.41291172223,Retired,,,,M54,"Stiffness, Back pain",,No,Surgery,No Change,,H002,Yes,,Hospital EMR,Worsening,,No
+,,,-26.029158367751613,Other,Asian,74841.92490799249,Teacher,,,,F32,,,No,Therapy,Worsened,,H004,No,,Insurance Claim,Stable,,Yes
+,,,18.658922058435465,Male,Asian,56717.15529535472,Clerk,,,,M54,"Back pain, Stiffness",,No,Therapy,No Change,,H002,Yes,,Insurance Claim,Stable,,Yes
+,,,29.400413587996336,Female,Asian,22918.78698056168,Unemployed,,,,K21,"Regurgitation, Heartburn",,Yes,Lifestyle Change,Worsened,,H003,No,,Hospital EMR,Worsening,,No
+,,,41.03639676449799,Other,Asian,927.8063084647738,Nurse,,,,M54,"Stiffness, Back pain",,No,Surgery,No Change,,H001,Yes,,Hospital EMR,Improving,,No
+,,,27.422138249506386,Male,Asian,56566.69518677046,Student,,,,E11,,,Yes,Medication,Improved,,H004,Yes,,Insurance Claim,Improving,,Yes
+,,,-19.37761296328463,Female,Black,-92058.68304841989,Student,,,,E11,,,Yes,Therapy,Worsened,,H001,Yes,,Insurance Claim,Stable,,No
+,,,45.28583106180504,Male,Black,77930.95538474568,Clerk,,,,J45,"Shortness of breath, Wheezing",,Yes,Surgery,Worsened,,H002,Yes,,Clinical Trial,Worsening,,No
+,,,6.936331010741684,Male,Hispanic,-2060.0702944083896,Retired,,,,K21,"Regurgitation, Heartburn",,No,Therapy,No Change,,H002,No,,Insurance Claim,Improving,,Yes
+,,,77.4685347737166,Other,Hispanic,937.3306507740017,Unemployed,,,,M54,"Stiffness, Back pain",,No,Therapy,No Change,,H001,Yes,,Clinical Trial,Stable,,Yes
+,,,20.259381770971384,Female,Other,80751.56907697808,Engineer,,,,C34,,,No,Therapy,Improved,,H001,No,,Hospital EMR,Stable,,Yes
+,,,70.80485650622958,Male,Asian,53511.33514929106,Doctor,,,,E11,,,No,Lifestyle Change,Improved,,H002,No,,Hospital EMR,Stable,,Yes
+,,,21.90383837461769,Other,White,16975.346986772172,Nurse,,,,M54,"Stiffness, Back pain",,No,Therapy,Worsened,,H003,Yes,,Hospital EMR,Worsening,,No
+,,,58.98261820815667,Male,Black,-21543.35318113464,Doctor,,,,F32,,,Yes,Therapy,No Change,,H001,Yes,,Hospital EMR,Improving,,Yes
+,,,96.21316570778697,Female,Asian,37277.620736840996,Clerk,,,,K21,"Regurgitation, Heartburn",,Yes,Therapy,No Change,,H004,Yes,,Insurance Claim,Improving,,No
+,,,19.82642933406347,Male,Other,-19678.172270831055,Unemployed,,,,M54,"Stiffness, Back pain",,Yes,Surgery,No Change,,H003,No,,Insurance Claim,Stable,22.281960214693584,Yes
+,,,35.59698912267398,Male,Hispanic,50744.93460826143,Teacher,,,,F32,,,Yes,Therapy,Worsened,,H003,No,,Clinical Trial,Stable,,No
+,,,-6.740153468888067,Male,Other,40664.815018096524,Clerk,,,,K21,"Regurgitation, Heartburn",,Yes,Therapy,Worsened,,H004,No,,Hospital EMR,Improving,,No
+,,,76.71795256380963,Male,Black,13882.099911472338,Unemployed,,,,J45,"Wheezing, Shortness of breath",,Yes,Medication,Worsened,,H002,No,,Hospital EMR,Worsening,,Yes
+,,,37.142680120198776,Male,White,53809.026024828745,Teacher,,,,C34,,,No,Lifestyle Change,Improved,,H003,Yes,,Clinical Trial,Worsening,,Yes
+,,,131.4023722051533,Female,Black,87891.26972990224,Nurse,,,,C34,,,No,Surgery,Improved,,H001,No,,Clinical Trial,Worsening,,Yes
+,,,-15.133193595930315,Other,Asian,49422.28830266456,Clerk,,,,C34,,,No,Medication,Worsened,,H004,Yes,,Hospital EMR,Worsening,,No
+,,,66.48678554081515,Male,Asian,-63224.13997635443,Clerk,,,,K21,"Regurgitation, Heartburn",,No,Therapy,No Change,,H001,Yes,,Clinical Trial,Stable,,Yes
+,,,-4.067572685486287,Other,Other,107454.49720160656,Clerk,,,,E11,,,No,Lifestyle Change,No Change,,H003,No,,Hospital EMR,Improving,68.54947046548762,No
+,,,13.714203452960213,Male,Hispanic,89183.21260386074,Unemployed,,,,E11,,,No,Medication,No Change,,H002,No,,Clinical Trial,Worsening,,No
+,,,68.83740689438119,Other,Black,61126.19836096617,Retired,,,,K21,"Regurgitation, Heartburn",,Yes,Therapy,No Change,,H004,Yes,,Hospital EMR,Improving,,Yes
+,,,72.6032872530308,Other,Black,89129.88951289468,Retired,,,,K21,"Regurgitation, Heartburn",,Yes,Surgery,Improved,,H004,Yes,,Hospital EMR,Worsening,,Yes
+,,,46.66275814419213,Female,Other,51854.11725803996,Student,,,,J45,"Wheezing, Shortness of breath",,No,Therapy,Worsened,,H001,Yes,,Hospital EMR,Worsening,,No
+,,,94.79314211801224,Female,Hispanic,47377.56751791302,,,,,M54,"Stiffness, Back pain",,No,Therapy,Worsened,,H004,No,,Hospital EMR,Worsening,21.851694891550054,No
+,,,154.6440207676464,Female,Hispanic,19757.47580507063,Retired,,,,E11,,,No,Surgery,Worsened,,H004,No,,Hospital EMR,Improving,,Yes
+,,,37.1447790306953,Male,Other,-9872.787356538367,Retired,,,,J45,"Shortness of breath, Wheezing",,Yes,Surgery,No Change,,H001,No,,Hospital EMR,Improving,40.65506023463821,No
+,,,107.80143030573619,Other,Asian,87136.91489237174,Doctor,,,,K21,"Heartburn, Regurgitation",,Yes,Therapy,Improved,,H004,Yes,,Clinical Trial,Stable,,Yes
+,,,56.412784329886485,Male,Hispanic,130064.88870018662,Clerk,,,,M54,"Back pain, Stiffness",,Yes,Lifestyle Change,Worsened,,H002,No,,Hospital EMR,Worsening,,Yes
+,,,38.932629585574546,Other,Other,77555.50670392778,Teacher,,,,F32,,,No,Lifestyle Change,Worsened,,H003,Yes,,Insurance Claim,Improving,,No
+,,,8.763191585337083,Female,Asian,7485.67268175515,Student,,,,M54,"Back pain, Stiffness",,No,Medication,Improved,,H004,No,,Clinical Trial,Worsening,,No
+,,,165.38045074195463,Other,Hispanic,60264.428011706004,Retired,,,,K21,"Heartburn, Regurgitation",,No,Surgery,Improved,,H001,Yes,,Clinical Trial,Stable,,No
+,,,145.95130125058375,Other,Other,39969.448906854144,Retired,,,,I10,"Dizziness, Headache",,No,Surgery,No Change,,H001,No,,Clinical Trial,Stable,,No
+,,,15.091152650355346,Female,White,9539.680189806943,Unemployed,,,,J45,"Wheezing, Shortness of breath",,No,Medication,Worsened,,H003,Yes,,Clinical Trial,Worsening,,Yes
+,,,13.162897400326834,Other,Other,11414.136401104655,Retired,,,,M54,"Stiffness, Back pain",,Yes,Medication,Improved,,H003,Yes,,Clinical Trial,Worsening,,Yes
+,,,12.291336626420247,Other,Asian,82278.80639523969,Student,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,Improved,,H003,No,,Insurance Claim,Stable,15.92568580209724,No
+,,,95.88461379092149,Other,Asian,-1441.1774751952144,Student,,,,C34,,,No,Therapy,Improved,,H004,No,,Clinical Trial,Improving,,No
+,,,56.66878886630426,Female,Black,-446.36073654588836,Teacher,,,,J45,"Shortness of breath, Wheezing",,No,Medication,Worsened,,H001,Yes,,Clinical Trial,Worsening,,No
+,,,-26.261162630981154,Other,White,64225.676699625634,Nurse,,,,M54,"Stiffness, Back pain",,No,Lifestyle Change,Improved,,H001,No,,Clinical Trial,Improving,,Yes
+,,,42.003356891743046,Male,Hispanic,-22599.571001015953,Retired,,,,J45,"Shortness of breath, Wheezing",,No,Surgery,Worsened,,H002,Yes,,Hospital EMR,Worsening,,No
+,,,98.36966688038758,Male,Asian,83385.2461429495,Teacher,,,,C34,,,No,Therapy,No Change,,H003,No,,Clinical Trial,Worsening,,Yes
+,,,80.16005178519018,Male,Asian,49242.89277161366,Student,,,,I10,"Dizziness, Headache",,Yes,Lifestyle Change,Worsened,,H001,Yes,,Hospital EMR,Improving,,No
+,,,28.252711867324397,Male,Asian,37840.5209086319,Retired,,,,F32,,,No,Medication,No Change,,H003,Yes,,Insurance Claim,Improving,,Yes
+,,,92.97129875782258,Female,Hispanic,19384.034290068677,Engineer,,,,I10,"Dizziness, Headache",,No,Medication,No Change,,H002,No,,Clinical Trial,Worsening,,No
+,,,-51.59225214609634,Other,Asian,11657.482845776507,Unemployed,,,,I10,"Headache, Dizziness",,No,Therapy,Improved,,H003,Yes,,Clinical Trial,Improving,,Yes
+,,,82.57424587306846,Male,White,60533.63629383469,Student,,,,F32,,,No,Therapy,Improved,,H004,No,,Insurance Claim,Improving,,Yes
+,,,-26.887358587226405,Male,White,-3795.3607940813563,Retired,,,,K21,"Heartburn, Regurgitation",,Yes,Medication,No Change,,H001,Yes,,Clinical Trial,Worsening,,No
+,,,71.13542475211781,Other,Hispanic,99216.85214622765,Retired,,,,E11,,,Yes,Medication,Improved,,H004,No,,Clinical Trial,Worsening,,No
+,,,-113.09717222748614,Male,White,8021.934097198251,Engineer,,,,M54,"Stiffness, Back pain",,Yes,Surgery,No Change,,H004,Yes,,Insurance Claim,Improving,,No
+,,,27.353425321828684,Male,Hispanic,20505.58507818961,Nurse,,,,K21,"Heartburn, Regurgitation",,Yes,Therapy,Improved,,H001,No,,Hospital EMR,Improving,143.3852951749093,Yes
+,,,99.38564376249707,Other,Other,53537.549346639586,Engineer,,,,C34,,,Yes,Therapy,No Change,,H003,Yes,,Clinical Trial,Stable,,No
+,,,65.97656110871858,Female,Black,13774.683361962656,Retired,,,,I10,"Dizziness, Headache",,Yes,Surgery,Worsened,,H002,Yes,,Hospital EMR,Improving,,Yes
+,,,12.804240848156208,Male,Other,687.7555951611994,Clerk,,,,K21,"Heartburn, Regurgitation",,Yes,Surgery,Worsened,,H004,No,,Insurance Claim,Improving,,No
+,,,70.28473509019364,Female,Hispanic,91464.23986806348,Retired,,,,M54,"Back pain, Stiffness",,No,Lifestyle Change,Improved,,H004,Yes,,Hospital EMR,Worsening,,No
+,,,34.56584992326632,Male,Asian,26625.180283081558,Student,,,,I10,"Headache, Dizziness",,No,Therapy,Worsened,,H004,No,,Clinical Trial,Stable,,Yes
+,,,66.61935692192776,Male,Other,57814.508884781,,,,,F32,,,Yes,Medication,No Change,,H003,Yes,,Insurance Claim,Improving,129.22160716407834,Yes
+,,,22.378704637608777,Female,Other,107015.03320704146,Unemployed,,,,I10,"Dizziness, Headache",,No,Lifestyle Change,Worsened,,H004,Yes,,Hospital EMR,Stable,,No
+,,,122.7864024709088,Female,White,-15686.962454570967,Retired,,,,M54,"Back pain, Stiffness",,Yes,Medication,No Change,,H003,No,,Clinical Trial,Improving,,No
+,,,45.464099942429286,Male,Other,133446.3298983664,Retired,,,,I10,"Dizziness, Headache",,Yes,Medication,Worsened,,H003,No,,Clinical Trial,Worsening,,Yes
+,,,-20.377323576195007,Male,White,59370.464846515446,Teacher,,,,M54,"Stiffness, Back pain",,Yes,Lifestyle Change,Worsened,,H004,No,,Insurance Claim,Worsening,63.41554511758045,No
+,,,60.3117008534655,Female,Hispanic,27909.166602022826,,,,,F32,,,Yes,Therapy,Worsened,,H004,Yes,,Insurance Claim,Improving,,Yes
+,,,-31.58933577040647,Female,Other,19668.46164879172,Retired,,,,F32,,,Yes,Surgery,No Change,,H004,No,,Insurance Claim,Worsening,,No
+,,,72.74364152243838,Male,Black,77988.8619129352,Retired,,,,I10,"Dizziness, Headache",,No,Surgery,Improved,,H001,No,,Insurance Claim,Stable,104.79080690867508,Yes
+,,,75.7635987836803,Other,Asian,77503.98768897147,Doctor,,,,K21,"Regurgitation, Heartburn",,No,Medication,Worsened,,H002,Yes,,Insurance Claim,Improving,,Yes
+,,,69.6786117965494,Female,Hispanic,123137.41529054956,Unemployed,,,,E11,,,No,Surgery,Improved,,H004,Yes,,Hospital EMR,Stable,,Yes
+,,,80.85360218425265,Female,Black,41237.110469710075,Engineer,,,,E11,,,No,Surgery,Improved,,H003,No,,Insurance Claim,Worsening,,Yes
+,,,23.64309839970498,Other,White,1614.3242965445907,Student,,,,I10,"Dizziness, Headache",,Yes,Medication,Improved,,H003,Yes,,Insurance Claim,Improving,,No
+,,,42.307577120312786,Other,Other,65954.38932483115,Teacher,,,,F32,,,No,Therapy,Improved,,H003,No,,Clinical Trial,Stable,,No
+,,,63.28932447552015,Male,Asian,100544.75855566806,Student,,,,M54,"Back pain, Stiffness",,Yes,Medication,Improved,,H001,Yes,,Insurance Claim,Stable,,Yes
+,,,177.37562034462874,Other,Other,-1132.2461178626054,Student,,,,K21,"Heartburn, Regurgitation",,No,Medication,Worsened,,H003,Yes,,Clinical Trial,Improving,,Yes
+,,,68.40311376299364,Other,Black,47890.87603624242,Clerk,,,,C34,,,Yes,Surgery,No Change,,H003,Yes,,Hospital EMR,Improving,,No
+,,,-8.724606233435043,Other,Other,115102.95167863058,,,,,E11,,,No,Therapy,Improved,,H002,No,,Hospital EMR,Worsening,,No
+,,,-69.4284732442547,Female,Other,92043.02041883193,Clerk,,,,C34,,,Yes,Therapy,Worsened,,H002,Yes,,Clinical Trial,Improving,,Yes
+,,,78.81296224376331,Other,Black,106441.07439377764,Retired,,,,J45,"Wheezing, Shortness of breath",,Yes,Lifestyle Change,No Change,,H004,Yes,,Hospital EMR,Stable,,Yes
+,,,34.22387612672462,Female,Asian,118616.34027435165,Retired,,,,I10,"Dizziness, Headache",,Yes,Lifestyle Change,No Change,,H004,No,,Hospital EMR,Stable,,Yes
+,,,98.45359065407581,Male,Hispanic,42691.235958807185,Doctor,,,,E11,,,No,Therapy,No Change,,H004,Yes,,Clinical Trial,Stable,,Yes
+,,,8.073212524924564,Other,White,64958.95291373497,Retired,,,,E11,,,No,Medication,No Change,,H004,Yes,,Clinical Trial,Stable,,Yes
+,,,42.62043886920705,Other,Hispanic,119406.23959247148,Retired,,,,I10,"Dizziness, Headache",,No,Lifestyle Change,No Change,,H004,Yes,,Hospital EMR,Improving,,No
+,,,51.61023463078077,Other,White,-29272.355105343682,Clerk,,,,C34,,,No,Medication,No Change,,H002,Yes,,Insurance Claim,Worsening,,No
+,,,152.56426442431166,Male,Other,132613.32412450944,Student,,,,J45,"Wheezing, Shortness of breath",,Yes,Surgery,Worsened,,H002,No,,Hospital EMR,Improving,,Yes
+,,,34.665327069004455,Other,Black,125492.92636402039,,,,,C34,,,No,Lifestyle Change,Worsened,,H002,No,,Clinical Trial,Stable,,Yes
+,,,57.07220220978702,Female,Black,2645.9040287625407,Retired,,,,E11,,,Yes,Lifestyle Change,No Change,,H003,No,,Hospital EMR,Worsening,,Yes
+,,,20.46642231380597,Other,Other,61915.86547376393,,,,,J45,"Wheezing, Shortness of breath",,Yes,Surgery,Worsened,,H003,Yes,,Hospital EMR,Improving,,No
+,,,60.951428482573164,Male,Black,115103.15166139657,Clerk,,,,K21,"Regurgitation, Heartburn",,Yes,Medication,Improved,,H002,No,,Insurance Claim,Improving,,No
+,,,79.98623411086545,Female,White,68046.84239690145,,,,,J45,"Shortness of breath, Wheezing",,Yes,Therapy,No Change,,H004,Yes,,Hospital EMR,Improving,,No
+,,,36.03174441639702,Male,Other,21222.884757770193,Retired,,,,F32,,,Yes,Surgery,Improved,,H004,Yes,,Hospital EMR,Worsening,80.231621753105,Yes
+,,,56.105366709679075,Male,Other,51006.72050807789,Unemployed,,,,M54,"Back pain, Stiffness",,Yes,Surgery,No Change,,H003,No,,Insurance Claim,Improving,,No
+,,,64.16784756419099,Male,Hispanic,104434.68822759548,,,,,K21,"Heartburn, Regurgitation",,No,Lifestyle Change,Improved,,H002,Yes,,Clinical Trial,Stable,,Yes
+,,,-17.437237378645264,Female,Asian,-29079.496338340927,Student,,,,J45,"Shortness of breath, Wheezing",,No,Therapy,Improved,,H002,Yes,,Hospital EMR,Worsening,,Yes
+,,,46.42962439550865,Male,Asian,87616.82213569648,Teacher,,,,J45,"Shortness of breath, Wheezing",,No,Lifestyle Change,No Change,,H002,Yes,,Clinical Trial,Stable,,No
+,,,39.406350923534205,Male,Asian,27065.44312023335,Unemployed,,,,E11,,,No,Lifestyle Change,Improved,,H001,No,,Clinical Trial,Stable,,Yes
+,,,-26.2005875756738,Other,White,30247.276665131372,Clerk,,,,F32,,,No,Therapy,Worsened,,H001,Yes,,Clinical Trial,Stable,,No
+,,,73.21908208548707,Other,White,36355.80330083395,Nurse,,,,K21,"Regurgitation, Heartburn",,No,Surgery,Worsened,,H001,No,,Insurance Claim,Worsening,,No
+,,,55.14514010760957,Female,Other,49583.634863258536,Nurse,,,,F32,,,Yes,Surgery,Worsened,,H001,No,,Hospital EMR,Stable,24.379038732395145,No
+,,,-32.727222011396094,Male,Hispanic,116175.52233688318,Student,,,,I10,"Headache, Dizziness",,Yes,Therapy,Improved,,H002,No,,Hospital EMR,Improving,-61.025621050614674,Yes

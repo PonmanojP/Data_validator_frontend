@@ -1,0 +1,444 @@
+{
+  "timestamp": "2025-11-09T16:04:25.968733Z",
+  "before_pes": {
+    "PES": 0.795,
+    "risk_level": "High"
+  },
+  "after_pes": 0.48128261888125173,
+  "initial_utility": 1.0,
+  "final_utility": 0.7311348506747309,
+  "techniques_applied": [
+    "k_anonymity",
+    "suppression",
+    "differential_privacy"
+  ],
+  "technique_config": [
+    {
+      "k": 10
+    },
+    {},
+    {
+      "epsilon": 0.9
+    }
+  ],
+  "dataset_name": "7031122087514c6cb50b41cc5c9625a9_iot_usage.csv",
+  "dataset_rows": 300,
+  "dataset_columns": 13,
+  "pes_progression": [
+    {
+      "iteration": 0,
+      "pes": 0.795,
+      "risk_level": "High"
+    },
+    {
+      "iteration": 1,
+      "pes": 0.799,
+      "risk_level": "High"
+    },
+    {
+      "iteration": 2,
+      "pes": 0.799,
+      "risk_level": "High"
+    },
+    {
+      "iteration": 3,
+      "pes": 0.799,
+      "risk_level": "High"
+    },
+    {
+      "iteration": 4,
+      "pes": 0.3934777503296738,
+      "risk_level": "medium"
+    }
+  ],
+  "utility_progression": [
+    {
+      "iteration": 0,
+      "utility": 1.0
+    },
+    {
+      "iteration": 1,
+      "utility": 0.7089764451367527
+    },
+    {
+      "iteration": 2,
+      "utility": 0.748498891314981
+    },
+    {
+      "iteration": 3,
+      "utility": 0.6823529689780389
+    },
+    {
+      "iteration": 4,
+      "utility": 0.7311348506747309
+    }
+  ],
+  "column_enforcement": {
+    "Device_ID": [
+      {
+        "technique": "k_anonymity",
+        "params": {
+          "k": 10
+        },
+        "reason": "high_uniqueness"
+      },
+      {
+        "technique": "suppression",
+        "params": {},
+        "reason": "reduce_identifiers"
+      }
+    ],
+    "User_ID": [
+      {
+        "technique": "k_anonymity",
+        "params": {
+          "k": 10
+        },
+        "reason": "high_uniqueness"
+      },
+      {
+        "technique": "suppression",
+        "params": {},
+        "reason": "reduce_identifiers"
+      }
+    ],
+    "Age": [
+      {
+        "technique": "k_anonymity",
+        "params": {
+          "k": 10
+        },
+        "reason": "high_uniqueness"
+      },
+      {
+        "technique": "suppression",
+        "params": {},
+        "reason": "reduce_identifiers"
+      },
+      {
+        "technique": "differential_privacy",
+        "params": {
+          "epsilon": 0.9
+        },
+        "reason": "high_entropy"
+      },
+      {
+        "technique": "permutation",
+        "params": {
+          "columns": [
+            "Age",
+            "Household_Size",
+            "Avg_Energy_Usage_kWh",
+            "Peak_Load_kW",
+            "Water_Usage_L_per_day",
+            "Occupancy_Hours",
+            "Smart_Device_Count",
+            "Energy_Cost"
+          ]
+        },
+        "reason": "post_differential_privacy_linkage_breaking"
+      }
+    ],
+    "Household_Size": [
+      {
+        "technique": "k_anonymity",
+        "params": {
+          "k": 10
+        },
+        "reason": "high_uniqueness"
+      },
+      {
+        "technique": "suppression",
+        "params": {},
+        "reason": "reduce_identifiers"
+      },
+      {
+        "technique": "differential_privacy",
+        "params": {
+          "epsilon": 0.9
+        },
+        "reason": "high_entropy"
+      },
+      {
+        "technique": "permutation",
+        "params": {
+          "columns": [
+            "Age",
+            "Household_Size",
+            "Avg_Energy_Usage_kWh",
+            "Peak_Load_kW",
+            "Water_Usage_L_per_day",
+            "Occupancy_Hours",
+            "Smart_Device_Count",
+            "Energy_Cost"
+          ]
+        },
+        "reason": "post_differential_privacy_linkage_breaking"
+      }
+    ],
+    "City": [
+      {
+        "technique": "k_anonymity",
+        "params": {
+          "k": 10
+        },
+        "reason": "high_uniqueness"
+      },
+      {
+        "technique": "suppression",
+        "params": {},
+        "reason": "reduce_identifiers"
+      }
+    ],
+    "Avg_Energy_Usage_kWh": [
+      {
+        "technique": "k_anonymity",
+        "params": {
+          "k": 10
+        },
+        "reason": "high_uniqueness"
+      },
+      {
+        "technique": "suppression",
+        "params": {},
+        "reason": "reduce_identifiers"
+      },
+      {
+        "technique": "differential_privacy",
+        "params": {
+          "epsilon": 0.9
+        },
+        "reason": "high_entropy"
+      },
+      {
+        "technique": "permutation",
+        "params": {
+          "columns": [
+            "Age",
+            "Household_Size",
+            "Avg_Energy_Usage_kWh",
+            "Peak_Load_kW",
+            "Water_Usage_L_per_day",
+            "Occupancy_Hours",
+            "Smart_Device_Count",
+            "Energy_Cost"
+          ]
+        },
+        "reason": "post_differential_privacy_linkage_breaking"
+      }
+    ],
+    "Peak_Load_kW": [
+      {
+        "technique": "k_anonymity",
+        "params": {
+          "k": 10
+        },
+        "reason": "high_uniqueness"
+      },
+      {
+        "technique": "suppression",
+        "params": {},
+        "reason": "reduce_identifiers"
+      },
+      {
+        "technique": "differential_privacy",
+        "params": {
+          "epsilon": 0.9
+        },
+        "reason": "high_entropy"
+      },
+      {
+        "technique": "permutation",
+        "params": {
+          "columns": [
+            "Age",
+            "Household_Size",
+            "Avg_Energy_Usage_kWh",
+            "Peak_Load_kW",
+            "Water_Usage_L_per_day",
+            "Occupancy_Hours",
+            "Smart_Device_Count",
+            "Energy_Cost"
+          ]
+        },
+        "reason": "post_differential_privacy_linkage_breaking"
+      }
+    ],
+    "Water_Usage_L_per_day": [
+      {
+        "technique": "k_anonymity",
+        "params": {
+          "k": 10
+        },
+        "reason": "high_uniqueness"
+      },
+      {
+        "technique": "suppression",
+        "params": {},
+        "reason": "reduce_identifiers"
+      },
+      {
+        "technique": "differential_privacy",
+        "params": {
+          "epsilon": 0.9
+        },
+        "reason": "high_entropy"
+      },
+      {
+        "technique": "permutation",
+        "params": {
+          "columns": [
+            "Age",
+            "Household_Size",
+            "Avg_Energy_Usage_kWh",
+            "Peak_Load_kW",
+            "Water_Usage_L_per_day",
+            "Occupancy_Hours",
+            "Smart_Device_Count",
+            "Energy_Cost"
+          ]
+        },
+        "reason": "post_differential_privacy_linkage_breaking"
+      }
+    ],
+    "Occupancy_Hours": [
+      {
+        "technique": "k_anonymity",
+        "params": {
+          "k": 10
+        },
+        "reason": "high_uniqueness"
+      },
+      {
+        "technique": "suppression",
+        "params": {},
+        "reason": "reduce_identifiers"
+      },
+      {
+        "technique": "differential_privacy",
+        "params": {
+          "epsilon": 0.9
+        },
+        "reason": "high_entropy"
+      },
+      {
+        "technique": "permutation",
+        "params": {
+          "columns": [
+            "Age",
+            "Household_Size",
+            "Avg_Energy_Usage_kWh",
+            "Peak_Load_kW",
+            "Water_Usage_L_per_day",
+            "Occupancy_Hours",
+            "Smart_Device_Count",
+            "Energy_Cost"
+          ]
+        },
+        "reason": "post_differential_privacy_linkage_breaking"
+      }
+    ],
+    "Smart_Device_Count": [
+      {
+        "technique": "k_anonymity",
+        "params": {
+          "k": 10
+        },
+        "reason": "high_uniqueness"
+      },
+      {
+        "technique": "suppression",
+        "params": {},
+        "reason": "reduce_identifiers"
+      },
+      {
+        "technique": "differential_privacy",
+        "params": {
+          "epsilon": 0.9
+        },
+        "reason": "high_entropy"
+      },
+      {
+        "technique": "permutation",
+        "params": {
+          "columns": [
+            "Age",
+            "Household_Size",
+            "Avg_Energy_Usage_kWh",
+            "Peak_Load_kW",
+            "Water_Usage_L_per_day",
+            "Occupancy_Hours",
+            "Smart_Device_Count",
+            "Energy_Cost"
+          ]
+        },
+        "reason": "post_differential_privacy_linkage_breaking"
+      }
+    ],
+    "Weather_Condition": [
+      {
+        "technique": "k_anonymity",
+        "params": {
+          "k": 10
+        },
+        "reason": "high_uniqueness"
+      },
+      {
+        "technique": "suppression",
+        "params": {},
+        "reason": "reduce_identifiers"
+      }
+    ],
+    "Weekday": [
+      {
+        "technique": "k_anonymity",
+        "params": {
+          "k": 10
+        },
+        "reason": "high_uniqueness"
+      },
+      {
+        "technique": "suppression",
+        "params": {},
+        "reason": "reduce_identifiers"
+      }
+    ],
+    "Energy_Cost": [
+      {
+        "technique": "k_anonymity",
+        "params": {
+          "k": 10
+        },
+        "reason": "high_uniqueness"
+      },
+      {
+        "technique": "suppression",
+        "params": {},
+        "reason": "reduce_identifiers"
+      },
+      {
+        "technique": "differential_privacy",
+        "params": {
+          "epsilon": 0.9
+        },
+        "reason": "high_entropy"
+      },
+      {
+        "technique": "permutation",
+        "params": {
+          "columns": [
+            "Age",
+            "Household_Size",
+            "Avg_Energy_Usage_kWh",
+            "Peak_Load_kW",
+            "Water_Usage_L_per_day",
+            "Occupancy_Hours",
+            "Smart_Device_Count",
+            "Energy_Cost"
+          ]
+        },
+        "reason": "post_differential_privacy_linkage_breaking"
+      }
+    ]
+  }
+}

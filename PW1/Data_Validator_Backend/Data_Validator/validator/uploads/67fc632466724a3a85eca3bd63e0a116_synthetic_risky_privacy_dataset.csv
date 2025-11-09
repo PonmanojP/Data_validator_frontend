@@ -1,0 +1,1001 @@
+National_ID,Full_Name,Gender,DOB,Age,Country,City,Profession,Annual_Income,Income_Bracket,Phone,Email,Diagnosis,Risk_Score,Admission_Date,Consent
+ID100000,Christopher Mercer,Male,1939-07-04,86,India,Kolkata,Manager,103515.0,80-120K,555-123-1234,hensonmorgan@example.net,Cancer,0.791,2023-12-14,Yes
+ID100001,Mark Rose,Female,1979-04-29,46,Canada,Toronto,Nurse,66968.31,50-80K,001-776-217-2171,dale02@example.org,Diabetes,0.667,2025-10-13,Yes
+ID100002,Elizabeth Elliott,Female,1990-04-01,35,India,Delhi,Nurse,39378.72,30-50K,203.944.4575,gblack@example.org,Hypertension,0.541,2025-09-27,Yes
+ID100003,Jeff Becker,Nonbinary,2004-09-25,21,UK,Liverpool,Teacher,92430.82,80-120K,489.531.3035x561,tonyharper@example.com,Cancer,0.845,2024-03-07,Yes
+ID100004,Robert Arnold,Nonbinary,1944-03-23,81,UK,London,Manager,20000.0,<30K,432.531.7228x92799,claytonweaver@example.com,Depression,0.293,2025-03-13,Yes
+ID100005,Alan Reeves,Female,1943-03-10,82,India,Bangalore,Engineer,61168.58,50-80K,7262476649,lesliegreene@example.net,Diabetes,0.64,2023-10-11,Yes
+ID100006,Lori Lawrence,Female,1937-08-06,88,India,Delhi,Manager,89105.81,80-120K,(700)669-5929x0975,sarah45@example.org,Cancer,0.801,2024-12-13,Yes
+ID100007,Nicholas Dawson,Female,1951-07-30,74,India,Mumbai,Teacher,72084.93,50-80K,330-725-7902x855,john61@example.net,Cancer,0.816,2024-10-06,Yes
+ID100008,Katherine Fischer,Nonbinary,2003-08-16,22,India,Delhi,Nurse,79779.27,50-80K,432.941.9454x1492,hhodges@example.net,Cancer,0.853,2023-10-21,Yes
+ID100009,Melinda Riley,Female,1986-10-06,39,USA,Los Angeles,Nurse,51318.58,50-80K,+1-511-857-3356x544,suzannecruz@example.com,Asthma,0.32,2025-04-24,Yes
+ID100010,Lori Orozco,Male,1981-07-26,44,India,Mumbai,Doctor,42355.8,30-50K,8777885603,sherry91@example.com,Hypertension,0.506,2025-07-29,No
+ID100011,Richard Reese,Nonbinary,1952-05-18,73,UK,Manchester,Artist,83312.27,80-120K,2665768050,chad17@example.net,Cancer,0.749,2024-12-21,Yes
+ID100012,Nicholas Hays,Female,1963-08-14,62,Canada,Montreal,Manager,50842.26,50-80K,+1-783-927-6684x780,rbarnes@example.net,Diabetes,0.628,2025-07-11,Yes
+ID100013,David Miller,Male,1972-10-29,53,UK,Liverpool,Teacher,31593.89,30-50K,6352318259,jacksonlori@example.org,Depression,0.251,2024-06-22,Yes
+ID100014,Nancy Marshall,Male,1941-06-20,84,India,Mumbai,Engineer,93333.58,80-120K,901.676.8882x7123,victoriapaul@example.org,Cancer,0.807,2024-06-10,Yes
+ID100015,Ashley Sanchez,Male,1964-04-28,61,Canada,Montreal,Teacher,46474.33,30-50K,001-823-934-9920x073,sharonwilliams@example.net,Asthma,0.316,2023-11-15,No
+ID100016,Christine Lopez,Female,1957-08-21,68,India,Delhi,Engineer,49526.4,30-50K,907-453-4414x8867,pmaddox@example.com,Asthma,0.482,2025-09-10,No
+ID100017,Amanda Simmons,Nonbinary,1941-07-26,84,Canada,Toronto,Doctor,88900.01,80-120K,555-123-1234,baldwinphillip@example.com,Cancer,0.829,2024-12-27,Yes
+ID100018,Daniel Johnson,Female,1959-05-05,66,UK,Manchester,Artist,52804.83,50-80K,(454)708-2565x8783,cgarner@example.org,Diabetes,0.548,2024-03-23,No
+ID100019,Alfred Kelly,Female,1985-02-23,40,India,Kolkata,Manager,92751.9,80-120K,715-755-3387,matthewthomas@example.com,Cancer,0.672,2025-04-01,Yes
+ID100020,Leslie May,Female,1943-11-25,82,UK,Liverpool,Teacher,50240.94,50-80K,001-779-436-8833x349,linda73@example.com,Diabetes,0.752,2025-08-05,Yes
+ID100021,Joshua Diaz,Nonbinary,2004-04-01,21,UK,London,Nurse,44905.53,30-50K,722-613-7182,masonmartin@example.org,Diabetes,0.756,2025-09-12,Yes
+ID100022,Ashley Cook,Female,1993-04-20,32,India,Bangalore,Scientist,104974.59,80-120K,284.948.2592,jennifer76@example.com,Alzheimer's,0.828,2024-10-07,No
+ID100023,Alexander Washington,Male,1967-03-05,58,India,Bangalore,Manager,50530.18,50-80K,+1-637-678-7151x34825,ncampbell@example.net,Diabetes,0.601,2025-05-08,No
+ID100024,Tammy Peters,Female,1938-11-18,87,India,Delhi,Artist,37227.92,30-50K,610.559.9740x011,collinsbarbara@example.com,Asthma,0.415,2023-11-13,No
+ID100025,William Jones,Female,1981-02-11,44,Canada,Calgary,Nurse,30945.07,30-50K,9338603002,mooreshelly@example.com,Depression,0.283,2025-05-14,No
+ID100026,Amanda Cross,Female,1988-09-13,37,Canada,Montreal,Teacher,61589.75,50-80K,(222)725-3612x75777,wilsonalex@example.com,Diabetes,0.673,2023-12-03,No
+ID100027,Peter Allen,Nonbinary,1989-06-25,36,UK,Manchester,Nurse,74211.64,50-80K,601.677.4624,aliciadavis@example.com,Cancer,0.794,2025-03-30,No
+ID100028,Lisa Acosta,Female,1937-11-14,88,India,Delhi,Scientist,71878.24,50-80K,+1-550-934-3231x2156,qhaynes@example.net,Asthma,0.411,2025-06-24,No
+ID100029,Brooke Davis,Nonbinary,1958-11-03,67,USA,New York,Manager,90045.5,80-120K,(714)451-2998x6455,thomasreginald@example.com,Cancer,0.849,2023-09-21,No
+ID100030,Charles Bruce,Male,1973-03-30,52,Canada,Montreal,Doctor,29731.06,<30K,(341)701-9369x1554,robert23@example.org,Depression,0.277,2024-06-05,No
+ID100031,James Johnson,Male,1994-05-12,31,India,Bangalore,Nurse,90555.99,80-120K,241.594.9854x26983,michaelmercer@example.com,Cancer,0.717,2025-09-24,Yes
+ID100032,Alexa Flores,Nonbinary,1981-11-10,44,UK,London,Engineer,111591.14,80-120K,626-385-1248x0507,buckleyfrank@example.net,Alzheimer's,0.892,2025-03-18,No
+ID100033,Robert Martin,Nonbinary,1945-05-10,80,UK,Edinburgh,Nurse,112278.99,80-120K,787.564.9235x142,michael93@example.com,Alzheimer's,0.838,2024-02-05,No
+ID100034,Thomas York,Female,1979-11-02,46,Canada,Toronto,Artist,40499.95,30-50K,555-123-1234,umiller@example.com,Asthma,0.331,2023-11-13,No
+ID100035,Martin Weaver,Male,1974-01-03,51,India,Bangalore,Teacher,94519.15,80-120K,513-585-5914x407,barronmichael@example.net,Alzheimer's,0.871,2024-01-20,No
+ID100036,Tracy Lopez,Female,1984-04-19,41,India,Delhi,Doctor,90753.9,80-120K,+1-899-480-3705x4230,wgarcia@example.org,Cancer,0.675,2025-04-23,No
+ID100037,Beth Elliott,Female,1985-06-03,40,India,Delhi,Manager,111507.12,80-120K,(513)906-6190x797,jessica60@example.com,Alzheimer's,0.946,2024-07-03,No
+ID100038,William Stone,Nonbinary,1955-03-30,70,Canada,Toronto,Teacher,105903.8,80-120K,375-326-8366x073,christopherjones@example.org,Alzheimer's,0.942,2025-05-05,Yes
+ID100039,Mr. Daniel Williams Jr.,Female,1963-03-16,62,USA,Chicago,Engineer,56647.99,50-80K,3665193614,lryan@example.org,Diabetes,0.549,2025-10-11,Yes
+ID100040,Madeline Merritt,Nonbinary,1948-04-30,77,UK,London,Doctor,52488.23,50-80K,230.718.3338x3130,chopkins@example.org,Diabetes,0.582,2024-02-03,Yes
+ID100041,Christina Edwards,Female,1940-09-20,85,Canada,Toronto,Engineer,85289.97,80-120K,638-293-9156,dianabryant@example.com,Cancer,0.884,2023-09-05,Yes
+ID100042,Nicole Perkins,Female,1993-02-02,32,UK,Manchester,Engineer,22985.8,<30K,(644)499-0228,jennifer29@example.org,Depression,0.143,2024-07-29,No
+ID100043,James Schmitt,Male,1987-11-24,38,Canada,Vancouver,Artist,82969.08,80-120K,(945)619-5965x53505,scott28@example.net,Cancer,0.766,2025-06-24,No
+ID100044,Heather Cooper,Nonbinary,1962-01-09,63,UK,London,Teacher,53531.06,50-80K,271-889-3693,akent@example.org,Asthma,0.406,2025-04-25,Yes
+ID100045,Kristen Burns,Nonbinary,1959-08-20,66,UK,London,Nurse,87090.76,80-120K,500.829.0239x51022,andrewallen@example.org,Cancer,0.849,2023-11-18,Yes
+ID100046,Ricky Cuevas,Nonbinary,1974-02-20,51,Canada,Vancouver,Engineer,81744.92,80-120K,741.318.3348x26900,jwells@example.com,Cancer,0.782,2024-02-09,No
+ID100047,John Mendoza,Nonbinary,2003-10-08,22,Canada,Calgary,Teacher,48405.63,30-50K,486-604-3689x0026,elliottbrandon@example.com,Hypertension,0.576,2024-06-09,Yes
+ID100048,Dr. Christine Hernandez PhD,Female,1946-11-01,79,UK,London,Scientist,32842.61,30-50K,544.243.6522x38870,jeffreyrodriguez@example.net,Depression,0.393,2025-09-14,Yes
+ID100049,Sheri Boyd,Nonbinary,2000-04-09,25,UK,Manchester,Engineer,98368.88,80-120K,001-230-978-3211x914,nuneznicole@example.org,Cancer,0.818,2024-09-01,Yes
+ID100050,Stephen Nielsen,Nonbinary,1953-05-21,72,Canada,Montreal,Scientist,92390.47,80-120K,613-867-7593x584,taylordavis@example.net,Cancer,0.735,2025-02-28,Yes
+ID100051,Teresa Neal,Male,2003-11-13,22,India,Mumbai,Scientist,99344.3,80-120K,555-123-1234,lorisilva@example.com,Cancer,0.753,2025-02-14,No
+ID100052,Raymond Miller,Female,2005-05-06,20,UK,Edinburgh,Manager,99802.81,80-120K,279-277-3174,kennedycharles@example.org,Cancer,0.884,2024-03-11,No
+ID100053,Thomas Jones,Male,1960-09-21,65,USA,Chicago,Teacher,107565.47,80-120K,(732)449-7062x734,burtontimothy@example.org,Alzheimer's,0.992,2024-07-06,No
+ID100054,Thomas Wilson,Male,1970-12-30,55,UK,Edinburgh,Artist,59452.95,50-80K,517.778.1740x28530,huffmanjohnny@example.net,Diabetes,0.589,2023-11-22,Yes
+ID100055,Connor Conner,Male,1958-01-25,67,USA,Chicago,Manager,36296.17,30-50K,+1-835-261-2384x989,andrewrivera@example.com,Depression,0.354,2025-07-26,No
+ID100056,Katie Allison,Female,1957-10-20,68,UK,London,Scientist,56412.08,50-80K,(887)704-0880x53280,daveyoung@example.net,Diabetes,0.643,2024-07-27,Yes
+ID100057,Daniel Lee,Female,2001-01-17,24,Canada,Toronto,Nurse,45763.96,30-50K,(425)641-9599x1760,tracey30@example.com,Diabetes,0.673,2024-12-02,Yes
+ID100058,Ronald Richards,Male,1960-09-24,65,Canada,Montreal,Teacher,59994.19,50-80K,+1-671-513-7832x5278,duanethomas@example.com,Diabetes,0.691,2025-06-01,No
+ID100059,Jacqueline Vega,Female,1985-01-08,40,Canada,Toronto,Engineer,46011.05,30-50K,8264125673,traceyburke@example.org,Hypertension,0.542,2023-12-22,Yes
+ID100060,Tina Jensen,Male,1943-07-18,82,Canada,Vancouver,Nurse,45849.99,30-50K,662.888.1831x49265,chapmanjoseph@example.org,Diabetes,0.72,2025-02-09,No
+ID100061,Katrina White,Male,1961-12-19,64,Canada,Montreal,Engineer,109146.89,80-120K,+1-388-763-6645x9001,jparker@example.org,Alzheimer's,0.988,2024-12-18,Yes
+ID100062,Devin Bennett,Male,1953-06-26,72,India,Kolkata,Teacher,48975.99,30-50K,001-577-712-0503,cmurphy@example.net,Hypertension,0.61,2024-12-31,No
+ID100063,Alexander Dixon,Female,1968-07-24,57,India,Delhi,Manager,85005.85,80-120K,001-631-829-5234x743,groberts@example.net,Cancer,0.843,2024-06-04,Yes
+ID100064,Casey Morse,Male,1985-04-05,40,Canada,Montreal,Nurse,50611.94,50-80K,+1-655-427-3305,shannon23@example.org,Asthma,0.306,2024-02-20,No
+ID100065,Victoria Gilbert,Male,1981-01-02,44,Canada,Vancouver,Artist,25757.13,<30K,944-571-2975,lmoyer@example.net,Depression,0.308,2024-10-16,Yes
+ID100066,Willie Smith,Male,1952-09-07,73,Canada,Calgary,Nurse,47564.76,30-50K,(871)248-9841,brendawood@example.com,Hypertension,0.656,2025-09-17,Yes
+ID100067,Tina Schneider,Nonbinary,1992-07-08,33,Canada,Vancouver,Teacher,20000.0,<30K,855-896-5535x69981,esanchez@example.net,Depression,0.281,2023-12-05,No
+ID100068,Tina Richardson,Male,1946-04-18,79,India,Mumbai,Doctor,59397.33,50-80K,555-123-1234,samantha18@example.org,Diabetes,0.6,2023-09-06,No
+ID100069,Jennifer Cain,Male,1952-12-29,73,India,Delhi,Scientist,20142.71,<30K,400.782.0063x60304,myoung@example.org,Depression,0.285,2024-07-17,Yes
+ID100070,James Peters,Female,1972-12-10,53,India,Mumbai,Teacher,98571.32,80-120K,+1-236-455-2072x1038,karen56@example.net,Alzheimer's,0.916,2023-12-12,No
+ID100071,Michael Johnson,Nonbinary,1969-08-05,56,Canada,Calgary,Doctor,73795.82,50-80K,(843)829-8436x8331,holly81@example.net,Cancer,0.776,2023-10-03,No
+ID100072,David Cherry,Male,1989-09-26,36,Canada,Calgary,Teacher,45347.07,30-50K,001-764-936-0802x5749,wrightgregory@example.net,Diabetes,0.67,2023-11-12,Yes
+ID100073,Daniel Wallace,Male,2004-10-19,21,UK,Edinburgh,Artist,95445.1,80-120K,278.536.3019,william41@example.net,Cancer,0.787,2024-06-17,Yes
+ID100074,Samantha Hart,Male,1994-09-22,31,UK,Manchester,Manager,83847.26,80-120K,333.548.9998x508,clogan@example.org,Cancer,0.875,2025-02-27,No
+ID100075,Kathy Alexander,Female,1988-02-17,37,USA,Chicago,Artist,61797.01,50-80K,(343)725-8000,amber35@example.net,Diabetes,0.465,2025-02-04,Yes
+ID100076,Timothy Osborne,Male,1946-02-06,79,USA,New York,Teacher,72459.65,50-80K,001-346-636-1567x31360,jnixon@example.com,Cancer,0.744,2023-10-25,No
+ID100077,Ms. Nicole Sharp,Nonbinary,1953-07-10,72,UK,London,Engineer,38351.93,30-50K,592-631-5276,richardsonjeffrey@example.com,Diabetes,0.694,2025-07-09,No
+ID100078,Bruce Perkins,Female,1985-02-08,40,USA,Chicago,Artist,48145.73,30-50K,666.306.2661x858,smithmichelle@example.net,Hypertension,0.593,2024-11-19,No
+ID100079,Tony Guzman,Nonbinary,1993-05-10,32,UK,Edinburgh,Doctor,47886.03,30-50K,214-299-6412,lindseyjackson@example.net,Asthma,0.38,2025-06-07,No
+ID100080,Tamara Long,Male,1937-07-27,88,Canada,Toronto,Teacher,50645.73,50-80K,411.439.6470x0128,diazjennifer@example.com,Diabetes,0.643,2025-08-15,Yes
+ID100081,Daniel Jones,Nonbinary,1943-05-05,82,UK,Edinburgh,Manager,76317.17,50-80K,+1-342-935-2944x8491,bconner@example.net,Diabetes,0.585,2024-05-10,No
+ID100082,Mark Cervantes,Nonbinary,1970-08-27,55,India,Mumbai,Nurse,46688.85,30-50K,001-372-485-2956,hollandkevin@example.net,Diabetes,0.623,2024-12-01,No
+ID100083,Patricia Singh,Female,1971-06-20,54,USA,New York,Artist,51198.22,50-80K,(200)674-4673,paulalvarez@example.net,Asthma,0.344,2024-02-06,No
+ID100084,Sharon Smith,Nonbinary,1989-12-09,36,India,Bangalore,Teacher,37947.82,30-50K,413-798-6934x058,mullenheather@example.org,Hypertension,0.611,2024-03-18,Yes
+ID100085,Kathryn Green,Male,2001-04-16,24,UK,Liverpool,Engineer,32789.57,30-50K,555-123-1234,faith94@example.net,Hypertension,0.539,2024-09-04,No
+ID100086,Carolyn Davis,Female,1956-02-03,69,India,Kolkata,Manager,92787.64,80-120K,001-909-468-4149x73078,cookjoshua@example.net,Cancer,0.785,2025-09-13,Yes
+ID100087,Angela Flynn,Nonbinary,1989-04-18,36,USA,New York,Teacher,42696.19,30-50K,916-892-5033,rcrawford@example.org,Asthma,0.346,2024-01-15,Yes
+ID100088,Robert Hodge,Male,1948-01-12,77,India,Mumbai,Engineer,38964.86,30-50K,354-765-6880,coryyork@example.org,Asthma,0.36,2023-10-11,Yes
+ID100089,Megan Myers,Male,1983-09-28,42,Canada,Toronto,Artist,41620.72,30-50K,(541)422-8588x2727,johnblack@example.com,Asthma,0.221,2025-09-27,No
+ID100090,Lucas Bradshaw,Nonbinary,1978-12-15,47,Canada,Vancouver,Doctor,97619.96,80-120K,(411)517-3116x76884,dennisjoanna@example.net,Alzheimer's,0.721,2025-02-06,No
+ID100091,Jennifer White,Male,1952-09-09,73,USA,Chicago,Scientist,63888.0,50-80K,001-559-290-3732,elizabeth80@example.org,Diabetes,0.675,2024-08-31,Yes
+ID100092,Alison Robinson,Nonbinary,2003-10-24,22,USA,Chicago,Doctor,55326.55,50-80K,233-937-5968x4887,vcooper@example.net,Diabetes,0.682,2024-03-13,Yes
+ID100093,Brian Barnes,Male,1947-07-01,78,UK,London,Nurse,30110.69,30-50K,686-901-9752x76083,steelemaureen@example.net,Hypertension,0.488,2025-01-18,Yes
+ID100094,Kristen Howard,Female,1960-11-10,65,UK,Liverpool,Teacher,38214.74,30-50K,5436042940,ylarson@example.org,Asthma,0.337,2025-08-03,No
+ID100095,David Lewis,Female,1990-10-06,35,Canada,Calgary,Doctor,40401.88,30-50K,001-629-472-8198,claytonlarry@example.net,Hypertension,0.492,2024-02-05,Yes
+ID100096,Carl Pitts,Male,1970-11-19,55,India,Bangalore,Teacher,38648.86,30-50K,001-877-920-4764x6267,webbbrandon@example.com,Diabetes,0.599,2025-09-26,Yes
+ID100097,Stacy Fisher DDS,Nonbinary,1967-02-01,58,Canada,Calgary,Manager,76453.08,50-80K,+1-474-309-4756x3695,taylorpatrick@example.net,Cancer,0.787,2024-07-20,No
+ID100098,Ariel Duncan,Female,1970-05-30,55,Canada,Toronto,Nurse,57645.83,50-80K,+1-321-445-2388x2805,mcintoshvalerie@example.com,Asthma,0.381,2025-03-15,No
+ID100099,Felicia Garza,Female,1986-08-15,39,USA,New York,Engineer,58928.02,50-80K,001-676-752-4383,jefffernandez@example.org,Diabetes,0.696,2024-05-04,Yes
+ID100100,Philip Medina,Male,1960-03-28,65,USA,New York,Scientist,91172.63,80-120K,001-907-693-2431x9442,robertlopez@example.net,Alzheimer's,0.982,2024-03-19,Yes
+ID100101,Shawn Boyd,Male,1971-07-20,54,UK,Manchester,Teacher,33669.59,30-50K,(521)474-1918x693,haleydominguez@example.net,Depression,0.265,2025-06-15,No
+ID100102,Nicole Vaughan,Male,1949-12-31,76,Canada,Vancouver,Manager,86306.6,80-120K,555-123-1234,rparker@example.net,Cancer,0.776,2024-01-09,Yes
+ID100103,Joshua Petty,Female,1992-02-25,33,Canada,Calgary,Doctor,37639.82,30-50K,956.607.1514,laceyshaw@example.com,Hypertension,0.527,2024-10-14,No
+ID100104,Ronald Russell,Nonbinary,1964-05-13,61,UK,Liverpool,Manager,61696.11,50-80K,437.883.2845,thompsonjimmy@example.net,Diabetes,0.624,2024-09-29,No
+ID100105,Rebecca Montgomery,Nonbinary,1976-05-28,49,Canada,Toronto,Doctor,20205.98,<30K,(349)514-1909x7555,jamescarlson@example.org,Depression,0.289,2025-09-16,Yes
+ID100106,Stephanie Keller,Nonbinary,1958-05-15,67,Canada,Montreal,Artist,94520.41,80-120K,992.587.8331x70298,shannon22@example.net,Alzheimer's,0.893,2024-11-11,No
+ID100107,Randy Cook,Male,1943-05-10,82,Canada,Calgary,Engineer,43260.94,30-50K,798.556.8456x050,piercenicholas@example.com,Hypertension,0.637,2023-11-17,No
+ID100108,Steve Jones,Female,1965-10-29,60,Canada,Vancouver,Engineer,85999.48,80-120K,(462)717-1722x80264,kevinsexton@example.com,Cancer,0.876,2025-09-19,No
+ID100109,Brandon Salazar MD,Male,2001-03-30,24,UK,Edinburgh,Manager,61883.97,50-80K,(558)391-6004x3207,jack38@example.net,Diabetes,0.705,2024-06-05,Yes
+ID100110,Amy Johnson,Nonbinary,1966-03-24,59,UK,London,Doctor,39342.4,30-50K,(700)688-5632,robert98@example.com,Diabetes,0.683,2025-10-19,Yes
+ID100111,Rita Miller,Nonbinary,1972-07-01,53,USA,Los Angeles,Engineer,52246.99,50-80K,001-221-345-4735x5736,hoffmandarren@example.org,Hypertension,0.562,2024-07-17,No
+ID100112,Ashley Callahan,Nonbinary,1951-12-08,74,India,Bangalore,Nurse,56529.93,50-80K,977-671-2391x812,rsims@example.com,Asthma,0.351,2023-10-23,No
+ID100113,Amy Graham DDS,Male,1942-05-02,83,UK,London,Scientist,52238.58,50-80K,564.379.5904x55455,zrollins@example.com,Diabetes,0.621,2025-03-28,Yes
+ID100114,Megan Jones,Male,2000-02-04,25,UK,London,Doctor,42278.14,30-50K,+1-438-953-8355x175,shanetaylor@example.org,Diabetes,0.691,2025-10-07,Yes
+ID100115,Christine Johnson,Female,1965-08-27,60,USA,Chicago,Artist,97522.08,80-120K,429-476-5010x9169,robertkelly@example.net,Alzheimer's,1.0,2025-08-13,Yes
+ID100116,George Walton,Nonbinary,1979-01-11,46,Canada,Calgary,Nurse,40618.31,30-50K,001-550-693-8908,karen95@example.net,Asthma,0.429,2025-02-09,Yes
+ID100117,Roberto Patterson,Male,1940-03-24,85,UK,Manchester,Artist,36257.71,30-50K,001-914-739-5926x8881,adamsderek@example.net,Hypertension,0.595,2024-10-04,Yes
+ID100118,Casey Rogers,Female,1972-12-16,53,UK,Edinburgh,Nurse,51189.53,50-80K,001-403-969-3106,kellygreer@example.com,Diabetes,0.558,2024-06-25,No
+ID100119,Alexander Wood,Male,1984-09-13,41,USA,Houston,Artist,36318.79,30-50K,555-123-1234,christopher68@example.org,Depression,0.293,2024-08-28,No
+ID100120,Heidi Long,Nonbinary,2002-12-11,23,UK,Manchester,Engineer,89676.96,80-120K,+1-913-672-3964x81043,john86@example.net,Cancer,0.753,2025-09-27,Yes
+ID100121,Jason Simpson,Nonbinary,1958-04-28,67,UK,Manchester,Doctor,28189.06,<30K,2943293207,craig74@example.org,Asthma,0.334,2023-11-22,Yes
+ID100122,Cindy Miller,Male,2003-05-23,22,USA,New York,Nurse,41702.1,30-50K,850.764.4800,xsmith@example.com,Depression,0.359,2025-03-24,Yes
+ID100123,Brandon Norris,Nonbinary,1992-09-28,33,India,Delhi,Manager,44313.99,30-50K,(822)861-6153x6668,jennifergarcia@example.org,Asthma,0.329,2024-02-02,No
+ID100124,Audrey Lewis,Nonbinary,1964-01-26,61,USA,Los Angeles,Engineer,43423.93,30-50K,626.806.7120x36483,scobb@example.com,Hypertension,0.519,2025-01-21,Yes
+ID100125,Desiree Hill,Male,1993-11-19,32,India,Delhi,Scientist,107485.47,80-120K,(406)474-2164x36762,robinsonmiguel@example.org,Alzheimer's,0.865,2025-07-08,No
+ID100126,Troy Yang,Nonbinary,1986-05-19,39,UK,London,Scientist,73317.67,50-80K,+1-438-560-9784x953,dominiquejensen@example.net,Cancer,0.791,2025-05-30,Yes
+ID100127,Brandi Morgan,Nonbinary,1956-11-12,69,USA,Los Angeles,Artist,50235.19,50-80K,275-680-5131x511,michaelfernandez@example.net,Asthma,0.391,2024-08-15,No
+ID100128,Christopher Moore,Nonbinary,1967-04-29,58,Canada,Calgary,Doctor,33672.42,30-50K,(317)563-0465x754,tonyaking@example.net,Depression,0.189,2025-04-28,Yes
+ID100129,Justin Collins,Nonbinary,1993-02-02,32,USA,Chicago,Scientist,54158.79,50-80K,+1-928-464-0835x410,charlesbond@example.com,Diabetes,0.684,2023-11-02,Yes
+ID100130,Dr. Rebecca Rodriguez DDS,Male,1972-04-18,53,India,Bangalore,Manager,66057.02,50-80K,001-321-765-2401x6208,ushepard@example.net,Diabetes,0.621,2025-08-21,Yes
+ID100131,Joshua Castro,Nonbinary,1981-01-15,44,India,Kolkata,Doctor,115689.11,80-120K,920.417.2067,mclaughlinalex@example.net,Alzheimer's,0.86,2023-11-02,No
+ID100132,Daniel Mendoza,Nonbinary,1961-07-03,64,India,Mumbai,Teacher,54461.04,50-80K,413-298-7026,longamber@example.org,Asthma,0.307,2024-09-22,Yes
+ID100133,David Joseph,Male,2000-05-10,25,UK,Manchester,Nurse,34457.29,30-50K,324.333.0989x23969,katelynjackson@example.org,Asthma,0.458,2025-07-21,Yes
+ID100134,Ashley Wolfe,Female,2001-03-24,24,Canada,Vancouver,Doctor,48510.41,30-50K,296.422.5099x3695,coopermary@example.org,Diabetes,0.679,2024-06-01,No
+ID100135,Charles Bradley,Female,1970-01-05,55,India,Delhi,Doctor,58922.47,50-80K,(922)800-9825x51285,kimjaime@example.org,Asthma,0.398,2024-10-31,Yes
+ID100136,Susan Baldwin,Female,1955-10-15,70,Canada,Montreal,Doctor,41239.47,30-50K,555-123-1234,mooreheidi@example.org,Depression,0.407,2025-06-01,No
+ID100137,James Kirby,Female,1979-01-21,46,UK,Manchester,Manager,91498.9,80-120K,287-867-4173x7423,kyle01@example.org,Cancer,0.78,2024-04-11,Yes
+ID100138,Richard Vincent,Female,1976-05-06,49,India,Delhi,Teacher,51343.16,50-80K,435.619.1098x3008,stephenskeith@example.net,Hypertension,0.708,2024-08-18,No
+ID100139,Stacy Ayala,Nonbinary,1949-08-23,76,UK,Liverpool,Doctor,65488.64,50-80K,+1-515-748-6417x5354,pennyrandall@example.org,Diabetes,0.784,2025-08-16,Yes
+ID100140,Connie Rivera,Male,1983-07-13,42,USA,New York,Nurse,29712.68,<30K,(490)983-0834x3114,ohenderson@example.org,Depression,0.229,2024-08-03,No
+ID100141,Jeffrey Johnson,Nonbinary,1992-06-22,33,Canada,Vancouver,Artist,91769.07,80-120K,+1-455-795-8695,taylordaniel@example.org,Alzheimer's,0.944,2024-07-22,Yes
+ID100142,Johnny Garcia,Male,1965-07-27,60,UK,London,Engineer,20000.0,<30K,(559)613-2814x99677,bryan37@example.com,Depression,0.343,2025-07-10,Yes
+ID100143,Michael Benitez,Male,1956-09-17,69,India,Kolkata,Nurse,105558.45,80-120K,447-957-5094,qchavez@example.net,Alzheimer's,0.897,2024-11-06,No
+ID100144,Brenda Miller,Male,1969-05-21,56,UK,London,Nurse,45234.06,30-50K,500.871.1561x7541,danielcameron@example.org,Hypertension,0.44,2025-03-02,No
+ID100145,Edward Henderson,Female,1966-09-17,59,India,Bangalore,Nurse,108722.38,80-120K,(220)587-7027,laurie39@example.net,Alzheimer's,0.956,2025-01-03,Yes
+ID100146,Troy Hall,Nonbinary,1950-04-26,75,India,Bangalore,Scientist,72525.46,50-80K,+1-550-230-2449x193,smithamanda@example.org,Cancer,0.704,2025-03-18,No
+ID100147,Victor Hogan,Male,1981-07-28,44,India,Kolkata,Artist,42692.53,30-50K,+1-554-853-8814,johnyoung@example.com,Depression,0.371,2025-06-24,No
+ID100148,Kristina Sanchez,Nonbinary,1962-10-24,63,UK,Liverpool,Artist,34503.89,30-50K,(704)839-9066,michelle11@example.net,Asthma,0.29,2024-01-29,No
+ID100149,Calvin Key,Male,1996-03-08,29,USA,Houston,Engineer,37887.23,30-50K,001-528-548-0974x72251,amanda01@example.com,Diabetes,0.711,2024-02-12,Yes
+ID100150,Shawn Gilbert,Female,1938-04-21,87,India,Kolkata,Scientist,70646.53,50-80K,840-593-4480x17841,melissa81@example.net,Cancer,0.843,2024-11-24,Yes
+ID100151,Courtney Bryan,Nonbinary,1948-08-27,77,Canada,Toronto,Artist,101273.32,80-120K,001-396-294-6846x255,bryanfleming@example.org,Alzheimer's,0.817,2023-11-13,Yes
+ID100152,Sandy Sparks,Nonbinary,1985-05-07,40,USA,Los Angeles,Nurse,91652.19,80-120K,4162696081,simpsonbryan@example.com,Cancer,0.843,2024-12-12,Yes
+ID100153,Gary Brown,Female,2004-08-30,21,UK,London,Nurse,92528.09,80-120K,555-123-1234,lucasaustin@example.com,Alzheimer's,0.911,2024-07-11,Yes
+ID100154,Frank Henry,Male,1977-10-18,48,Canada,Toronto,Teacher,102401.23,80-120K,714-829-4234x3212,harristimothy@example.com,Alzheimer's,0.854,2024-01-01,Yes
+ID100155,Brandy Serrano,Male,1984-09-02,41,Canada,Toronto,Artist,47166.25,30-50K,984.678.6346x263,davidgarcia@example.net,Diabetes,0.693,2025-06-18,No
+ID100156,Travis Harrison,Female,1961-02-10,64,UK,Edinburgh,Teacher,49730.74,30-50K,768-350-9313x040,keith00@example.org,Diabetes,0.61,2024-07-21,No
+ID100157,Todd Cross,Nonbinary,1969-11-20,56,USA,Los Angeles,Engineer,37597.35,30-50K,267.720.5515x98573,kevin60@example.org,Asthma,0.354,2024-12-09,Yes
+ID100158,Michelle Mitchell,Female,1970-12-18,55,India,Bangalore,Doctor,86928.69,80-120K,(729)815-3716,scottrobinson@example.com,Cancer,0.8,2025-05-23,No
+ID100159,Lisa Beck,Nonbinary,1961-09-05,64,UK,Edinburgh,Artist,36147.72,30-50K,286-767-0049,alynn@example.com,Depression,0.331,2025-10-21,Yes
+ID100160,Holly Turner,Female,1943-03-31,82,India,Mumbai,Manager,40589.39,30-50K,209-890-8181,hopkinsamy@example.org,Hypertension,0.475,2024-02-01,No
+ID100161,Deborah Osborne,Female,2005-06-02,20,USA,New York,Nurse,93848.02,80-120K,234.629.1903x4493,josephhardy@example.net,Alzheimer's,0.927,2024-05-05,No
+ID100162,Anita Waller,Female,2000-11-10,25,USA,Los Angeles,Doctor,67600.0,50-80K,6327663216,aweber@example.com,Diabetes,0.627,2025-04-13,No
+ID100163,Joseph Lee,Nonbinary,1977-06-25,48,UK,Edinburgh,Doctor,74542.06,50-80K,278.861.0810x68326,istone@example.net,Diabetes,0.532,2025-02-10,Yes
+ID100164,Neil Johnson,Male,1978-08-23,47,UK,London,Nurse,37305.75,30-50K,6152298144,washingtonkayla@example.net,Hypertension,0.623,2024-10-10,Yes
+ID100165,Robert Anderson,Female,1939-02-22,86,Canada,Toronto,Artist,37381.59,30-50K,(694)726-9661x7516,gibsonkimberly@example.org,Asthma,0.448,2024-03-24,Yes
+ID100166,Heidi West,Male,1937-10-21,88,Canada,Toronto,Manager,42524.63,30-50K,753-456-1616x676,lawrencegreen@example.org,Diabetes,0.682,2025-07-14,No
+ID100167,Douglas Livingston,Female,1984-07-12,41,Canada,Toronto,Doctor,79301.38,50-80K,218.297.8051x98519,kevinhaynes@example.org,Cancer,0.895,2025-01-04,No
+ID100168,Christopher Castillo,Male,1947-01-01,78,India,Delhi,Nurse,41995.94,30-50K,001-866-253-7381x4317,dennis33@example.net,Hypertension,0.602,2025-10-25,Yes
+ID100169,Jacqueline Sawyer,Male,1978-12-19,47,USA,Los Angeles,Doctor,95221.18,80-120K,261-408-5239x0524,donaldsonrachel@example.org,Alzheimer's,0.878,2025-08-17,No
+ID100170,Ricky Stewart,Male,1961-01-20,64,Canada,Toronto,Doctor,26071.83,<30K,555-123-1234,josephrogers@example.com,Depression,0.453,2024-05-10,No
+ID100171,Miguel Sanchez,Male,1984-01-03,41,Canada,Calgary,Engineer,61264.38,50-80K,+1-220-853-4615x035,lisa30@example.org,Diabetes,0.683,2025-01-09,No
+ID100172,Pamela Nelson,Nonbinary,1969-07-23,56,USA,New York,Teacher,95116.94,80-120K,001-341-924-6489x059,susanmiller@example.com,Cancer,0.87,2025-07-31,Yes
+ID100173,Wyatt Wood,Female,1967-06-12,58,UK,Liverpool,Doctor,85079.79,80-120K,(527)265-5635x1335,sergiokramer@example.net,Cancer,0.735,2024-12-05,Yes
+ID100174,Joseph Rowland,Nonbinary,1964-04-08,61,Canada,Montreal,Artist,57959.51,50-80K,(254)665-4100,jessicabradley@example.com,Diabetes,0.692,2024-12-11,Yes
+ID100175,Nicholas Barker,Female,1990-03-26,35,India,Delhi,Manager,80989.97,80-120K,782.327.1379,fisherdylan@example.net,Cancer,0.76,2025-02-03,Yes
+ID100176,Cheryl Rivera,Nonbinary,1942-11-12,83,UK,Liverpool,Teacher,74983.27,50-80K,(954)257-9279x0562,riveratoni@example.com,Cancer,0.798,2023-09-12,Yes
+ID100177,Charles Humphrey,Male,1979-05-13,46,Canada,Toronto,Doctor,51482.08,50-80K,001-962-721-2428,louisgreen@example.org,Asthma,0.349,2024-03-31,No
+ID100178,Kaylee Smith,Male,1983-08-26,42,USA,New York,Teacher,89762.63,80-120K,311-279-1976x391,alvaradojoshua@example.org,Cancer,0.834,2024-06-11,Yes
+ID100179,Gabriella Arnold,Male,1976-01-28,49,USA,New York,Engineer,70450.44,50-80K,(772)636-4187,john07@example.org,Cancer,0.747,2024-05-11,No
+ID100180,Sandra Lewis,Male,1950-12-02,75,UK,Edinburgh,Artist,48672.02,30-50K,+1-842-305-5995,chanlindsey@example.net,Diabetes,0.672,2025-08-23,Yes
+ID100181,Lisa Smith,Female,1937-07-13,88,India,Delhi,Teacher,54342.51,50-80K,(467)580-7574x947,vjackson@example.net,Hypertension,0.574,2024-03-31,No
+ID100182,John Duran,Male,1999-02-21,26,USA,Chicago,Nurse,53103.17,50-80K,001-815-914-6534x43945,kristenguzman@example.com,Diabetes,0.663,2025-11-01,No
+ID100183,Andrew Ayala,Nonbinary,1981-04-30,44,USA,Los Angeles,Teacher,76594.62,50-80K,+1-866-852-6299x02762,cohenashley@example.org,Cancer,0.756,2025-01-07,No
+ID100184,Jennifer Hill,Male,1992-01-23,33,Canada,Montreal,Doctor,24158.77,<30K,(320)550-2632x860,dwang@example.net,Asthma,0.428,2024-11-20,No
+ID100185,Mary Lutz,Male,1994-11-14,31,Canada,Toronto,Teacher,50812.6,50-80K,233-882-9457x8466,jeremy83@example.org,Hypertension,0.539,2024-04-22,Yes
+ID100186,David Barnes,Male,1974-05-29,51,Canada,Vancouver,Teacher,31474.74,30-50K,+1-471-361-7158,fsullivan@example.net,Depression,0.24,2025-01-10,Yes
+ID100187,Kenneth Flynn,Male,1939-01-13,86,UK,London,Teacher,51219.66,50-80K,555-123-1234,timothyfloyd@example.org,Asthma,0.334,2024-07-18,Yes
+ID100188,April Hanna,Nonbinary,1971-02-09,54,India,Kolkata,Doctor,28138.96,<30K,841.858.5624x065,nroberson@example.net,Depression,0.387,2025-02-05,No
+ID100189,Joel Mccullough,Nonbinary,1993-05-10,32,India,Delhi,Scientist,26209.24,<30K,(438)529-2129,sharonsmith@example.net,Depression,0.24,2024-09-09,No
+ID100190,Alison Webb,Male,1969-07-10,56,UK,Liverpool,Scientist,57820.42,50-80K,618-566-6047x14812,dyork@example.com,Hypertension,0.668,2024-12-08,Yes
+ID100191,Marcus Jackson,Nonbinary,1960-01-05,65,Canada,Toronto,Engineer,90586.76,80-120K,001-853-280-8089x6276,fnelson@example.com,Cancer,0.826,2025-02-09,Yes
+ID100192,Nicholas Monroe,Nonbinary,1975-04-03,50,Canada,Montreal,Doctor,55171.21,50-80K,646-383-5968x31843,ashleylong@example.org,Asthma,0.313,2024-11-28,No
+ID100193,Lisa Shelton,Nonbinary,1947-10-07,78,India,Delhi,Doctor,38415.04,30-50K,658.790.1820,duarteaaron@example.com,Asthma,0.335,2024-01-23,Yes
+ID100194,Elizabeth Hale,Nonbinary,1953-10-03,72,USA,Los Angeles,Nurse,52319.94,50-80K,6542472735,shelby77@example.net,Diabetes,0.665,2024-01-11,Yes
+ID100195,Angelica Walsh,Female,1961-06-15,64,Canada,Montreal,Manager,45763.23,30-50K,(545)898-7692,jennifer73@example.net,Asthma,0.363,2024-05-11,Yes
+ID100196,Victor Hawkins,Nonbinary,1956-11-10,69,UK,Edinburgh,Teacher,86179.65,80-120K,537.446.0360x51806,quinnraymond@example.com,Cancer,0.821,2024-04-19,No
+ID100197,Jon Merritt,Nonbinary,1996-11-30,29,UK,Manchester,Manager,46774.46,30-50K,001-200-299-3013x69326,thomasheather@example.org,Hypertension,0.663,2025-02-08,No
+ID100198,Holly Wilson,Female,1961-09-08,64,Canada,Montreal,Nurse,59830.65,50-80K,641-401-4255x8027,martincharles@example.net,Diabetes,0.63,2024-02-16,Yes
+ID100199,Janet Duncan,Male,1938-03-16,87,Canada,Calgary,Manager,39986.06,30-50K,893.401.6468,jeffrey00@example.net,Hypertension,0.515,2023-11-17,Yes
+ID100200,Steven Morton,Female,1997-09-05,28,UK,London,Scientist,75821.77,50-80K,885.840.0730x626,davidmiller@example.org,Cancer,0.74,2025-05-21,No
+ID100201,John Sampson,Female,1995-02-03,30,USA,Los Angeles,Scientist,27351.86,<30K,664.580.3610,davidjones@example.com,Hypertension,0.559,2023-12-22,Yes
+ID100202,Stacey Gould,Male,1974-06-16,51,UK,Manchester,Scientist,81613.73,80-120K,7134194107,fernandezjohn@example.org,Cancer,0.809,2024-10-05,Yes
+ID100203,Dale Jensen,Nonbinary,1956-07-27,69,India,Mumbai,Artist,61482.9,50-80K,001-425-894-6156,dhoffman@example.com,Diabetes,0.653,2024-10-21,No
+ID100204,John Williams,Nonbinary,1980-07-26,45,India,Mumbai,Engineer,43730.81,30-50K,555-123-1234,annettewalker@example.org,Hypertension,0.611,2023-11-23,No
+ID100205,Catherine Mitchell,Female,1955-08-21,70,Canada,Calgary,Engineer,37778.5,30-50K,(364)585-3563x66772,sandersteresa@example.net,Depression,0.248,2025-06-23,Yes
+ID100206,Stephanie Ramirez,Nonbinary,1993-01-07,32,USA,Los Angeles,Teacher,34893.44,30-50K,407-475-6206,schwartzkelly@example.net,Depression,0.388,2024-03-30,Yes
+ID100207,Richard Page,Male,1947-04-05,78,Canada,Montreal,Doctor,73759.77,50-80K,(410)585-8938x200,bakerstephanie@example.net,Cancer,0.687,2024-06-23,No
+ID100208,Charles Salas,Male,1998-04-07,27,UK,London,Teacher,37307.91,30-50K,(826)394-5898,paige97@example.org,Hypertension,0.57,2025-07-30,Yes
+ID100209,Tiffany Medina,Nonbinary,1982-01-09,43,India,Delhi,Artist,27682.22,<30K,001-995-371-1084x397,nsanders@example.org,Depression,0.437,2024-04-22,Yes
+ID100210,Reginald White,Female,1978-12-29,47,Canada,Montreal,Scientist,90002.95,80-120K,+1-542-600-0703x417,nsandoval@example.net,Cancer,0.786,2024-12-14,Yes
+ID100211,Perry Phillips,Male,1988-03-30,37,UK,Liverpool,Teacher,53983.04,50-80K,859-755-5000,hmiranda@example.com,Asthma,0.207,2024-05-13,Yes
+ID100212,Marco Klein,Male,1968-10-15,57,USA,Houston,Manager,42299.12,30-50K,+1-867-694-1184,julie39@example.org,Diabetes,0.635,2025-03-03,Yes
+ID100213,Lisa Haley,Nonbinary,1985-02-06,40,UK,Liverpool,Manager,65523.25,50-80K,442-829-1048x73769,adriennesimmons@example.net,Diabetes,0.625,2024-04-25,Yes
+ID100214,Amber Curtis,Nonbinary,1993-06-14,32,India,Delhi,Teacher,60373.42,50-80K,491.300.0785,diazbradley@example.net,Cancer,0.817,2023-09-02,No
+ID100215,Carol Jones,Female,1975-10-31,50,India,Bangalore,Nurse,52217.49,50-80K,(213)889-3298x51388,rchaney@example.net,Diabetes,0.677,2025-03-14,Yes
+ID100216,Julie Nguyen MD,Female,1977-08-19,48,USA,Los Angeles,Manager,20505.78,<30K,+1-596-519-8350,allisonwright@example.com,Depression,0.313,2024-05-23,Yes
+ID100217,Timothy Bush,Nonbinary,1991-02-01,34,India,Kolkata,Engineer,40870.03,30-50K,+1-968-366-6630x5770,istephens@example.org,Depression,0.36,2023-10-06,Yes
+ID100218,Cheyenne Caldwell,Female,1973-06-28,52,India,Kolkata,Engineer,85123.96,80-120K,594-270-3453x295,lawrenceandrew@example.org,Cancer,0.809,2024-11-19,Yes
+ID100219,Tiffany Brooks,Male,1943-05-28,82,Canada,Montreal,Teacher,36410.32,30-50K,+1-746-207-2115,williamsjasmine@example.org,Depression,0.368,2024-06-03,No
+ID100220,Donald Duran,Nonbinary,1944-11-15,81,India,Bangalore,Engineer,38397.28,30-50K,(269)311-2392,ricemichael@example.org,Hypertension,0.535,2025-06-29,No
+ID100221,Nicholas Dyer,Female,1947-10-28,78,USA,Los Angeles,Manager,71611.4,50-80K,555-123-1234,david01@example.net,Diabetes,0.678,2025-05-25,Yes
+ID100222,Thomas Henderson,Nonbinary,1984-07-19,41,USA,Chicago,Doctor,81141.01,80-120K,659-287-5979,cassandralewis@example.net,Cancer,0.772,2025-04-13,No
+ID100223,Susan Jackson,Female,1980-02-20,45,USA,Los Angeles,Doctor,35316.86,30-50K,774-930-3611,lindsey47@example.org,Hypertension,0.599,2025-04-17,No
+ID100224,Michele Snyder,Male,1945-03-04,80,Canada,Toronto,Scientist,90569.96,80-120K,424-433-2182,taylortracy@example.net,Alzheimer's,0.845,2024-01-05,Yes
+ID100225,Melissa Watson,Female,1954-04-13,71,UK,Edinburgh,Engineer,38354.3,30-50K,487-882-0004x8731,hortonjulie@example.net,Asthma,0.437,2023-08-30,Yes
+ID100226,Mr. Derrick James,Male,1962-10-08,63,India,Delhi,Scientist,41648.46,30-50K,(574)931-6174,mosborne@example.net,Diabetes,0.636,2023-11-28,No
+ID100227,Benjamin Garrett,Male,1999-02-26,26,UK,London,Nurse,51411.69,50-80K,637.419.9508,ryan08@example.com,Diabetes,0.646,2023-11-10,No
+ID100228,Gary Clark,Male,1984-09-19,41,India,Mumbai,Manager,42219.92,30-50K,(873)806-0260x1514,kyle74@example.org,Asthma,0.34,2024-06-19,No
+ID100229,Tina Thomas,Male,1996-06-16,29,Canada,Vancouver,Nurse,44390.19,30-50K,+1-714-900-1639,chapmandebra@example.com,Asthma,0.352,2024-02-20,No
+ID100230,Maria Jenkins,Nonbinary,1954-05-19,71,USA,Houston,Engineer,33764.26,30-50K,634.692.8419,stanleymark@example.org,Hypertension,0.538,2024-01-02,Yes
+ID100231,Ann Kelly,Female,1988-03-05,37,USA,Los Angeles,Teacher,53688.81,50-80K,(719)431-2390,craig46@example.net,Asthma,0.31,2025-08-31,No
+ID100232,Beverly Murphy,Male,1990-12-03,35,Canada,Vancouver,Doctor,65735.91,50-80K,(638)335-2752x7189,jacksonjonathan@example.net,Diabetes,0.643,2025-05-10,No
+ID100233,Jacqueline King,Female,1974-03-08,51,Canada,Montreal,Manager,40941.13,30-50K,001-552-527-3067x94980,nrich@example.org,Asthma,0.325,2025-10-08,No
+ID100234,Jared Castro,Nonbinary,1991-03-02,34,USA,Houston,Nurse,44726.65,30-50K,(643)845-8580x839,michael18@example.com,Asthma,0.414,2025-07-30,No
+ID100235,Michelle Johnson,Female,1958-03-05,67,Canada,Vancouver,Engineer,81882.8,80-120K,290.466.9164x028,ritaanderson@example.net,Cancer,0.783,2025-06-27,Yes
+ID100236,Lori Powers,Female,2005-09-29,20,India,Mumbai,Manager,55511.92,50-80K,+1-260-483-4607x97141,sanchezcatherine@example.net,Diabetes,0.734,2025-02-07,No
+ID100237,Alejandro Ward,Nonbinary,1954-02-02,71,UK,Manchester,Engineer,64895.35,50-80K,+1-333-268-3609x5733,howardmichael@example.org,Diabetes,0.689,2024-02-21,Yes
+ID100238,Andrew Crane,Male,1973-05-28,52,Canada,Toronto,Manager,45549.5,30-50K,555-123-1234,margaretbennett@example.net,Diabetes,0.676,2025-10-18,Yes
+ID100239,Holly Brown,Female,1951-03-29,74,UK,Edinburgh,Teacher,43757.55,30-50K,(584)332-5436x427,levysamuel@example.com,Depression,0.323,2025-08-24,Yes
+ID100240,Joseph Miller,Male,1971-09-03,54,USA,Chicago,Manager,87139.66,80-120K,001-701-939-6980x752,rebecca43@example.org,Cancer,0.853,2023-11-22,No
+ID100241,Linda Washington,Nonbinary,1947-09-23,78,USA,Chicago,Engineer,108330.39,80-120K,(660)362-6731,jaredortega@example.net,Alzheimer's,0.87,2025-10-19,No
+ID100242,Marie Mckay,Nonbinary,1967-01-27,58,Canada,Vancouver,Teacher,55837.03,50-80K,(779)889-7987,cartertiffany@example.com,Asthma,0.24,2023-10-14,No
+ID100243,James Thompson,Nonbinary,1972-12-27,53,USA,Chicago,Doctor,38263.2,30-50K,+1-926-391-2880x188,stevenslaura@example.com,Asthma,0.427,2024-03-15,No
+ID100244,Michael Kaiser,Nonbinary,1940-03-11,85,USA,Los Angeles,Scientist,24039.97,<30K,+1-214-569-1438x10710,morenotony@example.com,Hypertension,0.557,2025-02-24,Yes
+ID100245,Brett Goodwin,Female,1951-01-21,74,UK,Edinburgh,Scientist,26677.29,<30K,(721)321-7547x880,rmurray@example.org,Depression,0.297,2024-05-17,Yes
+ID100246,Juan Liu,Male,1948-08-16,77,Canada,Toronto,Teacher,57420.58,50-80K,245-413-8625x1101,baileyallison@example.net,Diabetes,0.571,2024-12-28,No
+ID100247,Ruth Mack,Nonbinary,1934-11-06,91,Canada,Montreal,Artist,93635.86,80-120K,4956826294,amypatton@example.com,Cancer,0.899,2024-08-05,No
+ID100248,Brenda Elliott,Female,1971-05-11,54,UK,Edinburgh,Scientist,98234.1,80-120K,(683)435-7580,katiehines@example.net,Cancer,0.776,2025-07-03,Yes
+ID100249,Fernando Boyd,Female,1951-07-28,74,UK,Liverpool,Teacher,73467.96,50-80K,001-979-321-2797,ingramrichard@example.org,Diabetes,0.706,2024-01-26,Yes
+ID100250,Gabriel Soto,Male,1936-12-09,89,Canada,Toronto,Doctor,54754.34,50-80K,+1-625-438-2773x63737,juliebaker@example.com,Asthma,0.334,2025-02-25,No
+ID100251,Danielle Garcia,Male,1961-07-26,64,Canada,Vancouver,Nurse,38032.44,30-50K,492.484.1685,johnavila@example.org,Diabetes,0.765,2024-11-12,Yes
+ID100252,Stephanie Holland MD,Nonbinary,1960-10-15,65,Canada,Toronto,Engineer,22354.49,<30K,001-606-295-2980x8428,williamrodriguez@example.org,Depression,0.346,2025-06-22,Yes
+ID100253,Jeffrey Bass Jr.,Female,1989-01-08,36,UK,London,Artist,55770.41,50-80K,001-974-226-6894x9132,zconley@example.org,Diabetes,0.613,2025-01-13,No
+ID100254,Brandon Townsend,Female,1981-02-13,44,Canada,Vancouver,Teacher,47656.77,30-50K,(586)392-3702x682,samantharios@example.net,Depression,0.321,2024-12-22,No
+ID100255,Donald Pittman,Female,1979-12-14,46,Canada,Toronto,Engineer,85127.25,80-120K,555-123-1234,pcampbell@example.net,Cancer,0.813,2023-12-23,Yes
+ID100256,Charles Carter III,Nonbinary,2002-06-18,23,USA,New York,Artist,75537.48,50-80K,892.635.2373,fclark@example.com,Cancer,0.762,2024-02-19,Yes
+ID100257,Diane Thomas,Female,1982-05-06,43,Canada,Calgary,Manager,62794.7,50-80K,781-814-3051,brettdecker@example.net,Diabetes,0.581,2025-05-19,No
+ID100258,Troy Ross,Female,1959-08-23,66,India,Delhi,Doctor,69724.27,50-80K,829.944.0810x3853,jimstone@example.com,Diabetes,0.599,2024-07-05,No
+ID100259,Travis Williams,Nonbinary,1944-03-19,81,UK,Liverpool,Manager,51675.74,50-80K,6629141163,carsonsteven@example.org,Hypertension,0.589,2024-12-23,No
+ID100260,Eric Hardin,Male,1976-10-30,49,Canada,Calgary,Manager,45684.42,30-50K,+1-336-297-4032x71416,lindsay33@example.org,Depression,0.29,2024-02-04,No
+ID100261,Kristopher Pollard,Nonbinary,2002-04-16,23,UK,Liverpool,Doctor,55111.46,50-80K,349-548-3678x509,david02@example.org,Diabetes,0.63,2025-06-11,No
+ID100262,Kathleen Williams,Female,2002-04-15,23,UK,Manchester,Teacher,42702.06,30-50K,8783521854,gary24@example.org,Diabetes,0.563,2024-03-06,No
+ID100263,David Thomas,Female,1951-11-12,74,USA,Chicago,Nurse,43942.22,30-50K,(522)702-0752x746,danielashley@example.net,Hypertension,0.512,2025-06-17,No
+ID100264,Hailey Boyd,Male,1946-08-29,79,USA,Houston,Artist,91945.24,80-120K,+1-817-887-3759x7431,michael12@example.com,Cancer,0.823,2023-10-13,No
+ID100265,Taylor Lewis,Male,1992-10-13,33,India,Delhi,Engineer,25425.54,<30K,+1-285-606-7171,wendy14@example.com,Hypertension,0.566,2024-07-17,Yes
+ID100266,Cody Mills,Male,2004-09-17,21,USA,New York,Doctor,36039.57,30-50K,001-439-825-3567,racheljones@example.com,Hypertension,0.518,2024-10-23,Yes
+ID100267,Denise Peck,Nonbinary,1954-12-16,71,UK,Manchester,Doctor,39365.22,30-50K,788-814-0686x537,sosborne@example.com,Depression,0.328,2025-05-27,No
+ID100268,Patricia Long,Male,1968-05-16,57,India,Mumbai,Engineer,26654.34,<30K,5314831783,johnbyrd@example.net,Hypertension,0.506,2024-02-25,Yes
+ID100269,Briana Reynolds,Male,2001-09-18,24,Canada,Toronto,Manager,52389.75,50-80K,001-364-501-1536x476,hendersonadam@example.net,Hypertension,0.578,2025-10-08,Yes
+ID100270,Timothy Taylor,Female,2002-03-24,23,UK,Manchester,Teacher,42984.43,30-50K,(381)217-4366x93551,handerson@example.com,Asthma,0.433,2025-05-31,Yes
+ID100271,Brent Floyd,Female,1990-06-16,35,UK,Edinburgh,Engineer,79526.55,50-80K,(341)986-9072,hvincent@example.com,Cancer,0.789,2024-09-13,No
+ID100272,Robert Patel,Nonbinary,1990-10-12,35,UK,Liverpool,Teacher,53629.23,50-80K,555-123-1234,denisequinn@example.com,Diabetes,0.725,2024-02-26,No
+ID100273,Nancy Yang MD,Nonbinary,1949-08-30,76,UK,London,Artist,32334.01,30-50K,562.651.3768x78716,edwardhill@example.com,Depression,0.342,2024-03-13,No
+ID100274,Alan Sanchez,Nonbinary,1989-11-18,36,USA,Houston,Engineer,61051.25,50-80K,001-997-907-6914x1897,scarr@example.net,Asthma,0.405,2025-04-09,Yes
+ID100275,Dr. Virginia Murphy DVM,Female,1993-12-24,32,Canada,Montreal,Doctor,87355.18,80-120K,001-850-406-6462x67930,deckerryan@example.org,Cancer,0.791,2024-04-17,Yes
+ID100276,Michelle Hogan,Female,1977-03-01,48,India,Kolkata,Doctor,38550.66,30-50K,437-298-7467x01765,jeremy07@example.net,Hypertension,0.549,2024-06-20,No
+ID100277,Leslie Schroeder,Female,1957-06-23,68,Canada,Montreal,Engineer,34789.26,30-50K,574.351.0818,seanwaller@example.com,Asthma,0.309,2025-02-15,Yes
+ID100278,Christopher Day,Male,1979-02-14,46,India,Bangalore,Scientist,100036.16,80-120K,581.725.4645x0135,shannonjordan@example.net,Alzheimer's,0.75,2024-02-13,No
+ID100279,Lacey Perry,Nonbinary,1958-05-07,67,USA,New York,Doctor,92134.03,80-120K,576.413.0082,psanchez@example.org,Cancer,0.791,2025-06-21,Yes
+ID100280,Juan Powers,Female,1959-04-06,66,USA,New York,Artist,30142.8,30-50K,852-783-9090x15193,kjohnson@example.com,Asthma,0.332,2024-01-01,No
+ID100281,Eric Carpenter,Nonbinary,1940-09-19,85,India,Mumbai,Nurse,106186.13,80-120K,5946676393,taylor30@example.net,Cancer,0.84,2024-11-03,Yes
+ID100282,David Schultz,Male,1944-02-01,81,India,Kolkata,Scientist,92166.67,80-120K,7952354523,jessekelly@example.com,Cancer,0.775,2025-10-23,Yes
+ID100283,Brad Evans,Female,1979-01-19,46,India,Mumbai,Engineer,90276.64,80-120K,753.534.1441x79601,obrown@example.net,Alzheimer's,0.966,2025-06-30,Yes
+ID100284,Keith Dawson,Male,1983-03-09,42,India,Delhi,Artist,44777.97,30-50K,001-360-599-9913x82695,fscott@example.net,Hypertension,0.493,2025-02-20,No
+ID100285,Scott Vargas,Nonbinary,1978-02-26,47,Canada,Vancouver,Doctor,20000.0,<30K,(860)998-1740,wigginsbrian@example.com,Depression,0.258,2024-05-28,No
+ID100286,Kathleen Fritz,Nonbinary,1983-11-16,42,USA,Chicago,Engineer,105350.5,80-120K,525-869-8026,daltonjessica@example.org,Cancer,0.817,2025-02-26,Yes
+ID100287,Julie White,Female,2001-06-15,24,UK,London,Artist,31993.87,30-50K,540.788.0965,patriciamurphy@example.org,Hypertension,0.455,2024-07-01,Yes
+ID100288,Tina Johnston,Male,1991-12-30,34,India,Mumbai,Engineer,49198.53,30-50K,966-422-5686,sabrinahudson@example.org,Diabetes,0.677,2023-11-19,Yes
+ID100289,Aaron Powers,Female,1957-08-21,68,USA,Houston,Teacher,97498.36,80-120K,555-123-1234,jthompson@example.net,Alzheimer's,0.872,2025-02-22,No
+ID100290,Brian Montgomery,Male,1941-08-08,84,UK,London,Doctor,52445.12,50-80K,4776812888,marvin11@example.com,Diabetes,0.623,2023-08-31,No
+ID100291,Isaac Mcdaniel,Nonbinary,1956-11-24,69,USA,New York,Scientist,46956.95,30-50K,9822452545,alexandriamills@example.org,Hypertension,0.512,2024-05-16,Yes
+ID100292,Karen Hopkins,Male,1970-12-01,55,UK,London,Teacher,48615.65,30-50K,247-365-5957x27980,davisbrittany@example.com,Diabetes,0.623,2025-08-31,No
+ID100293,Andrea Cuevas,Male,1999-06-13,26,Canada,Calgary,Engineer,91143.14,80-120K,(293)302-4046,samuel16@example.org,Cancer,0.811,2025-10-24,No
+ID100294,Stacey Lopez,Nonbinary,1971-02-07,54,UK,Manchester,Manager,89296.98,80-120K,2294705984,marycollins@example.org,Cancer,0.819,2025-06-09,No
+ID100295,Mario Thompson,Male,1989-10-20,36,India,Mumbai,Manager,66415.37,50-80K,+1-772-818-2977x75961,wholland@example.com,Cancer,0.875,2023-10-23,No
+ID100296,Robert Nelson,Female,1986-09-24,39,UK,London,Manager,23145.63,<30K,4328610697,scunningham@example.com,Depression,0.225,2025-05-13,Yes
+ID100297,Gerald Torres DDS,Female,1965-10-19,60,India,Kolkata,Teacher,85865.18,80-120K,001-370-819-0549x97701,victoriarobinson@example.net,Cancer,0.722,2025-06-07,No
+ID100298,Sarah Branch,Nonbinary,1986-11-16,39,India,Kolkata,Manager,42355.21,30-50K,(446)419-7376x61564,ronald13@example.com,Depression,0.302,2025-10-15,Yes
+ID100299,Robin Smith,Male,1959-11-06,66,UK,Liverpool,Engineer,44058.65,30-50K,359-567-5310,troybrown@example.org,Diabetes,0.639,2025-02-21,Yes
+ID100300,Michelle Wright,Nonbinary,1946-08-02,79,India,Kolkata,Artist,96112.23,80-120K,648.593.8688x8085,starkryan@example.net,Cancer,0.889,2025-04-14,No
+ID100301,Kevin Patel,Male,2001-07-10,24,Canada,Toronto,Nurse,101825.08,80-120K,001-729-277-1491x11756,edward93@example.com,Cancer,0.818,2025-02-08,No
+ID100302,Veronica Adkins,Nonbinary,1954-05-25,71,USA,Chicago,Teacher,49903.54,30-50K,+1-449-328-4241x72901,bturner@example.org,Diabetes,0.826,2024-10-03,Yes
+ID100303,Charles Williams,Male,1962-01-19,63,India,Delhi,Scientist,39982.57,30-50K,918.922.5047x37084,cherylshort@example.com,Depression,0.264,2024-07-20,Yes
+ID100304,Kristy Ford,Nonbinary,1984-05-07,41,India,Mumbai,Teacher,47891.3,30-50K,5419906587,barbarabuchanan@example.org,Hypertension,0.533,2025-03-21,Yes
+ID100305,Matthew Peterson,Nonbinary,1974-02-22,51,India,Bangalore,Artist,41468.29,30-50K,477-729-6585x6699,mary34@example.com,Asthma,0.401,2025-09-17,Yes
+ID100306,Jeffrey Miller,Male,1944-04-05,81,Canada,Vancouver,Nurse,62642.27,50-80K,555-123-1234,sarahshort@example.net,Diabetes,0.717,2024-03-18,No
+ID100307,Joshua Nunez,Nonbinary,1960-10-05,65,USA,Los Angeles,Doctor,110757.49,80-120K,(971)786-1137,medinaluke@example.com,Alzheimer's,0.886,2024-10-23,Yes
+ID100308,Michael Diaz,Male,1952-03-14,73,Canada,Montreal,Nurse,53420.5,50-80K,+1-643-265-8024x32836,sarahmorris@example.com,Asthma,0.539,2025-10-28,No
+ID100309,Jeanette Romero,Male,1945-07-20,80,Canada,Montreal,Engineer,82808.71,80-120K,+1-481-302-7104x38565,tracycombs@example.net,Cancer,0.719,2025-06-14,No
+ID100310,Rebecca Shannon,Male,1967-09-29,58,USA,Houston,Manager,48391.03,30-50K,+1-577-927-4979x73625,adamsdaniel@example.net,Diabetes,0.626,2023-12-07,No
+ID100311,Alicia Sharp,Male,1952-01-14,73,USA,New York,Doctor,72872.76,50-80K,326.224.2866x61601,xharrison@example.org,Diabetes,0.688,2024-01-08,No
+ID100312,Robert Barber,Male,1975-07-21,50,India,Bangalore,Nurse,23386.08,<30K,494.584.8637x439,katrinareynolds@example.org,Depression,0.316,2024-07-23,Yes
+ID100313,Jill Vazquez,Female,1985-02-07,40,India,Kolkata,Engineer,44511.35,30-50K,001-606-546-2889x5741,meyerhaley@example.org,Diabetes,0.684,2025-04-14,Yes
+ID100314,Alisha Castro,Male,1940-01-12,85,Canada,Toronto,Nurse,34401.53,30-50K,259.803.8248x0466,ajones@example.net,Depression,0.356,2025-04-23,Yes
+ID100315,Tiffany Lynch MD,Nonbinary,2004-04-21,21,UK,Edinburgh,Scientist,25226.59,<30K,001-701-735-7956,fisherjohn@example.com,Depression,0.27,2025-10-26,Yes
+ID100316,Abigail Boyle,Male,2004-03-02,21,UK,London,Manager,65891.7,50-80K,001-692-694-8738,pwang@example.net,Diabetes,0.677,2024-05-01,Yes
+ID100317,Levi Perry,Female,1949-04-06,76,USA,Chicago,Manager,47616.65,30-50K,(383)537-8270,ecombs@example.org,Asthma,0.433,2024-08-30,No
+ID100318,Melissa Clark,Nonbinary,1985-11-07,40,Canada,Montreal,Scientist,38446.43,30-50K,922.453.6526x17878,slewis@example.net,Hypertension,0.569,2025-05-13,Yes
+ID100319,Sydney Tucker,Male,1996-05-08,29,UK,Edinburgh,Engineer,38800.49,30-50K,996.979.5726,emma86@example.org,Asthma,0.295,2025-07-09,Yes
+ID100320,Monica Scott,Nonbinary,2003-01-09,22,India,Kolkata,Manager,39748.77,30-50K,(808)257-7870x8686,landrysarah@example.org,Asthma,0.433,2025-02-28,No
+ID100321,Kevin Campos,Female,2003-05-22,22,USA,Houston,Engineer,49777.61,30-50K,976.623.4130,terry73@example.com,Diabetes,0.743,2023-10-18,No
+ID100322,Henry Lopez,Female,1974-05-25,51,USA,Houston,Teacher,49808.39,30-50K,001-648-698-8220x67061,bbrown@example.com,Diabetes,0.552,2025-01-04,No
+ID100323,Jessica Stanton,Female,1943-11-26,82,USA,Los Angeles,Doctor,38502.76,30-50K,555-123-1234,audreyfoster@example.com,Hypertension,0.57,2023-11-10,No
+ID100324,Jennifer Griffin,Male,2003-03-16,22,India,Delhi,Artist,51677.88,50-80K,703-531-7550x60652,dharmon@example.com,Depression,0.332,2024-10-15,Yes
+ID100325,Kathleen May,Nonbinary,1973-07-10,52,UK,Liverpool,Artist,45911.73,30-50K,4174759004,jennifer98@example.com,Asthma,0.369,2024-04-01,No
+ID100326,John Cooper,Male,2003-11-13,22,UK,Liverpool,Nurse,82994.73,80-120K,530.367.2139x1489,michelle94@example.org,Cancer,0.77,2024-04-12,Yes
+ID100327,Tamara Ali,Female,1947-12-03,78,UK,Manchester,Engineer,56505.27,50-80K,001-559-367-3672x99675,davislaura@example.net,Asthma,0.449,2024-06-16,Yes
+ID100328,Anthony Ford Jr.,Male,1972-07-09,53,UK,Edinburgh,Engineer,48289.04,30-50K,648.838.6050,hshepherd@example.com,Asthma,0.45,2025-10-11,Yes
+ID100329,John Murphy,Female,1943-10-06,82,UK,Edinburgh,Engineer,40706.27,30-50K,657-782-3150x542,ashleylewis@example.com,Hypertension,0.513,2025-03-14,No
+ID100330,Jessica Singleton,Nonbinary,1975-07-19,50,Canada,Montreal,Engineer,58978.54,50-80K,996-296-3052x4350,stephanie28@example.org,Asthma,0.336,2023-12-29,Yes
+ID100331,Michelle Manning,Male,1979-08-04,46,UK,Liverpool,Engineer,38404.83,30-50K,(772)734-1333,hoffmanwanda@example.org,Diabetes,0.696,2023-10-12,No
+ID100332,Mrs. Vicki Andrews,Nonbinary,1980-11-12,45,USA,Los Angeles,Nurse,97590.2,80-120K,+1-373-776-3438,abigailsimmons@example.com,Alzheimer's,0.831,2024-02-18,Yes
+ID100333,Lisa Butler,Female,1970-07-20,55,USA,New York,Doctor,39998.31,30-50K,+1-757-291-4903,tina50@example.com,Asthma,0.454,2024-01-25,Yes
+ID100334,Nichole Gutierrez,Nonbinary,1986-10-17,39,Canada,Calgary,Teacher,49734.27,30-50K,361.768.4566x645,stephanie41@example.net,Asthma,0.361,2023-12-07,Yes
+ID100335,Michelle Sweeney,Nonbinary,1953-07-23,72,UK,Liverpool,Nurse,90566.64,80-120K,677-456-0653,fbecker@example.net,Cancer,0.833,2025-05-07,Yes
+ID100336,Sean Johnson,Female,2001-12-18,24,Canada,Toronto,Scientist,40827.63,30-50K,716-624-7933,sarahday@example.com,Depression,0.267,2024-01-09,Yes
+ID100337,Manuel Little,Male,1959-10-19,66,USA,Houston,Manager,93336.87,80-120K,820.707.2991x97215,pamela56@example.org,Cancer,0.762,2024-02-01,No
+ID100338,Sonya Williams,Male,1951-12-30,74,USA,Houston,Doctor,80972.96,80-120K,686.500.5957,randy63@example.org,Cancer,0.779,2024-01-29,Yes
+ID100339,James Hogan,Female,1955-03-24,70,India,Mumbai,Teacher,38610.94,30-50K,549-908-6207x426,rebeccabarnett@example.org,Asthma,0.346,2024-05-22,Yes
+ID100340,Elizabeth Hale,Male,2004-07-10,21,UK,Manchester,Manager,64493.39,50-80K,555-123-1234,stephencoffey@example.com,Asthma,0.376,2024-07-12,No
+ID100341,Miranda Osborne,Nonbinary,1949-08-21,76,Canada,Vancouver,Scientist,35317.62,30-50K,(222)584-7008,gomezvanessa@example.net,Depression,0.167,2023-12-11,No
+ID100342,Jeremy Leon,Nonbinary,1956-12-14,69,USA,New York,Scientist,58730.38,50-80K,001-201-980-4715,adavis@example.com,Diabetes,0.509,2023-10-31,Yes
+ID100343,Anthony Moreno,Female,1996-03-09,29,Canada,Calgary,Artist,39837.65,30-50K,+1-810-772-5690x6619,henrysims@example.com,Asthma,0.224,2025-04-18,Yes
+ID100344,Brittany Smith,Nonbinary,1948-01-17,77,USA,New York,Doctor,72757.8,50-80K,+1-692-345-0283x654,jonathan73@example.org,Cancer,0.81,2024-10-25,Yes
+ID100345,Stephen Murphy,Female,1961-11-25,64,UK,Edinburgh,Nurse,45803.38,30-50K,001-708-484-6985,tyler53@example.net,Hypertension,0.557,2025-02-07,Yes
+ID100346,Mr. Eugene Lopez,Male,1942-09-07,83,Canada,Vancouver,Nurse,73113.49,50-80K,001-230-837-5537x871,patricia51@example.com,Cancer,0.847,2024-08-20,No
+ID100347,James Walsh,Nonbinary,1971-10-29,54,Canada,Toronto,Teacher,50236.58,50-80K,(741)640-9732x34117,vargassummer@example.net,Diabetes,0.696,2024-06-18,No
+ID100348,Nichole Buck,Female,1939-09-06,86,UK,Edinburgh,Artist,55961.31,50-80K,001-292-617-8916x051,ericwilson@example.org,Asthma,0.382,2025-05-30,No
+ID100349,Rebecca Underwood,Nonbinary,1946-08-04,79,India,Bangalore,Scientist,59116.54,50-80K,444-804-5785x26902,bethany35@example.com,Diabetes,0.617,2024-09-26,Yes
+ID100350,David Patel,Nonbinary,1979-03-06,46,Canada,Calgary,Nurse,44726.1,30-50K,842-858-7465x38974,brittanywade@example.net,Diabetes,0.606,2024-08-22,No
+ID100351,Anthony Lucas,Female,1969-11-06,56,UK,Liverpool,Engineer,33509.15,30-50K,001-416-830-0160x64076,scarpenter@example.org,Asthma,0.42,2025-01-31,No
+ID100352,Jason Collins,Nonbinary,1981-03-12,44,Canada,Montreal,Teacher,41035.62,30-50K,470.686.8913x3816,christopheravery@example.com,Depression,0.37,2024-06-27,No
+ID100353,Debra Brown,Female,1974-08-11,51,UK,Liverpool,Doctor,41541.95,30-50K,450.911.8517,scott59@example.org,Asthma,0.275,2023-11-11,No
+ID100354,Brianna Green,Male,1988-04-18,37,Canada,Vancouver,Scientist,34391.89,30-50K,253.668.8134x62112,brittanysalazar@example.org,Asthma,0.347,2023-11-28,No
+ID100355,Lisa Jimenez,Female,1987-02-22,38,India,Delhi,Scientist,79808.37,50-80K,+1-988-700-1375x8539,carriekane@example.com,Cancer,0.8,2023-09-27,Yes
+ID100356,Sherry Ayala,Male,1969-07-04,56,India,Bangalore,Manager,73098.13,50-80K,001-478-748-7709x3225,marklawrence@example.net,Cancer,0.783,2025-04-19,No
+ID100357,Matthew David,Male,1955-11-10,70,India,Kolkata,Manager,82754.07,80-120K,555-123-1234,justin48@example.net,Cancer,0.734,2023-10-15,Yes
+ID100358,Jennifer White,Female,1976-09-14,49,Canada,Calgary,Doctor,92162.1,80-120K,934.311.2412,melanie65@example.net,Cancer,0.825,2024-11-19,Yes
+ID100359,Christopher Cohen,Male,1945-12-28,80,Canada,Montreal,Manager,42782.11,30-50K,862.643.7558x8976,barbaramartinez@example.net,Asthma,0.234,2024-05-22,No
+ID100360,Melissa Howe,Nonbinary,1947-02-19,78,UK,Liverpool,Manager,87349.35,80-120K,635.766.1507,kenneth56@example.org,Cancer,0.924,2024-04-29,Yes
+ID100361,Craig Harris,Female,1955-04-12,70,USA,Houston,Doctor,48539.86,30-50K,001-218-240-0212x68502,teresapierce@example.org,Diabetes,0.563,2025-07-24,Yes
+ID100362,Donna Walker,Male,1986-06-30,39,India,Bangalore,Engineer,63016.32,50-80K,(625)692-2525x538,krystalblack@example.com,Diabetes,0.667,2023-10-01,Yes
+ID100363,Kristin Scott,Male,1961-08-01,64,USA,Chicago,Manager,56676.38,50-80K,3263685428,garciaclaudia@example.com,Hypertension,0.621,2024-02-07,No
+ID100364,Veronica Francis,Female,1942-11-21,83,Canada,Toronto,Scientist,91925.39,80-120K,869-425-8193,manningtammy@example.org,Cancer,0.826,2024-08-09,Yes
+ID100365,Kyle Savage,Female,1975-11-21,50,USA,Houston,Scientist,103629.96,80-120K,001-887-982-4577,nnichols@example.org,Cancer,0.904,2025-01-25,Yes
+ID100366,Dr. Christina Kelly DVM,Male,1947-05-17,78,India,Mumbai,Artist,42273.4,30-50K,001-842-832-5717x0884,yvonnelittle@example.org,Hypertension,0.549,2024-07-26,No
+ID100367,Edward Griffin,Female,1968-11-12,57,UK,Liverpool,Doctor,102724.18,80-120K,337-902-6145x8376,hayessophia@example.com,Alzheimer's,1.0,2024-11-08,Yes
+ID100368,Sarah Jones,Female,1937-04-28,88,USA,Los Angeles,Scientist,44920.42,30-50K,001-220-827-8600x858,andrewmills@example.com,Hypertension,0.507,2025-09-18,Yes
+ID100369,Christine Miller,Female,1952-10-13,73,Canada,Vancouver,Doctor,55053.0,50-80K,001-638-545-2589x93074,tonywilliams@example.com,Asthma,0.327,2025-10-16,No
+ID100370,Michelle Harrison,Male,1983-02-12,42,Canada,Calgary,Scientist,64561.42,50-80K,+1-397-916-2841x85498,melissabowman@example.org,Asthma,0.322,2025-09-23,No
+ID100371,Courtney Gill,Male,1974-04-04,51,India,Bangalore,Doctor,55210.28,50-80K,7076845912,amanda78@example.net,Diabetes,0.648,2025-07-27,No
+ID100372,Leslie Washington,Female,1964-11-11,61,USA,Los Angeles,Scientist,72197.31,50-80K,296.584.0567x41475,franklinmills@example.net,Cancer,0.819,2025-10-17,Yes
+ID100373,Melissa Davis,Nonbinary,1956-01-01,69,India,Kolkata,Scientist,49992.36,30-50K,+1-324-524-9642x19059,christine39@example.org,Hypertension,0.589,2023-12-21,No
+ID100374,Andrew Bates,Female,1942-02-08,83,USA,Los Angeles,Engineer,44361.11,30-50K,555-123-1234,crawfordkaitlyn@example.org,Asthma,0.192,2023-11-26,Yes
+ID100375,Luke Mcdaniel,Male,1985-08-28,40,USA,Los Angeles,Doctor,98411.69,80-120K,357.711.2048x5705,mitchellward@example.com,Alzheimer's,0.91,2025-09-14,No
+ID100376,Aaron Ford,Female,1990-12-05,35,UK,London,Manager,51744.51,50-80K,001-448-413-8160,kristen98@example.org,Diabetes,0.694,2024-12-17,No
+ID100377,Eileen Gardner,Nonbinary,1973-10-10,52,Canada,Montreal,Teacher,40036.91,30-50K,642-750-2480x93296,peter12@example.org,Hypertension,0.541,2025-08-05,No
+ID100378,Laura Doyle,Nonbinary,1941-06-12,84,India,Mumbai,Artist,23472.48,<30K,869-893-8406x46167,curtisgarcia@example.net,Depression,0.338,2025-05-04,Yes
+ID100379,Kevin Anthony,Female,1975-08-08,50,Canada,Vancouver,Doctor,24127.71,<30K,001-241-273-7013,anthonybrown@example.org,Depression,0.342,2024-03-08,No
+ID100380,Andrew Robinson,Male,1980-11-01,45,Canada,Montreal,Artist,29264.24,<30K,+1-836-404-7836x3905,amanda87@example.net,Depression,0.35,2024-09-17,Yes
+ID100381,Mathew Brennan,Male,1941-10-03,84,Canada,Toronto,Scientist,88063.38,80-120K,+1-926-340-6369x0612,manueljames@example.net,Cancer,0.691,2024-10-17,Yes
+ID100382,Joseph Sellers,Female,1985-03-07,40,India,Delhi,Scientist,47072.6,30-50K,+1-691-494-6145x69479,crawfordnancy@example.org,Hypertension,0.527,2025-10-11,Yes
+ID100383,Christopher Patel,Male,1975-09-05,50,USA,New York,Engineer,49648.21,30-50K,001-622-978-6006x0148,ajefferson@example.net,Hypertension,0.587,2023-11-17,No
+ID100384,Sara Wallace,Female,1944-03-16,81,UK,Liverpool,Scientist,108947.27,80-120K,670-770-7789x952,linda10@example.net,Alzheimer's,0.934,2025-06-23,No
+ID100385,Teresa Maynard,Female,1936-06-05,89,UK,Liverpool,Doctor,56016.91,50-80K,937-482-9481x1056,jenkinscody@example.com,Asthma,0.413,2025-07-29,Yes
+ID100386,Mary Jenkins,Nonbinary,1990-03-22,35,USA,Chicago,Artist,46824.94,30-50K,895.492.3002x859,masonsamuel@example.net,Hypertension,0.484,2024-11-21,Yes
+ID100387,Linda Moody,Male,1953-06-17,72,India,Delhi,Nurse,80413.11,80-120K,834-706-1632,michael45@example.com,Cancer,0.913,2024-01-05,Yes
+ID100388,Kyle Watson,Nonbinary,1958-05-20,67,Canada,Montreal,Engineer,54476.08,50-80K,296-257-8959x75685,boydchristopher@example.net,Hypertension,0.587,2025-07-13,No
+ID100389,Jessica Munoz,Female,1998-11-06,27,UK,Edinburgh,Engineer,25932.14,<30K,(625)477-7835x14202,jamieevans@example.com,Depression,0.347,2024-09-07,Yes
+ID100390,Patrick Maldonado,Male,1989-03-19,36,USA,Los Angeles,Scientist,67669.05,50-80K,4596887260,sbrown@example.net,Diabetes,0.639,2024-08-07,No
+ID100391,Herbert Lee DVM,Female,1954-02-22,71,UK,Edinburgh,Manager,40276.63,30-50K,555-123-1234,robert94@example.com,Depression,0.248,2024-12-30,Yes
+ID100392,Christina Martinez,Female,1960-10-11,65,India,Mumbai,Doctor,90290.64,80-120K,594-663-7432,wyatt40@example.com,Cancer,0.863,2024-10-20,Yes
+ID100393,Nancy Gomez,Male,1977-10-21,48,Canada,Vancouver,Artist,87459.92,80-120K,252-828-6026,keithkennedy@example.net,Cancer,0.843,2024-03-08,Yes
+ID100394,Gary Swanson,Female,1990-01-30,35,UK,Liverpool,Nurse,47674.8,30-50K,+1-818-662-7439,efoster@example.org,Asthma,0.374,2024-08-28,Yes
+ID100395,Ruben Williams,Nonbinary,1987-12-30,38,USA,New York,Manager,41977.03,30-50K,(973)756-5700x8758,bassveronica@example.com,Diabetes,0.66,2023-09-08,No
+ID100396,Debra Murphy,Male,1962-07-12,63,Canada,Calgary,Engineer,47583.36,30-50K,(692)288-7491x267,fernandezvictor@example.org,Hypertension,0.559,2024-11-22,No
+ID100397,Ann Jones,Nonbinary,1993-03-23,32,UK,Edinburgh,Teacher,42143.26,30-50K,(753)748-1954x815,nicholasgoodman@example.org,Asthma,0.348,2024-06-11,No
+ID100398,Lisa Graves,Nonbinary,1957-05-10,68,Canada,Vancouver,Artist,28515.94,<30K,945-399-2310x9453,robert82@example.net,Hypertension,0.587,2025-06-11,Yes
+ID100399,Bryan Mendoza,Male,1946-05-19,79,Canada,Montreal,Engineer,47752.11,30-50K,829-759-5032x187,qvalentine@example.org,Asthma,0.219,2024-04-28,No
+ID100400,Shari Blair,Male,1979-06-17,46,Canada,Calgary,Teacher,72655.77,50-80K,+1-801-966-0439x76097,nvaughn@example.net,Cancer,0.754,2025-06-01,No
+ID100401,Laurie Gomez,Female,1965-10-21,60,UK,London,Teacher,82622.39,80-120K,948.690.4860,adam08@example.net,Cancer,0.781,2025-04-18,Yes
+ID100402,Mr. Dustin Moss,Male,1960-02-25,65,USA,Houston,Engineer,86380.79,80-120K,001-501-429-9521x15247,nicholaskelley@example.org,Cancer,0.87,2023-10-26,No
+ID100403,Diane Salazar,Nonbinary,1970-11-18,55,USA,Houston,Engineer,47584.68,30-50K,(898)485-8809,yhess@example.net,Hypertension,0.599,2024-11-15,No
+ID100404,Spencer Thomas,Male,1965-06-23,60,Canada,Calgary,Engineer,89250.5,80-120K,(276)979-7997x96124,fosterdaniel@example.net,Cancer,0.821,2024-05-07,Yes
+ID100405,Alyssa Miller,Male,1985-05-22,40,UK,Manchester,Artist,98045.44,80-120K,865.406.5969x708,vmoore@example.com,Alzheimer's,0.878,2025-08-13,No
+ID100406,Crystal Bush,Nonbinary,1972-09-06,53,Canada,Calgary,Scientist,87396.59,80-120K,+1-210-272-2070x257,brettwilson@example.com,Cancer,0.82,2025-08-28,No
+ID100407,Veronica Daniels,Female,1942-04-14,83,Canada,Toronto,Nurse,50309.04,50-80K,432-708-4847x16629,ericclark@example.net,Asthma,0.546,2024-11-11,Yes
+ID100408,Mrs. Jessica Bennett,Male,1958-02-15,67,USA,Chicago,Manager,90244.46,80-120K,555-123-1234,smithtracy@example.org,Alzheimer's,0.862,2025-05-16,Yes
+ID100409,Kathy Dalton,Nonbinary,1954-10-05,71,USA,Chicago,Artist,53034.38,50-80K,+1-212-625-8899x66760,alidavid@example.net,Hypertension,0.464,2025-07-01,Yes
+ID100410,Bryan Hurley,Female,1960-12-18,65,UK,Manchester,Engineer,39614.48,30-50K,+1-386-447-3003,michael95@example.com,Depression,0.245,2025-10-11,Yes
+ID100411,Benjamin Townsend,Nonbinary,1963-08-22,62,Canada,Montreal,Manager,24692.5,<30K,5774317103,cabrerakayla@example.org,Depression,0.35,2024-04-18,No
+ID100412,Mrs. Michelle Price,Male,1974-08-17,51,USA,New York,Nurse,55092.34,50-80K,355-526-9026,caitlindeleon@example.net,Asthma,0.376,2023-11-13,Yes
+ID100413,Jordan Barnes,Nonbinary,1971-12-22,54,UK,Liverpool,Engineer,60676.36,50-80K,001-308-322-3587x6876,joesingh@example.com,Diabetes,0.542,2025-05-30,No
+ID100414,Christine Williams,Male,1990-01-01,35,Canada,Toronto,Nurse,31030.34,30-50K,655-270-2991x256,jacob03@example.com,Depression,0.374,2025-10-23,No
+ID100415,Robert Buck,Male,1952-09-06,73,Canada,Montreal,Artist,80904.68,80-120K,+1-780-831-4488x011,devinyang@example.com,Cancer,0.769,2024-12-30,Yes
+ID100416,Jonathan Hammond,Nonbinary,2001-10-13,24,UK,Manchester,Engineer,38728.62,30-50K,4813112187,twallace@example.com,Asthma,0.199,2025-09-02,No
+ID100417,Jessica Heath,Nonbinary,1985-02-21,40,India,Bangalore,Teacher,87988.44,80-120K,507.870.7070,andrew82@example.org,Alzheimer's,0.926,2024-06-14,Yes
+ID100418,Abigail Hall,Female,1986-03-24,39,India,Delhi,Manager,93305.29,80-120K,001-357-298-9601,jburton@example.net,Cancer,0.796,2025-02-15,No
+ID100419,Joseph Lee,Female,1954-12-23,71,India,Kolkata,Teacher,93103.96,80-120K,001-878-731-0371x59156,allenkatherine@example.com,Cancer,0.79,2024-07-28,No
+ID100420,Austin Conley,Male,1953-02-28,72,Canada,Vancouver,Nurse,52068.64,50-80K,+1-788-474-2947,bowmankristen@example.org,Diabetes,0.579,2025-10-16,Yes
+ID100421,Dustin Wagner,Female,1952-01-03,73,Canada,Montreal,Manager,77137.03,50-80K,263.593.9816x96236,romanbrittany@example.com,Cancer,0.885,2025-04-15,Yes
+ID100422,David Miller,Nonbinary,1984-09-03,41,Canada,Calgary,Engineer,133907.42,>120K,001-210-824-3041,emilygarner@example.net,Alzheimer's,0.893,2025-10-25,Yes
+ID100423,Jason Becker,Nonbinary,1961-02-07,64,Canada,Montreal,Artist,101298.96,80-120K,001-860-768-9699x7744,edwardsamanda@example.com,Alzheimer's,0.939,2024-01-16,Yes
+ID100424,Briana Cook,Nonbinary,1970-08-04,55,UK,London,Engineer,35571.55,30-50K,+1-258-626-2631x54806,anthonyfuller@example.com,Hypertension,0.46,2024-03-16,No
+ID100425,Roger Schultz,Nonbinary,1950-07-04,75,USA,Chicago,Nurse,35301.8,30-50K,555-123-1234,ryandaniel@example.net,Asthma,0.326,2024-12-18,Yes
+ID100426,Angela Mullins,Female,1989-02-12,36,UK,Liverpool,Scientist,36112.58,30-50K,523-950-3844,epeters@example.net,Depression,0.251,2024-05-09,No
+ID100427,Roger Rogers,Female,2001-06-01,24,UK,London,Engineer,34472.21,30-50K,(404)273-6039x158,wilsonmichael@example.com,Depression,0.249,2024-11-13,Yes
+ID100428,Justin Brown,Male,1967-03-20,58,Canada,Calgary,Engineer,72871.05,50-80K,737.645.6916,tflynn@example.org,Cancer,0.701,2024-05-11,No
+ID100429,Sharon Kennedy,Nonbinary,1971-07-28,54,USA,New York,Manager,108151.44,80-120K,7438386185,jeffreypatel@example.net,Alzheimer's,0.997,2023-09-04,Yes
+ID100430,Amanda Coleman,Female,2003-03-05,22,USA,Chicago,Nurse,105762.22,80-120K,6152222464,guerrerodennis@example.com,Alzheimer's,0.935,2024-06-17,No
+ID100431,Lisa Watkins,Male,1980-12-10,45,India,Mumbai,Artist,63080.84,50-80K,+1-379-534-5693x614,nodonnell@example.net,Diabetes,0.63,2023-09-07,Yes
+ID100432,Eric Dunn,Female,1996-03-10,29,Canada,Toronto,Doctor,92342.89,80-120K,(855)276-3823,morrisonjohn@example.org,Cancer,0.758,2025-03-22,Yes
+ID100433,Patricia Giles,Male,1939-12-01,86,UK,Manchester,Scientist,61359.96,50-80K,8809365697,duncandouglas@example.org,Diabetes,0.614,2024-08-19,No
+ID100434,Amanda Kelly,Nonbinary,1962-08-10,63,Canada,Montreal,Scientist,88749.33,80-120K,(220)541-7772x70536,marshjohn@example.net,Cancer,0.83,2025-08-08,Yes
+ID100435,Sara Brown,Female,1979-03-20,46,UK,Liverpool,Scientist,47709.79,30-50K,(404)521-2655x5753,elizabeth54@example.com,Diabetes,0.554,2025-06-25,Yes
+ID100436,Mason Malone,Female,1969-12-04,56,India,Delhi,Artist,82864.67,80-120K,298.529.6543x2711,mistyray@example.com,Cancer,0.86,2024-03-14,Yes
+ID100437,Gordon White,Nonbinary,1947-10-21,78,USA,Houston,Nurse,81484.8,80-120K,001-591-650-3456x83439,vanessabarker@example.org,Cancer,0.788,2024-11-10,No
+ID100438,Deborah Jones,Nonbinary,1951-12-11,74,UK,London,Manager,47673.08,30-50K,(557)939-9620x397,gordonnathan@example.net,Asthma,0.412,2025-07-28,No
+ID100439,Lisa Smith,Male,1940-12-08,85,Canada,Vancouver,Doctor,79113.28,50-80K,6614835181,wsanchez@example.com,Cancer,0.781,2025-09-08,No
+ID100440,Curtis Harmon,Nonbinary,1985-06-06,40,India,Kolkata,Doctor,29110.41,<30K,637-656-5292,martinjohn@example.org,Depression,0.292,2025-01-04,No
+ID100441,Ruth Payne,Female,1937-05-24,88,UK,Manchester,Scientist,101303.31,80-120K,683.765.8371x15056,kingheather@example.com,Alzheimer's,0.96,2023-08-29,No
+ID100442,Andrea Morris,Female,1971-06-22,54,UK,London,Artist,20000.0,<30K,555-123-1234,tonyamoore@example.org,Asthma,0.338,2025-07-02,No
+ID100443,Kimberly Miller,Male,1949-11-07,76,UK,Manchester,Scientist,34350.4,30-50K,314.693.9337x0219,jenniferscott@example.org,Depression,0.295,2024-11-26,No
+ID100444,Nicholas Knight,Nonbinary,1946-01-17,79,UK,London,Artist,50382.12,50-80K,(306)588-8068x0388,timothy73@example.org,Hypertension,0.47,2024-07-31,No
+ID100445,Robert Thomas,Female,1950-06-10,75,UK,Liverpool,Nurse,44504.73,30-50K,2006634795,whorton@example.com,Diabetes,0.6,2025-08-01,No
+ID100446,Angela Ray,Nonbinary,1950-08-08,75,UK,Manchester,Doctor,77573.88,50-80K,719.580.8224x445,amandabates@example.net,Cancer,0.739,2025-03-19,Yes
+ID100447,Dale York,Male,1960-07-31,65,Canada,Vancouver,Manager,50758.23,50-80K,244-993-4511,hmoreno@example.org,Diabetes,0.636,2023-10-03,No
+ID100448,Jeremy Kennedy,Female,1950-10-16,75,India,Kolkata,Doctor,50625.79,50-80K,+1-613-326-6346x9514,acruz@example.org,Diabetes,0.641,2025-09-01,No
+ID100449,Angel Garcia,Male,1961-02-08,64,India,Delhi,Nurse,79733.46,50-80K,(512)392-7655,michael36@example.com,Alzheimer's,0.866,2023-12-12,Yes
+ID100450,Corey Wells,Male,1940-12-20,85,India,Delhi,Manager,43174.09,30-50K,+1-599-524-1634,dhawkins@example.org,Hypertension,0.567,2025-07-16,Yes
+ID100451,Dan Roberts,Female,1994-12-27,31,UK,Edinburgh,Manager,76025.26,50-80K,456.953.1109x89764,hillkyle@example.org,Cancer,0.872,2024-11-19,Yes
+ID100452,Charles Spencer,Nonbinary,1936-03-07,89,USA,Chicago,Nurse,100638.0,80-120K,+1-863-800-7150x6453,emily90@example.com,Alzheimer's,0.94,2024-12-19,Yes
+ID100453,Christopher Mason,Male,1954-09-21,71,India,Kolkata,Manager,62427.7,50-80K,+1-950-746-6555x410,hopkinskenneth@example.org,Diabetes,0.727,2023-10-08,No
+ID100454,Ashley Anderson,Nonbinary,1979-09-24,46,UK,London,Engineer,47752.26,30-50K,834-961-7062x0528,qthompson@example.org,Asthma,0.425,2025-07-08,Yes
+ID100455,Marisa Chen,Nonbinary,1968-04-12,57,India,Delhi,Scientist,60666.85,50-80K,(301)314-0166,michael44@example.net,Diabetes,0.652,2025-05-05,No
+ID100456,Aimee Davis,Nonbinary,1980-05-06,45,UK,London,Engineer,55095.03,50-80K,7697410633,marcsaunders@example.net,Diabetes,0.732,2023-12-27,Yes
+ID100457,Melissa Washington,Male,1943-07-14,82,Canada,Calgary,Scientist,103588.89,80-120K,478.326.9224x5094,dalewilliams@example.net,Alzheimer's,0.862,2024-10-18,No
+ID100458,Thomas Smith,Nonbinary,1951-02-16,74,India,Delhi,Artist,30322.45,30-50K,(827)831-1749x1061,foxamber@example.com,Hypertension,0.569,2025-02-09,Yes
+ID100459,Dr. Steve Allen,Male,1940-03-08,85,Canada,Montreal,Doctor,36255.69,30-50K,555-123-1234,richard01@example.com,Hypertension,0.491,2025-03-07,Yes
+ID100460,Tracy Baldwin,Female,1970-11-14,55,India,Kolkata,Engineer,104364.22,80-120K,001-798-778-9511x9778,cbrown@example.net,Alzheimer's,0.876,2025-08-27,No
+ID100461,Amy Gray,Nonbinary,1992-01-05,33,USA,Houston,Teacher,33003.96,30-50K,(625)559-2661,kathysmith@example.net,Hypertension,0.583,2024-04-21,Yes
+ID100462,Karen Bowman,Nonbinary,1937-05-14,88,UK,Liverpool,Manager,28684.72,<30K,401-988-3793x91506,garrettrobertson@example.net,Hypertension,0.488,2023-11-04,Yes
+ID100463,Robert Turner,Male,1939-11-12,86,Canada,Toronto,Engineer,86023.1,80-120K,733.302.1725x81900,alyssavasquez@example.org,Cancer,0.747,2025-07-01,Yes
+ID100464,Lauren Mathews,Nonbinary,1968-11-01,57,UK,Liverpool,Teacher,56669.8,50-80K,253-941-3428x232,ajones@example.com,Diabetes,0.695,2024-02-11,Yes
+ID100465,Kelly Lewis,Nonbinary,1999-04-25,26,USA,Los Angeles,Scientist,43499.06,30-50K,+1-295-975-4850x6819,mking@example.org,Diabetes,0.669,2025-07-14,No
+ID100466,Kathy Howell,Nonbinary,1969-12-30,56,Canada,Vancouver,Doctor,34853.69,30-50K,(235)641-5660x706,johnsmith@example.net,Depression,0.351,2025-01-09,No
+ID100467,Paul Marshall,Female,1987-12-07,38,India,Mumbai,Nurse,45308.62,30-50K,982.993.5039x55638,john00@example.net,Asthma,0.368,2023-12-03,Yes
+ID100468,Bruce Valenzuela,Nonbinary,1976-04-14,49,Canada,Montreal,Scientist,55094.71,50-80K,453-871-9355,william45@example.net,Diabetes,0.67,2024-04-05,No
+ID100469,Tracy Rodriguez,Male,1987-08-08,38,USA,Houston,Doctor,43524.14,30-50K,(347)224-2438x1789,anitafuller@example.org,Depression,0.291,2025-04-04,No
+ID100470,David Harvey DDS,Female,1966-08-24,59,Canada,Montreal,Engineer,41900.81,30-50K,001-511-530-7466x8330,andrewcharles@example.net,Hypertension,0.521,2024-07-20,Yes
+ID100471,Keith Murray,Male,1950-01-03,75,India,Delhi,Scientist,36680.25,30-50K,808.379.9066,srussell@example.net,Depression,0.255,2024-04-03,Yes
+ID100472,Andrew Young,Nonbinary,1952-07-28,73,Canada,Calgary,Doctor,88245.62,80-120K,(625)644-7002,cookmatthew@example.org,Cancer,0.771,2024-10-23,No
+ID100473,Brad Bond,Female,1974-01-04,51,UK,London,Teacher,77247.49,50-80K,+1-641-438-6786x2371,cobbjoseph@example.org,Cancer,0.807,2023-09-18,No
+ID100474,Emily Brown,Nonbinary,1982-08-20,43,Canada,Vancouver,Manager,95932.92,80-120K,001-275-896-8375,cassandra51@example.com,Alzheimer's,1.0,2025-07-30,No
+ID100475,Linda Peterson,Male,2000-07-23,25,India,Bangalore,Manager,45590.73,30-50K,7209527974,delgadojade@example.net,Hypertension,0.583,2024-11-24,No
+ID100476,Timothy Morrison,Female,1975-10-10,50,Canada,Montreal,Manager,57708.02,50-80K,555-123-1234,james67@example.org,Diabetes,0.577,2025-09-04,No
+ID100477,David Tate,Nonbinary,1994-08-04,31,India,Delhi,Engineer,38731.66,30-50K,582.289.1332,christophermccullough@example.org,Asthma,0.315,2025-02-21,No
+ID100478,Miss Deborah Garcia,Male,2001-02-01,24,UK,London,Engineer,88023.76,80-120K,968-719-1520x787,rsmith@example.com,Diabetes,0.623,2025-08-09,Yes
+ID100479,Mary Prince,Male,2003-12-28,22,USA,Chicago,Engineer,48884.82,30-50K,(548)588-5402x22529,alexisbishop@example.org,Diabetes,0.682,2025-10-01,No
+ID100480,Anthony Sheppard,Female,1942-11-10,83,India,Mumbai,Manager,53700.45,50-80K,(535)504-0188,marcus52@example.org,Asthma,0.348,2023-08-31,No
+ID100481,Aaron Ray,Female,1961-08-28,64,India,Bangalore,Artist,49733.45,30-50K,+1-997-288-7029,daniel89@example.com,Asthma,0.43,2025-02-03,No
+ID100482,Timothy Stewart,Nonbinary,1950-07-25,75,USA,New York,Engineer,90321.33,80-120K,001-901-650-7810x0388,christopher28@example.com,Cancer,0.772,2024-01-29,No
+ID100483,Amy White MD,Female,1938-06-29,87,India,Delhi,Nurse,22443.88,<30K,581.930.3468x24341,johnsjohn@example.com,Depression,0.245,2025-06-28,No
+ID100484,Jane Hernandez,Male,1954-10-03,71,USA,New York,Nurse,45780.11,30-50K,473.317.4086x62118,nicoleharris@example.com,Diabetes,0.746,2025-03-25,Yes
+ID100485,Jose Wright,Female,1999-08-13,26,UK,Liverpool,Artist,50504.21,50-80K,(729)379-8673,humphreynicholas@example.com,Depression,0.321,2024-09-09,No
+ID100486,Seth Sutton,Female,2005-07-05,20,India,Bangalore,Artist,29592.58,<30K,881.827.7049,bbaker@example.org,Asthma,0.408,2025-06-23,Yes
+ID100487,Mrs. Sarah Clark MD,Nonbinary,1937-01-28,88,India,Delhi,Artist,35902.44,30-50K,253-901-8128,jacob81@example.net,Asthma,0.401,2024-03-22,Yes
+ID100488,Richard Johnson,Female,1986-03-22,39,Canada,Montreal,Doctor,93734.2,80-120K,754.991.6739,cshah@example.net,Cancer,0.754,2024-11-06,Yes
+ID100489,Richard Anderson,Male,1952-12-26,73,UK,Liverpool,Scientist,40735.21,30-50K,+1-325-859-0315x2955,hallpeter@example.org,Depression,0.369,2025-02-12,No
+ID100490,Carla Hobbs,Female,1994-05-10,31,USA,Los Angeles,Engineer,97896.18,80-120K,953.929.5996,tracygray@example.org,Cancer,0.95,2024-04-30,Yes
+ID100491,Amber Reed,Female,1976-11-21,49,Canada,Montreal,Manager,32438.8,30-50K,7988206724,greenrita@example.org,Depression,0.35,2024-12-27,No
+ID100492,Lori Nelson,Nonbinary,2005-03-02,20,India,Bangalore,Scientist,65581.49,50-80K,298-392-3491,lauren23@example.org,Asthma,0.399,2023-10-15,No
+ID100493,Rita Andrews,Male,1974-06-14,51,USA,Houston,Artist,30675.95,30-50K,555-123-1234,hunterlindsey@example.net,Depression,0.332,2024-08-20,No
+ID100494,Christopher Barton,Nonbinary,1952-09-30,73,USA,Los Angeles,Doctor,38290.86,30-50K,686.257.2982x3668,johnmyers@example.com,Hypertension,0.481,2024-06-07,No
+ID100495,Zoe Estrada,Male,1982-06-08,43,Canada,Toronto,Artist,66726.35,50-80K,427.643.2627,catherinevasquez@example.net,Diabetes,0.731,2025-03-20,Yes
+ID100496,Karen Fischer,Male,1999-02-12,26,UK,Manchester,Scientist,49099.67,30-50K,001-267-936-7552x14110,kristina76@example.org,Diabetes,0.705,2025-08-03,Yes
+ID100497,Lisa Larsen,Male,2000-06-19,25,USA,New York,Artist,50509.66,50-80K,001-954-582-5164x18855,arnoldjesus@example.org,Diabetes,0.676,2023-11-08,No
+ID100498,Nichole Hernandez,Nonbinary,1998-05-14,27,USA,Chicago,Engineer,59848.19,50-80K,+1-449-680-0722x60340,frankwilliams@example.net,Diabetes,0.554,2025-05-16,Yes
+ID100499,Joshua Williams,Male,1997-09-09,28,USA,New York,Engineer,30045.57,30-50K,001-263-701-3241x599,znorman@example.org,Depression,0.193,2025-02-04,No
+ID100500,Justin Hebert,Male,1940-05-04,85,India,Delhi,Engineer,52698.29,50-80K,+1-471-321-4485x9370,jared25@example.org,Diabetes,0.676,2023-12-29,No
+ID100501,Hunter Sanchez,Male,1955-10-15,70,India,Mumbai,Manager,94958.97,80-120K,277-764-7404,tpruitt@example.net,Cancer,0.809,2025-09-15,Yes
+ID100502,Laura Jones,Nonbinary,1966-09-30,59,UK,Edinburgh,Engineer,32740.18,30-50K,+1-546-483-8285x3302,jacksonanna@example.com,Hypertension,0.522,2025-10-27,Yes
+ID100503,Brian Harris,Female,1994-12-11,31,UK,Edinburgh,Engineer,44738.93,30-50K,(578)346-3383,echang@example.com,Diabetes,0.781,2025-04-24,No
+ID100504,Patrick Zuniga,Female,1971-02-23,54,India,Kolkata,Doctor,22685.41,<30K,(434)381-6226,robert71@example.org,Asthma,0.437,2023-11-17,No
+ID100505,Ruth Valencia,Nonbinary,1969-12-31,56,USA,Los Angeles,Nurse,36834.82,30-50K,878-781-7755,salazarjennifer@example.org,Hypertension,0.622,2023-12-19,No
+ID100506,Alexander Dyer,Female,1984-08-14,41,UK,Edinburgh,Scientist,80189.72,80-120K,001-628-245-3519x53929,matthewdominguez@example.net,Cancer,0.816,2024-11-20,No
+ID100507,Elizabeth Stevens,Female,1959-07-21,66,Canada,Vancouver,Nurse,86065.12,80-120K,685-488-1801,hulljohn@example.com,Cancer,0.761,2025-07-03,No
+ID100508,Maria Dunn,Nonbinary,1939-01-11,86,USA,Los Angeles,Teacher,23787.6,<30K,667.236.7202,meyersscott@example.org,Depression,0.319,2025-03-11,No
+ID100509,Harold Stewart,Nonbinary,1967-04-16,58,India,Kolkata,Manager,34142.99,30-50K,810.282.7523x9636,brettortega@example.org,Depression,0.333,2024-08-18,No
+ID100510,Mr. Douglas Webb,Nonbinary,1996-03-30,29,UK,London,Nurse,31283.79,30-50K,555-123-1234,travis39@example.com,Hypertension,0.614,2025-04-04,Yes
+ID100511,Crystal Thompson,Female,1939-03-02,86,India,Delhi,Nurse,110092.59,80-120K,+1-655-804-3326x37361,kenneth28@example.net,Alzheimer's,0.825,2025-07-05,Yes
+ID100512,Mandy Stanley,Female,2001-03-09,24,Canada,Vancouver,Engineer,51889.65,50-80K,895.472.6057,stacy44@example.org,Hypertension,0.44,2023-10-25,No
+ID100513,Cindy Tran,Female,1996-05-04,29,Canada,Montreal,Nurse,97869.42,80-120K,503-389-8961x2681,hrodriguez@example.org,Alzheimer's,0.921,2024-08-21,Yes
+ID100514,Beverly Sullivan,Nonbinary,1938-02-04,87,Canada,Montreal,Scientist,42026.64,30-50K,418-872-0774,oortega@example.org,Depression,0.33,2023-11-14,Yes
+ID100515,David Hernandez,Female,1996-08-15,29,Canada,Calgary,Teacher,111333.83,80-120K,252.940.9547x734,haynesmary@example.org,Alzheimer's,0.914,2025-10-03,Yes
+ID100516,Victor Jones,Nonbinary,1973-10-10,52,Canada,Toronto,Doctor,92839.48,80-120K,9195710335,andrew42@example.org,Cancer,0.865,2024-12-29,No
+ID100517,Sydney Mcdonald MD,Nonbinary,1994-05-12,31,UK,Manchester,Artist,85527.86,80-120K,(556)579-4314x77959,nicolehancock@example.net,Alzheimer's,0.831,2023-09-08,No
+ID100518,Allison Solis,Nonbinary,2004-10-06,21,India,Bangalore,Manager,74857.2,50-80K,(324)747-9024,joelmartin@example.com,Cancer,0.68,2023-11-14,No
+ID100519,James Byrd,Nonbinary,1948-04-03,77,UK,London,Engineer,96029.71,80-120K,(969)918-3938x057,cynthiamurphy@example.net,Cancer,0.861,2023-10-06,No
+ID100520,Daniel Lee,Nonbinary,1995-05-19,30,USA,Chicago,Doctor,42697.82,30-50K,822-788-0662x4641,mkrueger@example.net,Hypertension,0.544,2024-07-07,No
+ID100521,Todd Hansen,Female,1979-06-30,46,UK,Edinburgh,Engineer,56170.06,50-80K,234-984-5953,carla84@example.net,Diabetes,0.559,2025-07-19,Yes
+ID100522,Dennis Carpenter,Female,1979-12-18,46,USA,Los Angeles,Doctor,32124.13,30-50K,(990)623-3926x8544,cindytate@example.org,Depression,0.243,2024-05-23,No
+ID100523,Emily Perez,Female,2001-01-19,24,India,Delhi,Scientist,41594.95,30-50K,4542110660,garciabrian@example.org,Diabetes,0.687,2024-01-10,No
+ID100524,David Lynn,Female,1951-02-28,74,UK,Edinburgh,Nurse,96133.34,80-120K,(572)419-9504,yholmes@example.net,Cancer,0.805,2024-12-19,No
+ID100525,Daniel Gonzalez,Nonbinary,1991-08-08,34,India,Bangalore,Scientist,43542.6,30-50K,+1-326-946-4134,carol42@example.net,Diabetes,0.629,2025-01-23,Yes
+ID100526,Tiffany Burke,Male,1991-02-03,34,UK,Liverpool,Artist,90661.85,80-120K,001-941-999-6677x67736,matthew26@example.com,Cancer,0.849,2025-10-08,No
+ID100527,Shannon Macias,Female,1967-10-19,58,India,Delhi,Doctor,47015.11,30-50K,555-123-1234,copelandgloria@example.net,Diabetes,0.623,2025-02-19,No
+ID100528,Megan Neal,Male,1994-06-14,31,USA,Los Angeles,Scientist,60794.64,50-80K,+1-984-396-7290x85316,leejackson@example.com,Hypertension,0.555,2025-03-28,Yes
+ID100529,Paul Miller,Male,1968-12-24,57,India,Bangalore,Manager,49642.93,30-50K,(553)438-7810,cooklinda@example.org,Diabetes,0.624,2025-09-15,Yes
+ID100530,Courtney Harrison,Female,1992-09-13,33,UK,London,Artist,82033.22,80-120K,+1-791-718-1094,whitakerbrian@example.net,Cancer,0.811,2023-12-12,No
+ID100531,Joshua Higgins,Nonbinary,1983-09-05,42,Canada,Toronto,Engineer,25289.6,<30K,(788)409-9870x14717,kwashington@example.net,Hypertension,0.582,2024-04-12,Yes
+ID100532,Derek Klein,Female,1967-06-28,58,USA,New York,Artist,42754.57,30-50K,001-335-459-0164,danielavila@example.com,Hypertension,0.622,2024-11-05,No
+ID100533,Jason Ford,Female,1948-09-15,77,India,Bangalore,Nurse,103838.22,80-120K,7975933946,michaelkennedy@example.net,Alzheimer's,0.998,2024-02-26,No
+ID100534,Robert Oneill,Female,1945-01-14,80,India,Mumbai,Nurse,79894.99,50-80K,(431)893-6326,katiehunt@example.com,Cancer,0.822,2024-01-15,Yes
+ID100535,Breanna Rodriguez,Nonbinary,1955-03-18,70,India,Bangalore,Manager,42932.41,30-50K,(626)772-3912x41371,jeffhogan@example.net,Hypertension,0.489,2024-04-10,No
+ID100536,Shannon Phillips,Male,1944-06-30,81,Canada,Montreal,Artist,50787.3,50-80K,001-243-690-7426x3254,mark36@example.com,Diabetes,0.647,2025-07-25,Yes
+ID100537,Eric Smith,Female,1951-01-20,74,USA,Chicago,Teacher,73402.15,50-80K,(764)859-7243x24765,cherryemily@example.org,Cancer,0.838,2024-07-19,No
+ID100538,Melissa Guzman,Female,1950-11-20,75,Canada,Toronto,Doctor,40719.83,30-50K,001-685-224-3435x50624,ocarroll@example.org,Asthma,0.305,2025-07-24,Yes
+ID100539,Henry Johnson,Nonbinary,1956-01-14,69,Canada,Vancouver,Nurse,25233.74,<30K,001-331-445-3334x242,josephhale@example.org,Depression,0.222,2025-02-13,No
+ID100540,Carla Ingram,Male,1941-09-07,84,Canada,Calgary,Doctor,46040.81,30-50K,(802)221-1480x2062,ronald63@example.net,Asthma,0.25,2025-10-15,Yes
+ID100541,Sydney Nash,Nonbinary,1979-03-01,46,USA,Los Angeles,Manager,42953.37,30-50K,001-232-859-9088x257,griffinkyle@example.com,Hypertension,0.663,2024-11-03,No
+ID100542,Jacob Hansen,Female,1936-10-07,89,India,Bangalore,Engineer,36829.43,30-50K,322.356.9774x4754,salinasmelissa@example.org,Hypertension,0.548,2025-03-01,Yes
+ID100543,Anna Hardy,Female,1956-09-20,69,Canada,Montreal,Manager,99918.39,80-120K,(725)459-6977,christopherjackson@example.net,Alzheimer's,0.97,2023-12-29,Yes
+ID100544,Jon Smith,Nonbinary,1977-06-02,48,USA,Los Angeles,Scientist,25822.92,<30K,555-123-1234,franklinphillips@example.com,Depression,0.339,2025-05-21,Yes
+ID100545,Rebecca Smith,Female,1968-07-06,57,Canada,Vancouver,Doctor,100239.59,80-120K,4648057573,michelle27@example.com,Alzheimer's,1.0,2024-12-20,Yes
+ID100546,Jody Parker,Female,1998-01-19,27,UK,Edinburgh,Doctor,94148.09,80-120K,9214508770,robertscott@example.com,Cancer,0.738,2025-02-27,No
+ID100547,Nancy Lang,Female,1971-11-12,54,India,Delhi,Teacher,107366.29,80-120K,+1-501-970-7682x98061,allison67@example.com,Alzheimer's,0.972,2023-12-11,Yes
+ID100548,Alexander Marsh,Nonbinary,1995-10-29,30,USA,Chicago,Scientist,45807.32,30-50K,9933092211,michelle59@example.org,Diabetes,0.606,2025-04-04,No
+ID100549,Amber Myers,Nonbinary,1950-08-13,75,Canada,Montreal,Artist,43513.4,30-50K,+1-437-279-2696,craig95@example.com,Diabetes,0.656,2024-01-31,No
+ID100550,Parker Mcdonald,Male,2000-09-05,25,Canada,Calgary,Scientist,95073.92,80-120K,251-371-3366x2862,william58@example.org,Alzheimer's,0.913,2025-02-14,Yes
+ID100551,Erin Aguilar,Female,1950-10-17,75,India,Kolkata,Artist,40387.02,30-50K,+1-376-784-8456x946,proy@example.com,Asthma,0.407,2024-07-12,Yes
+ID100552,Mr. Marcus Harrison,Nonbinary,1975-11-01,50,India,Delhi,Doctor,30406.15,30-50K,2087258032,andrew92@example.net,Depression,0.383,2024-02-20,Yes
+ID100553,Robert Jordan,Male,1989-03-12,36,USA,New York,Manager,24650.67,<30K,001-955-227-2582,catherine43@example.com,Depression,0.126,2024-08-03,No
+ID100554,Jacqueline Campos,Male,1959-11-09,66,UK,Edinburgh,Manager,85971.33,80-120K,391.222.4335x13054,meadowsrebecca@example.com,Cancer,0.747,2024-08-10,No
+ID100555,Andrew Scott,Female,1942-01-21,83,India,Delhi,Engineer,101643.86,80-120K,001-802-972-2846x35379,psmith@example.org,Cancer,0.761,2024-05-08,No
+ID100556,Gabriel Aguilar,Male,1943-05-14,82,India,Delhi,Nurse,20987.41,<30K,(512)981-5472x9086,charles23@example.com,Depression,0.374,2025-06-17,Yes
+ID100557,Shelly Greer,Female,1985-07-03,40,UK,Edinburgh,Nurse,91888.45,80-120K,+1-936-561-8064x18530,hayessean@example.net,Cancer,0.75,2023-10-05,Yes
+ID100558,Karen Coleman,Female,1967-02-15,58,Canada,Montreal,Manager,59132.36,50-80K,221.357.1755x3932,kelsey81@example.org,Asthma,0.204,2025-09-02,No
+ID100559,Robert Santiago,Male,2002-05-04,23,Canada,Montreal,Engineer,107304.26,80-120K,789-476-4375,ocarlson@example.org,Alzheimer's,0.893,2025-04-19,No
+ID100560,Diana Rodriguez,Female,1978-08-30,47,UK,London,Nurse,41563.78,30-50K,+1-516-555-0285x533,psmith@example.net,Depression,0.349,2025-01-29,No
+ID100561,Madison Ortega,Nonbinary,1999-11-06,26,Canada,Vancouver,Manager,52637.68,50-80K,555-123-1234,kevinshaffer@example.com,Asthma,0.316,2024-12-01,No
+ID100562,Rachel Green,Male,1967-04-01,58,Canada,Montreal,Doctor,46197.53,30-50K,412.719.5694,chenelizabeth@example.com,Diabetes,0.681,2025-03-02,No
+ID100563,Gwendolyn Davis,Female,1947-10-30,78,UK,Liverpool,Nurse,62186.62,50-80K,9483144327,richard00@example.org,Cancer,0.837,2025-06-22,Yes
+ID100564,Joseph Chan,Nonbinary,1942-05-05,83,UK,Liverpool,Engineer,87846.64,80-120K,(834)894-0949x478,ghunter@example.net,Cancer,0.934,2023-09-03,Yes
+ID100565,Jordan Arellano,Male,1956-03-15,69,UK,Liverpool,Teacher,86881.42,80-120K,(324)312-9272,steve03@example.net,Cancer,0.825,2024-10-08,Yes
+ID100566,Charles Ryan,Male,1970-06-14,55,USA,Houston,Scientist,101516.01,80-120K,(376)633-6112x61380,steven15@example.com,Cancer,0.846,2024-05-10,Yes
+ID100567,Laurie Stephens,Female,1959-02-24,66,USA,Los Angeles,Scientist,42657.57,30-50K,001-968-688-1662x3165,ryan69@example.net,Depression,0.361,2024-01-26,No
+ID100568,Denise Mcdonald,Male,1962-03-20,63,USA,Chicago,Doctor,74281.66,50-80K,375-816-5606x67826,casey99@example.com,Diabetes,0.631,2025-02-10,Yes
+ID100569,Angela Evans,Female,2000-05-29,25,UK,Liverpool,Scientist,79703.56,50-80K,+1-620-485-5535x28215,john54@example.com,Cancer,0.825,2025-01-25,Yes
+ID100570,Shari Lee,Male,1967-02-23,58,Canada,Vancouver,Doctor,20000.0,<30K,913.260.5844x54477,baileyelizabeth@example.com,Hypertension,0.538,2024-10-03,No
+ID100571,Tina Gonzalez,Female,2000-04-28,25,Canada,Montreal,Teacher,49911.28,30-50K,303.261.0025x15036,harold34@example.com,Hypertension,0.605,2024-08-14,Yes
+ID100572,Janet Sims,Male,1989-03-06,36,India,Bangalore,Scientist,99053.34,80-120K,001-407-771-5899x8520,heather40@example.org,Cancer,0.688,2025-05-07,No
+ID100573,Lisa Montes,Nonbinary,1976-11-06,49,India,Mumbai,Artist,92078.62,80-120K,001-744-690-6886,maciasdouglas@example.com,Cancer,0.808,2024-09-04,No
+ID100574,Cynthia Dougherty,Nonbinary,1959-02-10,66,India,Mumbai,Engineer,49589.66,30-50K,+1-307-650-0593x05179,youngjacob@example.net,Asthma,0.387,2024-08-21,No
+ID100575,Patrick Sanchez,Male,1990-12-01,35,UK,Liverpool,Engineer,71073.6,50-80K,(323)997-8556x770,rosborn@example.net,Cancer,0.808,2024-08-06,No
+ID100576,Raymond Baker,Female,1936-07-03,89,India,Bangalore,Scientist,97737.17,80-120K,7237333489,evansscott@example.com,Cancer,0.77,2025-06-20,No
+ID100577,James Robinson,Female,1979-10-06,46,USA,Los Angeles,Nurse,90999.24,80-120K,+1-623-291-8465,jwang@example.net,Cancer,0.691,2024-08-04,No
+ID100578,Michael Howell,Nonbinary,1970-11-30,55,USA,New York,Scientist,34074.4,30-50K,555-123-1234,ybyrd@example.org,Asthma,0.408,2024-01-03,Yes
+ID100579,Mrs. Kimberly Cook PhD,Nonbinary,1981-06-04,44,Canada,Montreal,Manager,64054.08,50-80K,(451)900-0569,kelly22@example.org,Diabetes,0.74,2024-03-05,Yes
+ID100580,James Wright,Female,1992-04-06,33,USA,New York,Doctor,38837.72,30-50K,(266)651-0452,fullersteven@example.org,Depression,0.388,2024-11-06,Yes
+ID100581,Lauren Harper,Male,1989-07-06,36,USA,Los Angeles,Doctor,51355.89,50-80K,481.307.1566,rickywilkinson@example.net,Diabetes,0.665,2025-02-16,No
+ID100582,Kevin Guzman,Female,1990-11-15,35,UK,Edinburgh,Teacher,48168.22,30-50K,+1-766-474-2085x39192,douglastaylor@example.net,Hypertension,0.676,2024-11-28,Yes
+ID100583,Darrell Galvan,Male,1971-09-09,54,India,Bangalore,Teacher,43650.66,30-50K,001-439-271-3434x103,adam47@example.net,Hypertension,0.599,2024-01-06,No
+ID100584,Daniel Miller,Female,1955-03-18,70,UK,London,Manager,90583.08,80-120K,(396)714-7506x2578,karen16@example.net,Alzheimer's,0.868,2024-03-15,Yes
+ID100585,Thomas Smith,Female,1978-08-28,47,India,Delhi,Artist,78536.07,50-80K,001-574-543-2237x8691,katiehubbard@example.com,Cancer,0.695,2024-01-14,Yes
+ID100586,Cynthia Salas,Male,1968-04-08,57,USA,Los Angeles,Artist,108412.67,80-120K,258-873-8068,bmarshall@example.com,Alzheimer's,0.904,2024-12-26,Yes
+ID100587,Andrea Walters,Male,1962-02-03,63,India,Mumbai,Teacher,96797.34,80-120K,(789)687-6483x8320,daniel90@example.net,Alzheimer's,0.882,2025-01-11,Yes
+ID100588,Brian Carson,Nonbinary,1948-03-27,77,Canada,Vancouver,Doctor,91266.35,80-120K,4308937399,daniel87@example.com,Cancer,0.733,2025-10-24,No
+ID100589,Amanda Sandoval,Nonbinary,1967-05-07,58,Canada,Calgary,Nurse,74579.76,50-80K,001-444-843-7987x840,rachel35@example.com,Cancer,0.823,2024-03-01,No
+ID100590,Kristin Rodriguez,Nonbinary,1968-08-29,57,USA,Chicago,Scientist,104492.54,80-120K,+1-908-273-0464x4732,stephaniemorgan@example.net,Alzheimer's,0.907,2024-05-30,Yes
+ID100591,Roger Pacheco,Female,1995-12-07,30,Canada,Calgary,Teacher,30191.23,30-50K,844.780.4989x44191,lwilson@example.com,Depression,0.302,2024-04-03,Yes
+ID100592,Vanessa White,Nonbinary,1959-09-26,66,UK,Edinburgh,Scientist,58070.38,50-80K,+1-583-517-9784,kevinchapman@example.org,Diabetes,0.605,2023-12-19,No
+ID100593,Michelle Powell,Female,2003-04-09,22,Canada,Montreal,Nurse,105092.71,80-120K,001-308-508-7892x85879,calebperkins@example.org,Alzheimer's,0.855,2024-03-16,No
+ID100594,Ian Thomas,Nonbinary,1996-12-01,29,Canada,Montreal,Nurse,79977.84,50-80K,001-290-643-2411,vargasjames@example.com,Cancer,0.801,2023-10-01,Yes
+ID100595,Eric Paul,Male,2003-07-19,22,India,Delhi,Doctor,70186.62,50-80K,555-123-1234,melissaburnett@example.net,Asthma,0.161,2023-10-08,No
+ID100596,Tony Gordon,Male,1971-04-20,54,USA,Los Angeles,Doctor,35516.0,30-50K,796.557.7117x1661,charles31@example.net,Asthma,0.332,2024-04-10,Yes
+ID100597,Ashley Russell,Female,1967-03-30,58,India,Delhi,Nurse,33988.97,30-50K,(441)614-8233,powellkatherine@example.com,Hypertension,0.494,2024-08-07,Yes
+ID100598,Roger Martin,Female,1943-03-31,82,USA,Los Angeles,Teacher,108530.21,80-120K,2769806912,jennifercopeland@example.org,Alzheimer's,0.928,2025-10-10,No
+ID100599,Luke Beasley,Nonbinary,1959-02-28,66,Canada,Montreal,Nurse,40204.41,30-50K,910-333-3708x447,melody13@example.com,Depression,0.301,2023-11-09,No
+ID100600,Tommy Watts,Female,1986-01-16,39,UK,Edinburgh,Doctor,56530.69,50-80K,844-815-0451,renee01@example.org,Diabetes,0.707,2023-12-31,Yes
+ID100601,Yolanda Mendoza,Nonbinary,1937-07-30,88,UK,Liverpool,Teacher,49322.95,30-50K,001-698-461-8440x3272,felicia41@example.net,Diabetes,0.628,2025-08-10,Yes
+ID100602,Eric Brown,Female,1953-03-13,72,USA,Chicago,Artist,42853.86,30-50K,+1-634-373-0628x884,bennettjeffrey@example.net,Hypertension,0.527,2025-05-13,Yes
+ID100603,Jeffrey Alexander,Male,1991-08-14,34,India,Delhi,Teacher,114252.17,80-120K,001-647-831-8691x51095,lambertjason@example.net,Alzheimer's,0.963,2024-12-14,Yes
+ID100604,Rachel Lopez,Nonbinary,1983-06-10,42,USA,Houston,Doctor,101668.65,80-120K,744.366.6675x3952,salvarez@example.com,Alzheimer's,0.797,2025-01-15,Yes
+ID100605,Brittany Jackson,Male,1957-03-12,68,Canada,Vancouver,Nurse,62513.65,50-80K,+1-972-461-5084x9945,arellanomargaret@example.net,Diabetes,0.606,2024-04-19,Yes
+ID100606,Mercedes Salinas,Nonbinary,1957-04-12,68,India,Bangalore,Engineer,41041.36,30-50K,001-659-239-7100,emily21@example.net,Depression,0.239,2025-09-28,Yes
+ID100607,Steven Rodriguez,Female,1959-02-24,66,Canada,Calgary,Doctor,76908.22,50-80K,8678928023,traciemelton@example.org,Alzheimer's,0.984,2024-02-09,No
+ID100608,Corey Hernandez,Female,1986-08-26,39,UK,London,Engineer,30922.45,30-50K,(906)321-0861,evansgregory@example.net,Depression,0.391,2025-04-18,No
+ID100609,Chad Brady,Female,1998-03-05,27,UK,Liverpool,Teacher,37753.92,30-50K,270-832-1447x11649,zfrederick@example.org,Hypertension,0.513,2025-06-30,Yes
+ID100610,Michelle Orr,Nonbinary,1957-11-22,68,India,Kolkata,Doctor,57829.35,50-80K,2397349186,michaelmorales@example.org,Diabetes,0.646,2023-10-04,No
+ID100611,Kevin Simmons,Female,1940-03-27,85,UK,Liverpool,Artist,55986.51,50-80K,+1-214-474-5821,btrevino@example.com,Diabetes,0.697,2025-08-20,No
+ID100612,Daniel French,Female,1938-07-18,87,Canada,Vancouver,Teacher,79091.76,50-80K,555-123-1234,smithcrystal@example.com,Cancer,0.789,2024-02-24,No
+ID100613,Grant Noble,Male,1989-05-14,36,India,Bangalore,Teacher,41854.96,30-50K,784.969.1217,jamesjordan@example.com,Asthma,0.404,2024-07-05,No
+ID100614,Samantha Miller,Male,1945-03-16,80,India,Bangalore,Engineer,83127.49,80-120K,889.423.0730x89050,barbaramonroe@example.com,Cancer,0.775,2023-12-03,Yes
+ID100615,Peter Hernandez,Male,1968-02-24,57,UK,London,Scientist,58627.43,50-80K,9647058859,arielheath@example.org,Hypertension,0.438,2024-07-27,No
+ID100616,Elizabeth Green,Male,1995-10-29,30,USA,Los Angeles,Engineer,31001.31,30-50K,8557844652,maciasmichael@example.org,Depression,0.284,2025-09-12,Yes
+ID100617,Ryan Sullivan,Male,1991-10-30,34,Canada,Montreal,Engineer,51457.53,50-80K,239-832-0265,luke87@example.net,Diabetes,0.603,2025-10-16,Yes
+ID100618,Terri Jordan,Nonbinary,1964-09-16,61,UK,Liverpool,Doctor,20000.0,<30K,622-920-4755,daniel84@example.com,Depression,0.313,2024-06-20,Yes
+ID100619,Megan Hernandez,Female,1993-06-15,32,Canada,Vancouver,Doctor,76759.81,50-80K,765.220.8987,riveramatthew@example.net,Cancer,0.774,2025-07-12,Yes
+ID100620,Leslie Collins,Female,1962-08-14,63,UK,Manchester,Artist,67071.57,50-80K,343-978-5361x763,qoliver@example.net,Diabetes,0.709,2025-02-13,Yes
+ID100621,Amanda Mcneil,Nonbinary,1966-07-06,59,India,Kolkata,Teacher,37337.07,30-50K,+1-553-458-2617x697,elizabeth26@example.org,Hypertension,0.569,2025-01-18,No
+ID100622,Christopher Owens,Male,1950-12-08,75,Canada,Calgary,Doctor,61271.23,50-80K,689.382.4292x659,scott63@example.org,Hypertension,0.531,2023-10-07,No
+ID100623,Michael Grant,Male,1935-10-16,90,UK,Edinburgh,Manager,51154.76,50-80K,725-679-5133,sabrinaanderson@example.com,Hypertension,0.622,2023-12-21,No
+ID100624,Michelle Li,Male,1970-02-05,55,India,Delhi,Doctor,39982.22,30-50K,425.394.4928,rtravis@example.com,Hypertension,0.509,2025-04-02,Yes
+ID100625,Jessica Andersen,Male,1996-11-11,29,UK,Edinburgh,Doctor,26607.98,<30K,(729)443-5134x173,ujohnson@example.net,Hypertension,0.548,2024-03-20,Yes
+ID100626,Christopher Randall,Male,1976-07-19,49,Canada,Calgary,Nurse,47955.22,30-50K,001-543-647-5717,uortiz@example.org,Depression,0.313,2025-10-24,Yes
+ID100627,Lindsey Mann,Nonbinary,1957-02-14,68,India,Bangalore,Teacher,53407.31,50-80K,7447130943,dustin85@example.com,Diabetes,0.691,2024-12-05,Yes
+ID100628,Karen Vasquez,Female,1984-08-24,41,Canada,Vancouver,Nurse,101606.89,80-120K,+1-798-548-9366x35270,marypeterson@example.com,Cancer,0.853,2024-01-11,No
+ID100629,Shannon Morris,Female,1981-02-15,44,Canada,Vancouver,Teacher,54842.23,50-80K,555-123-1234,jonesjulia@example.net,Diabetes,0.604,2025-06-11,Yes
+ID100630,Sandra Brooks,Nonbinary,1942-11-21,83,UK,Edinburgh,Nurse,94132.21,80-120K,920-282-6769x228,gzimmerman@example.org,Alzheimer's,0.783,2025-05-31,Yes
+ID100631,Bryan Hamilton,Female,1985-10-25,40,UK,Edinburgh,Artist,50165.83,50-80K,645-962-6184x452,camposmackenzie@example.net,Hypertension,0.625,2023-12-05,Yes
+ID100632,Jill Perry,Female,1939-08-29,86,UK,London,Artist,111892.6,80-120K,(516)616-0433,mercedes44@example.org,Alzheimer's,0.99,2023-10-21,Yes
+ID100633,Robyn Bradley,Male,1961-12-13,64,UK,Manchester,Scientist,49858.92,30-50K,(329)749-2439,smiller@example.org,Diabetes,0.713,2024-04-08,Yes
+ID100634,Jason Gibson II,Male,1939-10-09,86,UK,Manchester,Nurse,58521.33,50-80K,+1-814-612-7199,tmedina@example.com,Diabetes,0.543,2024-05-29,No
+ID100635,Alejandra Rodriguez,Female,1973-01-13,52,UK,Manchester,Teacher,70481.88,50-80K,478.778.8234,matthew35@example.org,Diabetes,0.639,2025-04-11,Yes
+ID100636,James Miranda,Male,1987-05-06,38,India,Delhi,Doctor,87426.01,80-120K,+1-360-841-3841x692,jane88@example.com,Cancer,0.677,2024-04-04,No
+ID100637,Kathleen Burke MD,Nonbinary,1942-12-02,83,Canada,Vancouver,Engineer,80122.52,80-120K,(679)689-1944,robertking@example.net,Cancer,0.79,2023-09-15,Yes
+ID100638,Susan Howell,Male,1966-05-27,59,Canada,Calgary,Nurse,48720.65,30-50K,+1-627-512-9944,nicholas01@example.com,Hypertension,0.468,2023-12-28,No
+ID100639,Brandy Phelps,Male,1944-02-03,81,UK,Liverpool,Artist,99023.93,80-120K,9748026725,jacksonjames@example.net,Alzheimer's,0.87,2025-02-07,No
+ID100640,Dawn Hubbard,Female,1995-03-22,30,USA,Chicago,Engineer,65576.17,50-80K,759-800-8025x383,james31@example.com,Diabetes,0.512,2025-01-11,Yes
+ID100641,Jason Cole,Male,1942-03-07,83,Canada,Vancouver,Doctor,49835.05,30-50K,747-747-1894x08492,kbutler@example.com,Asthma,0.362,2025-06-25,No
+ID100642,James Macdonald,Male,1951-12-14,74,USA,Chicago,Teacher,100711.49,80-120K,(897)998-1357x34311,snielsen@example.org,Alzheimer's,0.862,2024-11-20,No
+ID100643,Michael Jensen,Male,1957-10-15,68,Canada,Vancouver,Engineer,51353.0,50-80K,001-412-775-3935x80179,bentontanya@example.net,Depression,0.289,2023-11-03,Yes
+ID100644,Jeffrey Hernandez DDS,Male,1950-12-01,75,UK,Edinburgh,Manager,68052.82,50-80K,001-437-287-9182x304,saraschneider@example.com,Diabetes,0.751,2023-10-16,Yes
+ID100645,Charles Tran,Female,1966-10-02,59,USA,Chicago,Scientist,99844.83,80-120K,610-846-8679,klittle@example.com,Alzheimer's,0.894,2025-06-14,Yes
+ID100646,Casey Miller,Nonbinary,1934-12-04,91,USA,Los Angeles,Nurse,53398.32,50-80K,555-123-1234,jensentroy@example.org,Diabetes,0.622,2025-08-26,No
+ID100647,Kimberly Rogers,Female,1935-05-28,90,USA,Chicago,Doctor,82052.03,80-120K,2072658408,johnsonkaren@example.net,Cancer,0.833,2023-11-07,No
+ID100648,Brianna Myers,Male,1944-07-05,81,UK,London,Teacher,46011.71,30-50K,+1-989-607-8186x8771,ndaniels@example.org,Depression,0.299,2024-11-26,No
+ID100649,Jacob Harrington,Male,1963-05-01,62,UK,London,Teacher,77689.85,50-80K,+1-478-685-8583,lewisadam@example.net,Cancer,0.764,2023-08-26,No
+ID100650,Kelly Allen,Male,1948-03-09,77,India,Mumbai,Teacher,107764.47,80-120K,920.870.8383x345,whitelaura@example.com,Alzheimer's,0.775,2025-09-29,No
+ID100651,Victoria Rojas,Male,1957-03-23,68,Canada,Calgary,Manager,46040.33,30-50K,001-507-998-6271x93853,courtneywilliams@example.net,Depression,0.396,2025-01-20,Yes
+ID100652,Carla King,Female,1938-10-30,87,Canada,Montreal,Manager,34824.03,30-50K,(574)666-0468,jenniferruiz@example.net,Hypertension,0.565,2024-07-20,No
+ID100653,James Miller,Female,1997-06-17,28,Canada,Calgary,Manager,53571.95,50-80K,840.339.2697x725,garciajames@example.net,Diabetes,0.766,2025-08-23,No
+ID100654,Thomas Sanchez,Female,1976-04-12,49,India,Mumbai,Scientist,35165.82,30-50K,241.533.6259x31940,josephaguilar@example.com,Asthma,0.361,2024-12-22,No
+ID100655,Justin Glenn,Nonbinary,1999-01-10,26,India,Kolkata,Nurse,85945.88,80-120K,811.898.9688,haneyangela@example.net,Cancer,0.759,2024-03-11,Yes
+ID100656,Michael Petty,Nonbinary,2002-10-17,23,UK,Manchester,Artist,40131.75,30-50K,944.364.3385,jamesromero@example.org,Diabetes,0.604,2025-05-16,No
+ID100657,Andrea Ramos,Female,1952-08-05,73,USA,Los Angeles,Engineer,76452.92,50-80K,334.504.1703x78926,christopher59@example.org,Cancer,0.725,2025-06-29,No
+ID100658,Connie Fowler,Nonbinary,1935-08-26,90,India,Delhi,Doctor,52987.55,50-80K,(248)543-3847x63932,nancy64@example.org,Asthma,0.352,2025-08-14,Yes
+ID100659,Christina Peters,Female,1976-06-01,49,Canada,Toronto,Nurse,45129.63,30-50K,603.444.3959,ashleyhill@example.net,Hypertension,0.562,2023-11-20,Yes
+ID100660,Christine Adams,Female,1981-04-14,44,Canada,Montreal,Nurse,97706.53,80-120K,+1-341-212-8925x4277,tammy12@example.net,Alzheimer's,0.924,2025-08-30,No
+ID100661,Christopher Walter,Male,1990-09-07,35,Canada,Vancouver,Manager,57936.76,50-80K,001-618-843-6072x64709,danielmorales@example.org,Diabetes,0.622,2025-01-08,Yes
+ID100662,Rachel Burch,Female,1935-03-09,90,USA,Los Angeles,Nurse,33935.16,30-50K,377-899-0348,rlewis@example.org,Hypertension,0.549,2025-04-20,No
+ID100663,Erin Brock,Male,1962-06-23,63,UK,Edinburgh,Artist,49844.93,30-50K,555-123-1234,sbrown@example.net,Depression,0.347,2025-02-26,No
+ID100664,Stephanie Macdonald,Nonbinary,2000-08-20,25,USA,Chicago,Nurse,104444.16,80-120K,795.447.3725x1018,christiankelley@example.net,Alzheimer's,0.85,2024-02-07,Yes
+ID100665,Sharon Hensley,Nonbinary,1946-05-26,79,India,Kolkata,Teacher,78416.21,50-80K,711-536-8812,jill04@example.org,Cancer,0.797,2023-12-24,Yes
+ID100666,Ryan Powell,Nonbinary,1974-02-14,51,UK,Liverpool,Manager,55761.12,50-80K,(688)881-6511,angelwilkinson@example.org,Asthma,0.275,2024-06-18,No
+ID100667,Kayla Williams,Male,1992-09-22,33,Canada,Vancouver,Teacher,30554.05,30-50K,280-997-9874x946,woodsheila@example.net,Asthma,0.355,2025-09-14,No
+ID100668,Ruben Blair,Nonbinary,1997-02-21,28,USA,Chicago,Artist,21209.43,<30K,399.233.5728,jenniferluna@example.com,Depression,0.486,2024-02-08,Yes
+ID100669,Kevin Turner,Male,1952-01-08,73,Canada,Montreal,Artist,29871.37,<30K,213-387-9134x1574,amy78@example.net,Hypertension,0.564,2025-08-29,Yes
+ID100670,Abigail Quinn,Male,1945-03-13,80,USA,Houston,Doctor,34612.96,30-50K,491.398.8536,matthewsmith@example.com,Depression,0.339,2024-05-25,No
+ID100671,Catherine Reed,Nonbinary,2001-07-13,24,Canada,Vancouver,Artist,37926.85,30-50K,274-780-4064x90260,maydenise@example.net,Depression,0.29,2024-05-10,No
+ID100672,Michael Lopez,Female,1936-03-04,89,UK,Liverpool,Scientist,86164.69,80-120K,(306)775-2428,danielle32@example.net,Cancer,0.812,2025-05-12,No
+ID100673,Alison Perez,Nonbinary,2004-08-13,21,USA,Chicago,Scientist,56414.77,50-80K,286.274.6063,jason52@example.org,Diabetes,0.644,2024-02-04,No
+ID100674,Charles Hardy,Nonbinary,1967-10-21,58,Canada,Calgary,Scientist,110204.43,80-120K,261.572.7126,lowedanielle@example.org,Cancer,0.835,2023-11-04,No
+ID100675,Allison Robinson,Nonbinary,1959-12-02,66,USA,Houston,Doctor,83729.15,80-120K,722-661-9526x332,yshort@example.org,Cancer,0.809,2023-09-20,No
+ID100676,Amy Brown,Male,1953-06-07,72,UK,Liverpool,Manager,107012.12,80-120K,(392)591-7124x2933,levyjamie@example.com,Alzheimer's,0.979,2025-09-17,Yes
+ID100677,Dylan Ramirez,Nonbinary,1999-01-25,26,USA,Chicago,Doctor,100428.54,80-120K,(631)461-3327,moorerobert@example.net,Alzheimer's,0.914,2024-02-19,No
+ID100678,Julia Thompson,Female,1937-11-28,88,Canada,Toronto,Doctor,36627.28,30-50K,226-559-7934,dsmith@example.org,Hypertension,0.58,2024-07-07,No
+ID100679,Edward Jackson,Female,1975-09-13,50,India,Kolkata,Manager,36659.97,30-50K,731.611.3743x52429,hoffmanjohn@example.net,Hypertension,0.503,2025-03-12,No
+ID100680,Michael Moore,Male,1947-11-12,78,USA,Chicago,Artist,30824.85,30-50K,555-123-1234,trevor50@example.com,Hypertension,0.512,2025-02-27,No
+ID100681,Jacob Torres,Male,1992-03-15,33,Canada,Vancouver,Doctor,36557.89,30-50K,001-520-251-9929x56645,joshuagarrett@example.com,Asthma,0.375,2025-04-09,No
+ID100682,Alyssa Wright,Male,1943-10-01,82,Canada,Montreal,Artist,49197.51,30-50K,+1-627-326-0604x751,rodriguezangela@example.org,Diabetes,0.593,2025-10-09,No
+ID100683,David Gomez,Female,1944-04-23,81,USA,Los Angeles,Teacher,55963.26,50-80K,001-660-352-0495x87528,katelynjohnson@example.net,Diabetes,0.762,2023-11-11,No
+ID100684,Stephanie Rodriguez,Female,1964-10-19,61,Canada,Toronto,Scientist,83085.99,80-120K,(779)636-6833x2509,jared21@example.net,Cancer,0.741,2025-02-04,No
+ID100685,Timothy Morales,Nonbinary,1984-03-01,41,USA,Los Angeles,Nurse,56952.38,50-80K,(269)796-8162,sarah82@example.com,Diabetes,0.611,2024-06-30,Yes
+ID100686,Yvonne Clark,Male,1948-04-22,77,USA,New York,Doctor,46353.01,30-50K,8153088859,lopezmichelle@example.com,Asthma,0.308,2023-11-06,No
+ID100687,Allison Smith,Male,1955-07-05,70,UK,Edinburgh,Scientist,62795.84,50-80K,487.983.6108x4979,ruizdavid@example.net,Asthma,0.411,2025-02-07,No
+ID100688,Stephanie Jenkins,Male,1941-06-21,84,Canada,Montreal,Scientist,54245.45,50-80K,4989101575,fischerashley@example.net,Hypertension,0.561,2025-09-11,Yes
+ID100689,William Martin,Female,1979-10-26,46,USA,New York,Doctor,63593.78,50-80K,001-957-608-5781x17318,anthonypark@example.com,Diabetes,0.544,2023-10-28,Yes
+ID100690,Christopher Williams,Male,1962-10-23,63,Canada,Toronto,Engineer,59829.85,50-80K,5794873504,chadcochran@example.org,Diabetes,0.614,2024-09-14,No
+ID100691,Heidi Hawkins,Female,1967-01-24,58,India,Bangalore,Teacher,77767.08,50-80K,+1-506-492-3935x822,brownrobin@example.com,Cancer,0.852,2025-05-14,No
+ID100692,Kathryn Moore,Female,1951-08-14,74,USA,Los Angeles,Artist,30867.92,30-50K,001-464-340-3841x2341,gutierrezmichelle@example.net,Depression,0.335,2024-10-14,No
+ID100693,Julie Parker,Male,1970-11-23,55,USA,Chicago,Manager,27933.26,<30K,+1-205-542-9196x84293,gina25@example.org,Depression,0.185,2024-11-03,Yes
+ID100694,Rebecca Thompson,Female,1944-12-10,81,Canada,Montreal,Teacher,69135.65,50-80K,001-228-581-2304x005,trodriguez@example.org,Cancer,0.754,2025-06-18,No
+ID100695,Natalie Oconnor,Nonbinary,1981-05-25,44,Canada,Vancouver,Nurse,36514.13,30-50K,001-240-654-4812,jonathanroberts@example.net,Hypertension,0.523,2024-08-16,No
+ID100696,Brianna Garner,Nonbinary,1951-08-02,74,Canada,Calgary,Nurse,93236.88,80-120K,+1-995-629-4924x6052,wortiz@example.org,Cancer,0.772,2024-01-06,No
+ID100697,Daniel Johnston,Male,2000-05-18,25,UK,London,Manager,38341.09,30-50K,555-123-1234,morrisjohn@example.com,Hypertension,0.618,2024-07-23,Yes
+ID100698,Brittany Carey,Male,1965-12-11,60,UK,Manchester,Nurse,33877.05,30-50K,541-469-1833x8873,justinthompson@example.com,Depression,0.326,2025-02-17,Yes
+ID100699,Brittney Navarro,Female,1956-12-09,69,USA,New York,Scientist,100217.93,80-120K,710-619-1104x98795,melissa43@example.net,Alzheimer's,0.994,2024-01-08,No
+ID100700,Dennis Riley,Male,1972-09-09,53,UK,London,Artist,37234.04,30-50K,896.341.8503x5289,williamparrish@example.com,Hypertension,0.55,2024-09-08,No
+ID100701,Lisa Casey,Female,1973-12-21,52,USA,Los Angeles,Engineer,90124.48,80-120K,531.887.1905x36659,wallen@example.org,Alzheimer's,0.972,2024-07-29,Yes
+ID100702,Kimberly English,Male,1960-06-01,65,UK,Edinburgh,Teacher,76179.22,50-80K,453-310-1697x908,lisa05@example.com,Cancer,0.761,2024-06-04,Yes
+ID100703,Danielle Krause,Nonbinary,1980-06-27,45,UK,London,Doctor,116933.64,80-120K,995.335.2811x755,tcunningham@example.com,Alzheimer's,0.978,2024-12-01,Yes
+ID100704,Aaron Jones,Female,1983-01-25,42,USA,New York,Teacher,50547.02,50-80K,(611)754-4316,pattyblackburn@example.org,Diabetes,0.683,2024-09-05,No
+ID100705,Jessica Johnson,Male,1963-09-23,62,USA,New York,Nurse,43596.79,30-50K,001-676-545-0880x5554,vdaniels@example.org,Diabetes,0.679,2024-11-20,No
+ID100706,Emily Robertson,Female,1993-12-01,32,USA,New York,Manager,52258.25,50-80K,283.753.5191,zwagner@example.net,Depression,0.346,2024-11-10,No
+ID100707,David Shaw,Female,1998-07-20,27,India,Delhi,Doctor,49007.73,30-50K,+1-672-918-8690x96385,monroemelissa@example.org,Asthma,0.382,2023-11-07,No
+ID100708,Cory Rhodes,Male,1991-06-16,34,Canada,Vancouver,Engineer,96239.2,80-120K,+1-378-526-5084x87608,thomasann@example.org,Cancer,0.723,2024-06-08,Yes
+ID100709,David Powell,Nonbinary,1980-09-25,45,UK,London,Engineer,57019.97,50-80K,647-459-8592x86142,glong@example.com,Diabetes,0.684,2025-10-24,No
+ID100710,Crystal Sullivan,Nonbinary,1978-07-23,47,Canada,Toronto,Nurse,42607.68,30-50K,763-312-9880x18220,julianarcher@example.org,Hypertension,0.5,2024-04-05,Yes
+ID100711,Susan Wright,Female,1954-02-19,71,UK,London,Teacher,65999.87,50-80K,+1-748-983-8659x9171,kgonzalez@example.net,Diabetes,0.557,2025-05-23,Yes
+ID100712,Theresa Chambers,Female,1936-06-04,89,UK,Liverpool,Manager,98135.37,80-120K,(286)288-6124x9911,susanwhitehead@example.com,Alzheimer's,0.911,2025-06-16,No
+ID100713,Steven Kim,Female,1976-10-13,49,Canada,Montreal,Scientist,35138.32,30-50K,9566823207,fbrady@example.com,Depression,0.284,2024-08-25,No
+ID100714,Elizabeth Johnson,Male,1942-05-01,83,UK,Edinburgh,Manager,103879.31,80-120K,555-123-1234,erivera@example.net,Alzheimer's,0.778,2024-10-20,Yes
+ID100715,Larry Butler,Male,1959-10-17,66,UK,Manchester,Nurse,56106.31,50-80K,921-760-3487,hayesjeffrey@example.net,Diabetes,0.551,2025-08-05,No
+ID100716,Francisco Jones,Male,1972-03-12,53,UK,Manchester,Scientist,31958.87,30-50K,001-548-718-9776x8167,montgomerystephen@example.org,Hypertension,0.561,2024-10-08,Yes
+ID100717,Samantha Edwards,Nonbinary,2000-05-13,25,Canada,Vancouver,Artist,46672.98,30-50K,957.266.5310x21295,blairbrandi@example.com,Diabetes,0.644,2024-05-19,Yes
+ID100718,Janet Moore,Female,1976-04-20,49,UK,Liverpool,Manager,82455.07,80-120K,(810)522-2474,olsonsteven@example.net,Cancer,0.852,2023-12-15,No
+ID100719,Ryan Massey,Female,1994-04-06,31,UK,Edinburgh,Teacher,77700.77,50-80K,220-392-9298x07417,matthew24@example.net,Cancer,0.722,2025-08-31,No
+ID100720,Jennifer Lang,Female,1993-05-09,32,Canada,Vancouver,Scientist,32414.24,30-50K,939-521-5019x19530,ngonzalez@example.net,Depression,0.286,2025-03-15,Yes
+ID100721,Raymond Smith,Male,1966-01-24,59,Canada,Toronto,Artist,93370.18,80-120K,(334)823-6058,joseph44@example.com,Cancer,0.804,2024-02-02,No
+ID100722,Luis Williams,Male,1996-12-25,29,UK,Liverpool,Engineer,55365.89,50-80K,(715)474-2946,amyharris@example.org,Diabetes,0.771,2025-04-08,Yes
+ID100723,Reginald Torres,Male,1985-03-09,40,Canada,Vancouver,Artist,100034.33,80-120K,869.769.9996x833,yerickson@example.net,Cancer,0.758,2024-01-19,Yes
+ID100724,Kayla Freeman,Female,1997-11-25,28,UK,Manchester,Teacher,47599.39,30-50K,(361)961-5678x10529,osweeney@example.net,Diabetes,0.752,2025-04-15,No
+ID100725,William Carter,Nonbinary,2003-11-22,22,Canada,Toronto,Doctor,52529.1,50-80K,+1-626-384-8035x89344,mmaxwell@example.net,Diabetes,0.789,2024-03-25,Yes
+ID100726,Jared Wolfe,Nonbinary,1958-12-15,67,UK,London,Doctor,22306.99,<30K,370-871-1648x6056,emaldonado@example.org,Hypertension,0.601,2024-12-17,No
+ID100727,Michael Campbell,Male,1993-08-08,32,Canada,Calgary,Teacher,42445.8,30-50K,4699889900,mwoods@example.com,Depression,0.281,2025-07-13,Yes
+ID100728,Ann Moran,Female,1961-12-21,64,Canada,Montreal,Artist,48711.54,30-50K,236.521.8029x80010,max57@example.com,Diabetes,0.563,2023-09-09,No
+ID100729,Kristine Esparza,Male,1975-09-02,50,Canada,Montreal,Teacher,41576.67,30-50K,254.285.1509x0461,carrrobert@example.com,Hypertension,0.607,2024-02-22,Yes
+ID100730,Deanna Garcia,Male,2004-04-26,21,India,Bangalore,Doctor,96225.85,80-120K,+1-760-806-2399,jenkinskeith@example.net,Alzheimer's,0.897,2024-01-17,No
+ID100731,Jessica Douglas,Female,1966-04-10,59,Canada,Calgary,Engineer,70233.89,50-80K,555-123-1234,gelliott@example.com,Diabetes,0.64,2023-12-25,No
+ID100732,Katie Schultz,Male,2004-07-06,21,Canada,Calgary,Scientist,35263.65,30-50K,970.459.8489,sandy33@example.com,Depression,0.291,2024-05-25,Yes
+ID100733,Alexander Cox,Female,1974-12-11,51,India,Bangalore,Artist,95674.02,80-120K,717.777.8799x5681,tracey88@example.com,Cancer,0.844,2024-11-10,No
+ID100734,Glenn Wall,Male,1996-11-22,29,UK,Edinburgh,Nurse,99815.06,80-120K,(788)844-0478,jonesamanda@example.com,Alzheimer's,0.847,2024-01-18,Yes
+ID100735,Jennifer Perez,Nonbinary,1975-04-18,50,India,Bangalore,Manager,53063.8,50-80K,+1-775-563-5191x1082,webstermaria@example.org,Asthma,0.26,2024-10-06,No
+ID100736,Claire Romero,Male,1997-02-07,28,Canada,Calgary,Engineer,27857.08,<30K,+1-852-781-0770x242,davidburch@example.net,Asthma,0.24,2024-09-27,Yes
+ID100737,Danielle Reed,Nonbinary,1989-10-02,36,UK,Edinburgh,Manager,41096.01,30-50K,274-684-0538x589,jeremiahdrake@example.net,Hypertension,0.528,2025-10-24,Yes
+ID100738,Brandon Rodriguez,Nonbinary,1943-03-06,82,UK,Liverpool,Engineer,33133.59,30-50K,2432281070,greeneamy@example.com,Depression,0.275,2024-10-26,No
+ID100739,Richard Smith,Nonbinary,1958-09-30,67,India,Mumbai,Engineer,39825.09,30-50K,956-843-1274x54199,caitlin63@example.com,Diabetes,0.666,2023-10-27,No
+ID100740,Marvin Pratt,Female,1965-11-18,60,USA,Houston,Engineer,59642.28,50-80K,+1-972-695-7694x22494,ngarza@example.net,Diabetes,0.73,2024-12-10,Yes
+ID100741,Hunter Franklin,Female,1972-07-29,53,UK,Liverpool,Manager,63877.59,50-80K,+1-525-614-2989,mcfarlandregina@example.org,Diabetes,0.683,2025-10-21,Yes
+ID100742,Calvin Richard,Female,1972-06-04,53,USA,Los Angeles,Doctor,33313.57,30-50K,(858)706-4963x50561,watsonlori@example.net,Asthma,0.439,2024-12-08,Yes
+ID100743,Jennifer Montgomery,Nonbinary,1983-07-22,42,USA,Houston,Artist,82254.43,80-120K,928.781.0777x55622,laura67@example.com,Cancer,0.791,2024-11-18,Yes
+ID100744,Jesse Scott,Male,1988-12-07,37,India,Bangalore,Manager,112866.29,80-120K,488.780.1373,paul75@example.net,Alzheimer's,0.845,2024-06-16,No
+ID100745,Anna Hamilton,Female,1975-06-04,50,USA,Los Angeles,Doctor,90734.41,80-120K,(688)502-5801x4055,fwhite@example.org,Cancer,0.959,2024-01-08,No
+ID100746,Christopher Liu,Nonbinary,1997-07-28,28,UK,Edinburgh,Nurse,101159.93,80-120K,895-306-7461x78719,iwest@example.com,Alzheimer's,0.883,2025-06-15,No
+ID100747,Walter Daniel,Nonbinary,1990-06-22,35,UK,Manchester,Teacher,56407.39,50-80K,+1-371-448-8846x48941,john59@example.org,Diabetes,0.702,2024-12-12,No
+ID100748,Elizabeth Smith,Female,1974-09-17,51,USA,New York,Engineer,37199.1,30-50K,555-123-1234,derekallen@example.org,Depression,0.172,2024-05-16,No
+ID100749,Tony Barnett,Female,1997-12-11,28,Canada,Calgary,Artist,50192.05,50-80K,335.295.1288x89406,kewing@example.net,Hypertension,0.543,2024-10-30,No
+ID100750,Joseph Flores,Female,1975-07-24,50,UK,Manchester,Doctor,33845.21,30-50K,716-220-7794,danny92@example.net,Hypertension,0.617,2025-04-25,No
+ID100751,Kyle Peterson,Nonbinary,1981-08-29,44,USA,Houston,Scientist,44181.73,30-50K,397.492.5274x05732,ronaldkennedy@example.com,Diabetes,0.759,2024-10-06,Yes
+ID100752,Larry Thomas,Nonbinary,1961-09-18,64,USA,New York,Artist,82772.77,80-120K,(997)956-8130x23062,vkeller@example.com,Alzheimer's,0.88,2025-05-14,Yes
+ID100753,Jenna Mullins,Female,1980-12-08,45,Canada,Calgary,Engineer,32620.5,30-50K,(843)614-2667x8315,oscar52@example.org,Depression,0.148,2025-08-31,Yes
+ID100754,Brandi Wilson,Female,1966-08-05,59,Canada,Montreal,Doctor,40869.13,30-50K,001-830-278-2915x9190,jaredcole@example.com,Diabetes,0.744,2024-03-17,No
+ID100755,Sierra Porter,Female,1949-03-12,76,UK,Edinburgh,Scientist,39764.72,30-50K,3014643928,lauramartinez@example.org,Depression,0.292,2023-11-12,Yes
+ID100756,Justin Higgins,Nonbinary,1956-01-19,69,India,Bangalore,Teacher,43534.81,30-50K,279.446.7281x549,nicholsonpeter@example.net,Diabetes,0.555,2024-02-07,Yes
+ID100757,Crystal Johnson,Female,1939-06-17,86,Canada,Calgary,Nurse,50236.12,50-80K,3293772791,samantha43@example.org,Diabetes,0.711,2024-05-31,Yes
+ID100758,Christopher Chang,Nonbinary,1946-10-31,79,USA,Chicago,Engineer,75763.82,50-80K,+1-776-634-6796x6270,justin28@example.com,Cancer,0.769,2024-06-17,Yes
+ID100759,Larry Davis,Female,1973-08-17,52,UK,Liverpool,Nurse,46518.09,30-50K,001-712-839-9000,michaelmedina@example.net,Asthma,0.347,2023-08-27,No
+ID100760,Nicholas Santos,Male,1978-02-27,47,Canada,Calgary,Nurse,53669.07,50-80K,745.339.6023x51296,wendy03@example.org,Hypertension,0.514,2024-06-07,Yes
+ID100761,Erik Mcmillan Jr.,Male,1967-06-11,58,India,Kolkata,Artist,32947.32,30-50K,(389)733-4055,raymondjones@example.com,Hypertension,0.543,2024-11-09,No
+ID100762,Krystal Smith,Male,1950-06-03,75,Canada,Vancouver,Doctor,46821.61,30-50K,876.756.2878x270,lcox@example.net,Asthma,0.411,2023-12-09,Yes
+ID100763,Caleb Hanson,Nonbinary,1975-04-26,50,UK,London,Scientist,51673.87,50-80K,346-761-9964x61438,vthomas@example.org,Diabetes,0.676,2025-09-10,No
+ID100764,Peggy Mcknight,Nonbinary,1939-08-09,86,Canada,Toronto,Artist,61894.11,50-80K,+1-319-368-5685x17660,brandyhaynes@example.net,Diabetes,0.664,2024-07-28,Yes
+ID100765,Elaine Mora,Female,1987-07-15,38,UK,Edinburgh,Engineer,83905.36,80-120K,555-123-1234,lopezcarla@example.org,Cancer,0.69,2024-06-15,No
+ID100766,Veronica Ponce,Female,1966-07-22,59,USA,Chicago,Nurse,37455.41,30-50K,(284)574-2345,tara34@example.com,Diabetes,0.61,2025-04-05,Yes
+ID100767,Sarah Arroyo,Female,1980-10-01,45,Canada,Toronto,Scientist,38586.58,30-50K,+1-971-814-8373,leachjoseph@example.org,Hypertension,0.651,2023-12-25,No
+ID100768,Brian Robinson,Male,1937-06-12,88,USA,Houston,Scientist,41467.65,30-50K,+1-945-398-6845x5521,patriciahowe@example.org,Asthma,0.437,2024-01-15,No
+ID100769,Joyce Ross,Male,1950-03-15,75,Canada,Toronto,Nurse,37437.72,30-50K,6642527328,vcarr@example.com,Hypertension,0.596,2024-08-27,Yes
+ID100770,Amber Thompson,Female,1979-01-14,46,Canada,Vancouver,Manager,20000.0,<30K,(778)761-5385x3328,keithdavid@example.org,Depression,0.273,2024-04-24,Yes
+ID100771,Holly Park,Nonbinary,1973-01-08,52,UK,Liverpool,Artist,88948.35,80-120K,001-447-323-1865x7258,reginapeterson@example.org,Cancer,0.831,2024-03-04,Yes
+ID100772,Mark Greene,Male,1988-12-29,37,India,Kolkata,Nurse,84910.71,80-120K,(444)515-9304,mclaughlinshannon@example.net,Cancer,0.767,2023-12-01,No
+ID100773,Brandy Martinez,Female,1993-07-13,32,Canada,Vancouver,Scientist,54755.07,50-80K,001-974-456-3572,lopezanthony@example.org,Diabetes,0.714,2024-08-20,No
+ID100774,Casey Holmes,Nonbinary,1962-12-25,63,USA,New York,Scientist,65091.16,50-80K,305.844.6704x224,mitchell45@example.org,Cancer,0.856,2025-03-20,Yes
+ID100775,Tracy Valdez,Male,1992-08-07,33,UK,Liverpool,Engineer,54732.96,50-80K,001-610-957-1319x913,laura86@example.net,Diabetes,0.646,2025-07-07,Yes
+ID100776,Kendra Nichols,Male,1980-08-19,45,UK,Manchester,Artist,56809.8,50-80K,+1-969-785-3608x0289,ellen98@example.com,Diabetes,0.63,2025-05-13,Yes
+ID100777,James Martinez,Male,1969-05-28,56,USA,Chicago,Manager,47629.51,30-50K,655-337-0892,bullockronald@example.com,Asthma,0.314,2025-10-29,Yes
+ID100778,Jessica Ross,Female,1968-09-07,57,Canada,Toronto,Teacher,38831.58,30-50K,844-803-4894,oromero@example.net,Depression,0.322,2024-06-16,Yes
+ID100779,Thomas Watson,Nonbinary,1959-09-04,66,USA,Los Angeles,Doctor,33676.68,30-50K,(670)754-2056,james22@example.net,Hypertension,0.647,2024-11-21,No
+ID100780,Joshua Oconnor,Female,2001-07-27,24,India,Bangalore,Manager,84573.53,80-120K,486-607-5739,rmorgan@example.org,Alzheimer's,0.987,2024-05-23,No
+ID100781,Angela Morgan,Female,1942-03-05,83,UK,Manchester,Nurse,45849.67,30-50K,702-660-2996,meganfrank@example.com,Hypertension,0.493,2025-07-01,No
+ID100782,Danny Berry,Female,1957-04-29,68,Canada,Calgary,Engineer,50927.06,50-80K,555-123-1234,proctorjoanne@example.net,Diabetes,0.782,2023-12-05,No
+ID100783,Darrell Glass,Nonbinary,1965-03-02,60,UK,Edinburgh,Teacher,49877.72,30-50K,405-224-9759x028,rperez@example.com,Asthma,0.329,2024-11-17,No
+ID100784,George Houston,Male,2005-06-02,20,USA,New York,Teacher,82805.67,80-120K,(356)210-8078x46244,dlarsen@example.org,Cancer,0.827,2024-04-01,No
+ID100785,Charles Gordon,Male,1940-06-09,85,Canada,Vancouver,Manager,29141.8,<30K,(975)963-6244x7669,nicholasclay@example.org,Hypertension,0.534,2024-12-18,Yes
+ID100786,Erica Sims,Male,1979-11-05,46,Canada,Montreal,Artist,57474.96,50-80K,613-483-6770x808,shelly08@example.com,Diabetes,0.687,2025-01-22,No
+ID100787,Christopher Bryan,Female,1944-11-24,81,UK,London,Doctor,44397.06,30-50K,001-860-646-1839x288,joseph64@example.com,Asthma,0.275,2023-12-09,Yes
+ID100788,Darrell Young,Nonbinary,1985-03-08,40,India,Mumbai,Engineer,52783.9,50-80K,401-230-5471x051,jcastillo@example.org,Hypertension,0.617,2025-07-31,No
+ID100789,Deborah Hernandez,Female,1968-05-05,57,Canada,Toronto,Artist,60222.23,50-80K,001-239-408-6198x23603,webbchristopher@example.com,Diabetes,0.74,2023-12-20,No
+ID100790,Jordan Howard,Male,2002-09-26,23,Canada,Montreal,Artist,85246.03,80-120K,3099874574,lrogers@example.net,Cancer,0.858,2023-12-03,Yes
+ID100791,Marissa Lopez,Male,1936-01-08,89,USA,New York,Nurse,48536.72,30-50K,716.661.6124,rwiggins@example.com,Hypertension,0.502,2025-08-28,No
+ID100792,Anthony Randall,Female,1959-06-13,66,UK,London,Artist,39718.21,30-50K,632-693-5274x44995,stevenwilliams@example.net,Hypertension,0.459,2023-12-20,No
+ID100793,Tim Hines,Male,1982-11-18,43,UK,Manchester,Scientist,87590.66,80-120K,(735)929-5145x80163,dbecker@example.net,Cancer,0.808,2024-09-07,Yes
+ID100794,Emily Fuller,Nonbinary,1940-11-18,85,UK,London,Artist,99347.9,80-120K,816-852-7300x80484,gsullivan@example.com,Alzheimer's,0.864,2024-02-09,No
+ID100795,Ricardo Lewis,Male,1965-05-02,60,Canada,Montreal,Nurse,44399.55,30-50K,+1-843-806-7066x7609,eric38@example.com,Depression,0.392,2024-12-05,Yes
+ID100796,Elizabeth Miller,Female,1983-09-06,42,USA,Chicago,Doctor,51623.29,50-80K,678.474.7001x82302,jeffery31@example.org,Diabetes,0.7,2025-08-28,Yes
+ID100797,Sara Henry,Male,1942-10-11,83,Canada,Montreal,Doctor,60015.39,50-80K,667.269.1387x8200,carsonphillip@example.org,Diabetes,0.702,2025-01-01,No
+ID100798,Alison Baker,Nonbinary,1964-11-15,61,India,Delhi,Scientist,20000.0,<30K,(986)820-0721,channa@example.org,Depression,0.373,2024-02-06,Yes
+ID100799,William Rosales,Male,1935-03-02,90,UK,Liverpool,Manager,50221.04,50-80K,555-123-1234,coxelizabeth@example.org,Asthma,0.293,2024-02-16,Yes
+ID100800,Robert Sparks,Male,1958-02-13,67,Canada,Montreal,Artist,73359.92,50-80K,512.671.4572,taylorerica@example.com,Cancer,0.777,2023-10-07,No
+ID100801,Jason Ferguson,Nonbinary,1989-06-14,36,USA,Chicago,Nurse,58317.76,50-80K,541-307-6273x2163,thomasgoodman@example.net,Diabetes,0.695,2025-08-23,Yes
+ID100802,Kara Strong,Nonbinary,1995-11-17,30,UK,Liverpool,Teacher,48810.91,30-50K,001-688-843-0575,jenniferramsey@example.org,Hypertension,0.431,2023-09-09,No
+ID100803,Tyler Smith,Male,2004-03-14,21,Canada,Calgary,Teacher,44207.19,30-50K,001-874-202-5661x7088,henrydelgado@example.org,Asthma,0.389,2024-10-09,Yes
+ID100804,Sandy Watson,Male,1995-10-25,30,India,Bangalore,Scientist,66463.58,50-80K,736-356-3069x10743,csanchez@example.org,Diabetes,0.648,2024-12-08,Yes
+ID100805,Nicole Rivas,Male,1987-12-06,38,UK,London,Artist,100367.76,80-120K,001-289-400-5112x8822,david16@example.org,Alzheimer's,0.869,2024-03-13,No
+ID100806,Matthew Ramirez,Nonbinary,2005-01-15,20,Canada,Montreal,Teacher,104353.91,80-120K,4899356185,hannah35@example.net,Alzheimer's,0.952,2024-11-21,No
+ID100807,Matthew Maynard,Nonbinary,1953-01-28,72,USA,Chicago,Artist,112435.55,80-120K,561-491-7903x4813,ericksondaniel@example.org,Alzheimer's,0.954,2025-08-07,Yes
+ID100808,Raymond Park,Male,1961-09-15,64,USA,Los Angeles,Scientist,38558.94,30-50K,(587)909-9001x7876,bsullivan@example.com,Depression,0.263,2024-11-08,No
+ID100809,Kylie Andrade,Nonbinary,1958-03-22,67,Canada,Montreal,Manager,39096.55,30-50K,+1-793-725-2194x3525,gabriel96@example.org,Depression,0.318,2024-09-30,No
+ID100810,Teresa Beltran,Male,1986-08-08,39,USA,Chicago,Teacher,20653.55,<30K,001-663-346-0081,smithamy@example.org,Depression,0.355,2025-04-21,Yes
+ID100811,Catherine Jenkins,Nonbinary,1969-03-14,56,UK,Edinburgh,Manager,96759.03,80-120K,001-793-326-1935,zjones@example.org,Cancer,0.729,2023-09-23,No
+ID100812,Shane Howell,Female,1946-02-24,79,USA,Houston,Manager,41291.3,30-50K,9219686883,ufaulkner@example.org,Hypertension,0.559,2025-10-31,Yes
+ID100813,Laura Mcmahon,Female,1992-05-04,33,USA,Chicago,Nurse,52898.18,50-80K,6614102736,mary34@example.com,Asthma,0.347,2024-08-22,No
+ID100814,Kayla James,Male,1969-12-13,56,Canada,Montreal,Manager,29007.81,<30K,(790)826-8397,michelle79@example.com,Depression,0.319,2024-12-29,Yes
+ID100815,Andrew Barrett,Female,1964-10-01,61,USA,Los Angeles,Manager,42604.45,30-50K,879.285.6970,emilyhickman@example.com,Asthma,0.498,2023-12-24,No
+ID100816,Carlos Smith,Female,1976-08-01,49,UK,London,Teacher,87800.04,80-120K,555-123-1234,millsjoyce@example.org,Cancer,0.867,2024-05-29,No
+ID100817,Travis Smith,Female,1949-02-08,76,UK,Manchester,Scientist,52202.69,50-80K,934-867-9854x07823,zkelly@example.org,Hypertension,0.565,2024-06-08,No
+ID100818,Denise Browning,Nonbinary,1955-01-25,70,Canada,Montreal,Nurse,39222.25,30-50K,+1-638-693-5607x4649,estone@example.net,Depression,0.274,2025-08-24,Yes
+ID100819,Sabrina Klein,Male,1975-05-05,50,UK,London,Artist,84189.0,80-120K,001-767-718-9649x61570,morrisonelizabeth@example.com,Cancer,0.89,2025-06-03,Yes
+ID100820,Matthew York,Female,1942-02-07,83,India,Bangalore,Engineer,81574.29,80-120K,599.269.8910,debracunningham@example.net,Cancer,0.732,2024-05-17,No
+ID100821,Donald Stuart,Male,1984-06-11,41,Canada,Vancouver,Scientist,82654.19,80-120K,809-928-6768,hernandezerin@example.net,Cancer,0.817,2023-12-18,Yes
+ID100822,Kathleen Leonard,Nonbinary,1941-08-26,84,India,Bangalore,Doctor,42096.08,30-50K,001-507-580-8195,melissa47@example.net,Diabetes,0.69,2025-09-06,Yes
+ID100823,Gabrielle Williams,Nonbinary,1979-12-18,46,Canada,Montreal,Teacher,37631.26,30-50K,348.547.5744x7690,ruth46@example.com,Asthma,0.257,2024-09-25,Yes
+ID100824,Dr. Janice Parker,Female,1993-09-05,32,USA,Chicago,Teacher,86501.79,80-120K,(678)341-5186,lisa59@example.com,Cancer,0.822,2024-11-25,No
+ID100825,Richard Morrison,Nonbinary,1996-11-22,29,India,Mumbai,Doctor,90819.3,80-120K,737.656.5637x92512,jgibson@example.com,Alzheimer's,0.89,2024-01-18,No
+ID100826,Jennifer Walters,Female,1985-12-29,40,Canada,Vancouver,Engineer,87578.76,80-120K,6362367874,wrightjasmine@example.org,Cancer,0.759,2024-02-16,No
+ID100827,Dr. Thomas Green,Male,1983-07-07,42,UK,Edinburgh,Nurse,55365.76,50-80K,329-411-9628,christopherhuber@example.net,Diabetes,0.679,2025-07-06,Yes
+ID100828,Amy Buckley,Male,1950-11-06,75,UK,Manchester,Scientist,72259.0,50-80K,+1-270-638-1708x2535,baldwinstephanie@example.net,Cancer,0.833,2024-01-06,Yes
+ID100829,Chad Clark,Female,1959-04-17,66,UK,Liverpool,Scientist,74765.26,50-80K,001-322-603-2712x058,brookejones@example.org,Cancer,0.843,2024-06-10,Yes
+ID100830,Bonnie Mann,Nonbinary,1980-02-21,45,UK,Edinburgh,Teacher,67155.69,50-80K,667-723-7002x024,eric59@example.net,Cancer,0.811,2023-09-21,Yes
+ID100831,Michael Torres,Female,1938-11-04,87,UK,Liverpool,Nurse,44303.44,30-50K,(625)247-2356,ocook@example.net,Diabetes,0.686,2025-09-09,Yes
+ID100832,Mark Chambers DDS,Female,1986-05-29,39,Canada,Calgary,Nurse,36230.35,30-50K,+1-663-420-6850,david93@example.org,Hypertension,0.63,2024-10-25,No
+ID100833,Rita Martin,Male,1989-04-26,36,Canada,Toronto,Manager,44240.5,30-50K,555-123-1234,patrick85@example.net,Depression,0.367,2025-06-01,Yes
+ID100834,Charles Young,Female,1937-10-12,88,UK,Liverpool,Doctor,106615.18,80-120K,(932)815-3465,umoon@example.com,Alzheimer's,0.785,2024-01-31,No
+ID100835,Mr. Joe Sandoval,Female,1986-12-27,39,India,Mumbai,Artist,52862.97,50-80K,(231)749-6627,theresagreen@example.com,Diabetes,0.583,2025-06-14,No
+ID100836,Cassandra Avila,Nonbinary,1994-09-01,31,UK,Manchester,Manager,57604.29,50-80K,855-345-5719x36132,angela87@example.net,Asthma,0.256,2024-05-01,No
+ID100837,Daniel Turner,Male,1971-01-22,54,Canada,Vancouver,Artist,52748.4,50-80K,001-498-360-6669x33527,mccarthyvictor@example.com,Asthma,0.471,2023-09-09,Yes
+ID100838,Vanessa Patterson,Nonbinary,1981-02-27,44,UK,Liverpool,Nurse,40254.28,30-50K,2655759691,nmeyer@example.com,Hypertension,0.538,2024-03-06,Yes
+ID100839,Lorraine Lynn,Nonbinary,1993-08-09,32,UK,Edinburgh,Teacher,86918.81,80-120K,243.970.8830x6090,scott86@example.org,Alzheimer's,0.881,2024-10-22,Yes
+ID100840,Ivan Ellis,Male,1947-10-14,78,USA,Houston,Teacher,63712.96,50-80K,291-276-5780x09688,natasha49@example.net,Diabetes,0.613,2025-03-15,No
+ID100841,Elizabeth Sanchez,Male,1978-01-09,47,India,Delhi,Scientist,42897.4,30-50K,(967)533-9990x6497,michelle31@example.org,Asthma,0.33,2025-10-14,Yes
+ID100842,Michael Baker,Nonbinary,1986-11-09,39,UK,Manchester,Artist,58002.34,50-80K,001-343-412-5622x465,kimberlybrown@example.com,Diabetes,0.567,2024-07-19,No
+ID100843,Rhonda Rivas,Male,2001-06-12,24,USA,New York,Engineer,20000.0,<30K,526.758.8629,chayden@example.org,Hypertension,0.585,2024-09-12,Yes
+ID100844,Joseph Lawson,Male,1993-06-30,32,India,Delhi,Doctor,39823.72,30-50K,793-939-5344,edwinrodriguez@example.net,Hypertension,0.567,2024-04-20,No
+ID100845,Bethany Hill,Male,1971-02-08,54,USA,New York,Doctor,80269.29,80-120K,001-367-804-5272x2794,hmclaughlin@example.org,Cancer,0.805,2024-10-25,No
+ID100846,Jesus House,Nonbinary,1966-05-20,59,UK,Liverpool,Artist,25590.46,<30K,642.587.9670x74685,lgonzales@example.com,Depression,0.273,2025-02-25,No
+ID100847,Joseph Murphy,Nonbinary,1941-12-09,84,UK,London,Scientist,55391.23,50-80K,(858)817-0210,bgonzalez@example.net,Diabetes,0.6,2024-08-30,No
+ID100848,Melissa Logan,Male,1999-04-22,26,Canada,Montreal,Doctor,77991.83,50-80K,(640)284-8262x8898,anthonyruiz@example.com,Cancer,0.723,2023-09-27,No
+ID100849,Natasha Thomas,Nonbinary,1990-07-30,35,USA,Chicago,Scientist,55318.86,50-80K,570-986-2413x7819,ruth04@example.org,Diabetes,0.721,2024-07-08,Yes
+ID100850,Beth Ramirez,Female,1957-04-24,68,USA,New York,Nurse,100757.49,80-120K,555-123-1234,lambdavid@example.net,Cancer,0.775,2023-09-22,Yes
+ID100851,Stephen Harris,Female,1993-01-29,32,USA,Los Angeles,Scientist,76792.79,50-80K,+1-866-685-6819x377,phunt@example.com,Cancer,0.803,2024-01-18,No
+ID100852,Anthony Mueller,Female,1935-01-22,90,India,Kolkata,Doctor,87923.24,80-120K,001-432-862-5029x05864,llopez@example.net,Cancer,0.79,2024-12-10,No
+ID100853,Megan Turner,Nonbinary,1943-03-01,82,India,Kolkata,Doctor,56408.75,50-80K,001-592-929-4663x919,john94@example.net,Diabetes,0.646,2024-05-27,Yes
+ID100854,Andrew Reynolds,Nonbinary,1994-06-21,31,USA,Houston,Nurse,108058.42,80-120K,001-737-482-7186x049,kharrington@example.net,Alzheimer's,0.852,2025-02-19,Yes
+ID100855,Ian Thompson,Nonbinary,1969-09-17,56,UK,Manchester,Nurse,34969.72,30-50K,(281)689-4469x9886,jasonmathews@example.com,Hypertension,0.442,2025-07-24,No
+ID100856,Brooke Reed,Nonbinary,1964-09-09,61,USA,New York,Manager,89969.85,80-120K,001-555-233-9345,jennifer60@example.com,Cancer,0.747,2023-12-14,No
+ID100857,Christina Miranda,Male,1943-12-09,82,USA,Los Angeles,Scientist,64915.15,50-80K,9606080876,susan84@example.org,Diabetes,0.73,2025-08-20,No
+ID100858,Tina Baker,Nonbinary,2001-07-08,24,USA,Chicago,Teacher,59908.92,50-80K,001-721-595-2475,joanna92@example.org,Asthma,0.339,2023-09-25,No
+ID100859,Danielle Neal,Nonbinary,1973-11-14,52,UK,Edinburgh,Scientist,37187.64,30-50K,839-466-8073x06827,devonpoole@example.org,Hypertension,0.544,2025-03-31,No
+ID100860,Ana Rivers,Nonbinary,1970-10-14,55,UK,Liverpool,Engineer,53099.92,50-80K,4777464292,johnodom@example.net,Asthma,0.364,2024-09-09,No
+ID100861,Christopher Hansen,Nonbinary,1946-10-15,79,USA,Houston,Manager,90922.91,80-120K,001-444-627-4125,barkerlori@example.org,Cancer,0.76,2024-01-20,No
+ID100862,Jennifer Blake,Female,1964-07-10,61,USA,New York,Doctor,33655.7,30-50K,613.349.4315,gfisher@example.com,Hypertension,0.516,2024-06-28,No
+ID100863,Latasha Bailey,Nonbinary,1962-10-27,63,India,Kolkata,Artist,82867.7,80-120K,001-378-826-1158,coreythomas@example.org,Alzheimer's,0.901,2023-12-26,Yes
+ID100864,Mark Diaz,Female,2001-02-28,24,USA,Houston,Engineer,70555.15,50-80K,(633)847-7617x201,meredithcooper@example.org,Cancer,0.71,2024-04-16,Yes
+ID100865,Steven Perry,Male,1994-03-10,31,Canada,Toronto,Nurse,66450.28,50-80K,+1-535-462-5613,brendarobinson@example.net,Diabetes,0.539,2025-02-06,Yes
+ID100866,Cynthia Marshall,Nonbinary,1986-02-02,39,India,Kolkata,Artist,59886.32,50-80K,(567)636-0188x010,vrodriguez@example.org,Diabetes,0.698,2023-12-29,No
+ID100867,Jeffrey Fisher,Female,1963-12-07,62,Canada,Vancouver,Teacher,103276.1,80-120K,555-123-1234,ramirezkari@example.org,Alzheimer's,0.899,2024-05-02,No
+ID100868,Matthew Martin,Male,1947-06-02,78,UK,Edinburgh,Manager,24628.15,<30K,001-739-702-1325,rtaylor@example.org,Depression,0.331,2025-08-16,No
+ID100869,Lindsey Vincent,Male,1952-05-30,73,USA,Houston,Teacher,79761.61,50-80K,860-213-4166,frankgonzalez@example.net,Alzheimer's,0.913,2023-08-26,No
+ID100870,Daniel Nielsen,Male,1990-10-14,35,USA,Houston,Teacher,40703.57,30-50K,6408912211,pratttracy@example.net,Hypertension,0.625,2024-07-17,Yes
+ID100871,Aaron Young,Nonbinary,1989-10-15,36,India,Mumbai,Artist,39646.3,30-50K,001-429-470-0180,daniel52@example.org,Asthma,0.329,2024-06-27,No
+ID100872,Tracy Williams,Male,1991-08-28,34,USA,Chicago,Scientist,80486.16,80-120K,9602472566,brandyhernandez@example.com,Cancer,0.65,2023-12-11,No
+ID100873,David Newman,Female,1941-08-10,84,India,Bangalore,Engineer,57706.29,50-80K,436.288.3526,bradleyholt@example.net,Diabetes,0.685,2024-02-22,Yes
+ID100874,Jay Bowman,Female,1999-09-08,26,Canada,Montreal,Doctor,44057.73,30-50K,539.960.2789,browningdaniel@example.net,Hypertension,0.461,2024-11-20,No
+ID100875,Candace Lawson,Female,1960-03-31,65,UK,Edinburgh,Nurse,92498.38,80-120K,+1-546-341-7358x56436,samantha99@example.com,Cancer,0.883,2025-01-10,No
+ID100876,Paula Martinez,Nonbinary,1980-04-29,45,Canada,Montreal,Manager,52510.48,50-80K,(298)661-2358,jamescole@example.org,Asthma,0.429,2023-11-10,Yes
+ID100877,Martha Reynolds,Female,1964-05-08,61,India,Mumbai,Teacher,74121.32,50-80K,001-845-365-0463,brendasmith@example.org,Cancer,0.858,2024-06-20,Yes
+ID100878,Melissa Romero,Male,1973-02-22,52,UK,Manchester,Manager,67489.97,50-80K,415.327.0725x587,ukelly@example.net,Cancer,0.758,2024-10-02,Yes
+ID100879,Richard Gross,Nonbinary,1965-12-03,60,Canada,Montreal,Scientist,42586.33,30-50K,4768586711,lloydcatherine@example.org,Hypertension,0.601,2024-01-05,Yes
+ID100880,Wendy Gutierrez,Male,1960-04-09,65,USA,Houston,Nurse,41097.83,30-50K,542.844.8072x882,nlopez@example.org,Asthma,0.367,2024-11-09,No
+ID100881,Tammy Smith,Male,1941-10-15,84,Canada,Toronto,Artist,46715.43,30-50K,963-373-0186x270,samuel14@example.com,Diabetes,0.675,2025-07-22,Yes
+ID100882,Daniel Montes,Nonbinary,1994-10-02,31,USA,Los Angeles,Nurse,25341.71,<30K,(512)235-2881,adam86@example.org,Hypertension,0.522,2025-06-14,Yes
+ID100883,Melissa Webb,Nonbinary,1994-11-17,31,India,Bangalore,Teacher,30279.46,30-50K,(659)498-7062x7656,tinamurray@example.com,Hypertension,0.539,2024-05-21,Yes
+ID100884,Raymond Peterson,Nonbinary,1953-02-21,72,Canada,Toronto,Manager,50819.99,50-80K,555-123-1234,tranjonathan@example.com,Hypertension,0.571,2025-04-23,No
+ID100885,Rachel Lloyd,Female,1979-12-18,46,Canada,Toronto,Teacher,93037.45,80-120K,431.905.6165,esparzamichael@example.com,Alzheimer's,0.812,2025-03-18,No
+ID100886,Alexander Bailey,Male,1940-08-23,85,UK,Edinburgh,Teacher,94724.33,80-120K,763.999.9172x37471,nortonmatthew@example.com,Alzheimer's,0.912,2023-10-10,Yes
+ID100887,Eric Anderson,Female,1971-09-24,54,USA,Chicago,Teacher,46728.12,30-50K,+1-895-520-5741x726,nrios@example.com,Asthma,0.369,2025-02-18,Yes
+ID100888,Ronnie Pugh,Female,1980-03-30,45,USA,Chicago,Artist,105269.4,80-120K,(629)560-7161,youngmichael@example.org,Alzheimer's,0.83,2024-05-22,No
+ID100889,Jennifer Castro,Nonbinary,1946-08-25,79,Canada,Calgary,Engineer,56473.26,50-80K,001-514-306-3258x0735,hmason@example.net,Depression,0.221,2023-09-28,Yes
+ID100890,Edwin Cox,Nonbinary,1935-08-23,90,USA,New York,Artist,85130.54,80-120K,(782)908-6523x748,jay75@example.com,Cancer,0.823,2024-05-04,Yes
+ID100891,Terri Larson,Nonbinary,1994-06-01,31,Canada,Toronto,Teacher,57955.59,50-80K,453.727.2217,imartinez@example.org,Diabetes,0.628,2023-09-10,No
+ID100892,Mary Manning,Male,1951-09-21,74,India,Bangalore,Doctor,58529.17,50-80K,663-479-5991,angelaspencer@example.net,Diabetes,0.694,2024-09-03,Yes
+ID100893,Bonnie Murillo,Nonbinary,1956-06-28,69,Canada,Toronto,Nurse,74775.76,50-80K,(399)218-3617,hford@example.org,Cancer,0.665,2023-09-12,Yes
+ID100894,Ryan Franklin,Nonbinary,1964-07-03,61,India,Delhi,Artist,38398.92,30-50K,967-941-9677,gdavis@example.org,Hypertension,0.551,2024-05-06,No
+ID100895,Grace Ramirez,Female,1946-03-28,79,UK,Liverpool,Artist,43913.9,30-50K,001-531-791-7529x9243,stephanie35@example.org,Diabetes,0.656,2024-11-23,No
+ID100896,Amanda Shaw,Female,1956-03-10,69,Canada,Montreal,Doctor,44317.91,30-50K,001-803-205-8378x2088,morgankyle@example.org,Hypertension,0.442,2024-07-09,No
+ID100897,Shelly Johnson,Nonbinary,1942-06-30,83,India,Delhi,Doctor,67510.07,50-80K,5587008359,brianevans@example.net,Cancer,0.853,2024-08-08,Yes
+ID100898,Wesley Washington,Female,1980-11-20,45,USA,Houston,Nurse,38538.71,30-50K,487.207.1627x317,april53@example.net,Depression,0.358,2024-04-05,Yes
+ID100899,Troy Hayes,Male,1987-07-04,38,Canada,Vancouver,Manager,88350.18,80-120K,541.572.0345,tweaver@example.net,Cancer,0.797,2025-01-08,No
+ID100900,Kristin Wood,Nonbinary,1994-12-29,31,India,Bangalore,Manager,45209.18,30-50K,987.340.3770,wrightvictor@example.net,Asthma,0.299,2025-08-20,No
+ID100901,David Bennett,Nonbinary,1991-04-14,34,USA,Houston,Nurse,80624.6,80-120K,555-123-1234,olsonwilliam@example.net,Alzheimer's,0.876,2025-06-28,No
+ID100902,Dr. Tammy Turner,Nonbinary,1976-06-25,49,Canada,Toronto,Teacher,44295.74,30-50K,331-506-5776,whitney85@example.com,Asthma,0.269,2024-09-25,No
+ID100903,Tracy Hunter,Nonbinary,1975-08-23,50,UK,Manchester,Nurse,61329.8,50-80K,001-670-982-9143x1581,sean39@example.net,Diabetes,0.672,2023-09-07,Yes
+ID100904,Kelly Brown,Male,1935-09-04,90,India,Mumbai,Scientist,54348.23,50-80K,(647)558-0430x37078,christysmith@example.com,Diabetes,0.631,2025-05-06,No
+ID100905,Jamie Watkins,Male,2002-01-29,23,India,Bangalore,Artist,92026.63,80-120K,953-686-3158x00607,patriciamccarthy@example.com,Alzheimer's,0.793,2025-07-13,Yes
+ID100906,James Johnson,Female,1982-12-19,43,USA,New York,Scientist,116426.34,80-120K,(727)231-8154,rosewendy@example.org,Alzheimer's,0.756,2025-05-29,No
+ID100907,James Morgan,Male,1990-01-02,35,USA,Chicago,Doctor,50650.75,50-80K,453.239.8840x023,moralesjerry@example.com,Diabetes,0.529,2025-06-12,Yes
+ID100908,Matthew Cooper,Male,1935-05-22,90,India,Mumbai,Scientist,96138.73,80-120K,+1-534-318-6266x9349,hopkinsrobert@example.com,Cancer,0.838,2024-11-29,Yes
+ID100909,Joe Ruiz,Female,1945-11-18,80,USA,Chicago,Engineer,95029.15,80-120K,749-289-9870x68523,kpineda@example.net,Alzheimer's,0.816,2025-02-10,No
+ID100910,Zachary Gilbert,Nonbinary,1962-01-13,63,UK,Liverpool,Manager,42165.14,30-50K,+1-917-654-3599x069,andrea36@example.net,Hypertension,0.536,2023-09-09,No
+ID100911,Kathleen Glover,Nonbinary,1968-07-29,57,India,Kolkata,Nurse,51503.39,50-80K,001-429-269-5288x2690,blakejoshua@example.net,Diabetes,0.595,2025-03-10,Yes
+ID100912,Patricia Reed,Male,1973-06-22,52,India,Kolkata,Manager,69865.62,50-80K,001-403-837-8424,thomas19@example.net,Cancer,0.81,2025-09-10,Yes
+ID100913,Michelle Smith,Nonbinary,1969-02-01,56,Canada,Montreal,Doctor,65039.33,50-80K,251-935-1313x057,justin38@example.com,Diabetes,0.757,2023-12-25,No
+ID100914,James Carpenter,Female,1956-09-25,69,USA,Chicago,Scientist,81629.8,80-120K,234-819-5449x901,tina60@example.net,Cancer,0.698,2025-06-28,Yes
+ID100915,Michael Cox,Female,1981-11-07,44,India,Kolkata,Artist,70309.65,50-80K,558.882.5940x69584,wagneranne@example.net,Diabetes,0.617,2024-01-17,Yes
+ID100916,April Reyes,Nonbinary,1942-02-04,83,Canada,Montreal,Artist,29189.76,<30K,+1-425-449-0984x5215,johnsontimothy@example.org,Depression,0.338,2025-09-26,No
+ID100917,Travis Thomas,Male,1972-04-03,53,Canada,Calgary,Doctor,30108.16,30-50K,(260)809-8096x2223,keith29@example.org,Depression,0.304,2025-03-12,Yes
+ID100918,Andrew Andrews,Female,1971-03-05,54,UK,Edinburgh,Doctor,108724.91,80-120K,555-123-1234,pollardamanda@example.net,Alzheimer's,0.9,2023-11-19,No
+ID100919,Amanda Marshall,Male,1973-04-07,52,UK,Manchester,Nurse,25694.26,<30K,+1-540-625-2855x3342,guerreronatalie@example.net,Hypertension,0.601,2024-11-30,Yes
+ID100920,Charles Rios,Nonbinary,1937-01-29,88,India,Bangalore,Engineer,20000.0,<30K,5414369174,huffmanelizabeth@example.net,Depression,0.347,2024-11-05,No
+ID100921,Sheila Wolf,Male,1972-07-10,53,USA,Los Angeles,Artist,41218.98,30-50K,257-330-2615,eric97@example.net,Diabetes,0.67,2024-02-01,Yes
+ID100922,Rebecca Ortega,Nonbinary,1956-11-17,69,USA,Houston,Doctor,110858.13,80-120K,447-226-3590,brandon57@example.org,Alzheimer's,0.854,2024-07-27,No
+ID100923,Jason Johnston,Female,1995-07-30,30,UK,London,Doctor,91025.21,80-120K,574-596-0008x186,pstewart@example.net,Cancer,0.768,2025-10-18,No
+ID100924,Deanna Wilson,Female,1936-04-07,89,UK,Liverpool,Teacher,46574.25,30-50K,6812474974,nharper@example.org,Diabetes,0.67,2023-10-12,Yes
+ID100925,Carla Williams,Male,1992-11-08,33,USA,Houston,Scientist,33289.01,30-50K,7292227733,gonzaleztasha@example.com,Depression,0.173,2024-10-30,Yes
+ID100926,Christina Saunders MD,Nonbinary,1969-09-22,56,UK,London,Engineer,54027.63,50-80K,514.570.0266,christopher53@example.net,Diabetes,0.678,2025-04-21,Yes
+ID100927,Kelly Baker,Female,1999-02-18,26,India,Mumbai,Manager,79078.8,50-80K,9508500504,davidfleming@example.com,Cancer,0.803,2025-07-20,No
+ID100928,Tony Jimenez,Female,1946-03-15,79,UK,Manchester,Scientist,41005.29,30-50K,5769262513,ingramjanice@example.com,Diabetes,0.668,2024-02-10,Yes
+ID100929,Bobby Williams,Male,1964-02-09,61,USA,Chicago,Scientist,53502.83,50-80K,298-551-8828,cwatson@example.com,Asthma,0.398,2024-09-09,Yes
+ID100930,Sarah Decker,Female,2001-02-26,24,UK,Edinburgh,Doctor,37009.79,30-50K,993.924.9579x29179,randall75@example.net,Hypertension,0.548,2024-05-30,No
+ID100931,Stephanie Bowen,Male,1975-09-01,50,Canada,Calgary,Scientist,77998.37,50-80K,9273170254,rodrigueznatasha@example.org,Cancer,0.744,2025-08-24,Yes
+ID100932,Dr. Dale Mendoza,Nonbinary,1992-01-06,33,UK,Manchester,Manager,33550.8,30-50K,639.593.3976x9687,tina49@example.com,Depression,0.266,2023-09-13,Yes
+ID100933,Carrie Gibson,Male,1968-12-29,57,India,Bangalore,Doctor,64301.51,50-80K,+1-696-835-2651x89216,iestrada@example.com,Diabetes,0.666,2025-10-20,No
+ID100934,Candace Warner,Female,1971-10-01,54,India,Bangalore,Manager,77726.46,50-80K,+1-944-855-5821x99137,anthonywest@example.com,Cancer,0.71,2025-05-13,No
+ID100935,Pamela Wheeler,Nonbinary,1941-02-03,84,USA,Houston,Engineer,42732.81,30-50K,555-123-1234,ryantorres@example.net,Diabetes,0.671,2025-01-17,No
+ID100936,John Stark,Nonbinary,1984-02-02,41,USA,New York,Doctor,43487.77,30-50K,475-651-9591x560,corey03@example.net,Hypertension,0.583,2025-02-20,No
+ID100937,Mrs. Pamela Maldonado,Nonbinary,1956-04-10,69,USA,Los Angeles,Artist,48881.24,30-50K,528-596-3818,hollyhuang@example.org,Hypertension,0.455,2024-10-21,Yes
+ID100938,Denise Smith,Nonbinary,1947-09-16,78,UK,Liverpool,Engineer,90465.91,80-120K,001-875-244-1346x56014,gabrielrichardson@example.org,Cancer,0.866,2024-06-28,No
+ID100939,Christopher Nash,Nonbinary,1967-08-22,58,USA,Chicago,Engineer,83481.87,80-120K,+1-990-940-5785,thomas60@example.com,Cancer,0.608,2024-12-20,No
+ID100940,Robert Miranda,Nonbinary,1944-07-09,81,Canada,Calgary,Doctor,51291.3,50-80K,001-215-725-7335x701,hsanders@example.net,Asthma,0.423,2024-09-25,Yes
+ID100941,Kathy Richardson,Female,1960-09-20,65,India,Mumbai,Teacher,42906.7,30-50K,001-662-382-9408,michael24@example.com,Asthma,0.291,2023-12-08,No
+ID100942,David Thomas,Male,1969-02-02,56,USA,Chicago,Nurse,63099.71,50-80K,+1-639-826-3576x1132,michaeljenkins@example.com,Hypertension,0.578,2025-10-05,Yes
+ID100943,Andrea Cook,Male,1936-04-14,89,Canada,Toronto,Nurse,26597.24,<30K,234.648.6608,nguyenjulia@example.net,Depression,0.318,2023-08-26,Yes
+ID100944,Joseph Stephens,Nonbinary,1948-04-27,77,USA,New York,Nurse,92808.54,80-120K,481-893-6191x63563,bookerfaith@example.net,Cancer,0.739,2025-10-17,Yes
+ID100945,Amber Perez,Nonbinary,2001-01-04,24,UK,Manchester,Artist,78708.12,50-80K,+1-718-983-9204x84936,shirleycrosby@example.org,Cancer,0.856,2024-07-01,Yes
+ID100946,Anthony Miller,Female,1993-01-03,32,India,Delhi,Artist,88854.1,80-120K,772-843-4898x590,dmullen@example.net,Cancer,0.857,2024-04-19,No
+ID100947,Cassidy Gallegos,Male,1943-04-09,82,UK,Manchester,Doctor,42474.11,30-50K,257-825-5002x11247,melissa56@example.org,Hypertension,0.656,2024-04-13,No
+ID100948,Shannon Nelson,Female,1993-01-25,32,India,Mumbai,Nurse,73806.26,50-80K,938-519-7315x8345,allenstephenson@example.net,Cancer,0.85,2025-05-19,No
+ID100949,Aaron Joseph,Female,1963-06-14,62,Canada,Calgary,Artist,47988.13,30-50K,001-466-852-6428x608,amanda92@example.org,Diabetes,0.649,2024-06-18,Yes
+ID100950,Austin Fitzpatrick,Nonbinary,2002-07-31,23,USA,Los Angeles,Nurse,34421.89,30-50K,(297)419-4392,brent58@example.net,Depression,0.292,2023-10-14,Yes
+ID100951,Jerry Horton,Nonbinary,1973-12-14,52,India,Kolkata,Nurse,66903.92,50-80K,+1-733-619-1909x23174,ryanglover@example.com,Diabetes,0.662,2024-10-08,No
+ID100952,David Dominguez,Male,1944-08-27,81,Canada,Vancouver,Doctor,56037.41,50-80K,555-123-1234,ehall@example.com,Diabetes,0.635,2023-10-14,Yes
+ID100953,Kelly Olson,Female,1973-10-26,52,India,Delhi,Artist,80744.27,80-120K,842.931.1285,danielmedina@example.net,Cancer,0.78,2024-12-22,Yes
+ID100954,Tricia Oneal,Nonbinary,1944-03-19,81,UK,Liverpool,Nurse,26844.58,<30K,+1-295-363-3966x0680,blackburnmichelle@example.org,Depression,0.39,2023-09-30,Yes
+ID100955,Laura Phelps,Female,1947-08-02,78,Canada,Toronto,Engineer,20000.0,<30K,628.397.7323x010,lozanokristin@example.net,Depression,0.18,2023-11-29,No
+ID100956,Sara Davis,Nonbinary,1991-02-11,34,UK,London,Nurse,62681.46,50-80K,(828)981-2475,lisaturner@example.com,Asthma,0.423,2024-11-07,No
+ID100957,Jasmine Johnston,Nonbinary,1948-05-20,77,India,Mumbai,Doctor,73212.25,50-80K,001-797-578-7716x973,lleonard@example.org,Diabetes,0.684,2025-02-15,Yes
+ID100958,Christina Garza,Male,1976-03-15,49,India,Mumbai,Engineer,78896.03,50-80K,(968)600-7686,cannonkenneth@example.net,Cancer,0.804,2024-01-22,No
+ID100959,Juan Ferguson,Nonbinary,2000-03-28,25,USA,Houston,Manager,87807.4,80-120K,587.845.5078x0797,susan71@example.org,Cancer,0.786,2025-06-30,No
+ID100960,Karen Nelson,Female,1984-07-05,41,UK,Edinburgh,Nurse,99464.54,80-120K,(783)260-4968,chase39@example.org,Cancer,0.91,2025-07-21,No
+ID100961,Anna Mckinney,Female,1979-08-05,46,UK,Manchester,Manager,37493.09,30-50K,001-930-306-0017x8173,valerie75@example.net,Hypertension,0.518,2025-08-24,Yes
+ID100962,Jason Proctor,Female,1983-03-17,42,India,Kolkata,Manager,54431.07,50-80K,313.391.6183x6455,russelljennifer@example.org,Diabetes,0.644,2025-08-01,Yes
+ID100963,Jennifer Clements,Female,1952-11-01,73,USA,Chicago,Doctor,77828.8,50-80K,001-367-991-0789x665,fjohnson@example.org,Cancer,0.805,2024-12-20,No
+ID100964,Corey Miller,Nonbinary,1946-02-22,79,India,Delhi,Manager,108785.38,80-120K,001-947-453-1011x3885,amandalee@example.net,Alzheimer's,0.884,2025-08-13,Yes
+ID100965,Julie George,Female,1991-02-22,34,USA,Los Angeles,Nurse,47319.2,30-50K,418-277-4715,nicole02@example.org,Asthma,0.293,2024-06-09,No
+ID100966,Jim Anderson,Male,1991-03-12,34,USA,Chicago,Artist,38602.31,30-50K,815.541.4744x96271,isabellasharp@example.net,Diabetes,0.604,2025-03-25,No
+ID100967,Tina Manning,Female,1988-12-17,37,USA,Houston,Engineer,78470.81,50-80K,464-983-5475x3115,griffinchristopher@example.net,Diabetes,0.629,2024-07-07,Yes
+ID100968,Matthew Decker,Female,1952-03-26,73,UK,Liverpool,Manager,46452.4,30-50K,710-388-9616,kimberly76@example.net,Asthma,0.324,2023-12-13,Yes
+ID100969,Samantha Koch,Male,1948-09-09,77,USA,New York,Teacher,90417.5,80-120K,555-123-1234,vanderson@example.com,Cancer,0.795,2025-09-07,No
+ID100970,Stephen Mann,Nonbinary,1936-11-01,89,USA,Los Angeles,Manager,46206.21,30-50K,216.592.5414,adam13@example.net,Hypertension,0.462,2025-07-20,Yes
+ID100971,Christopher Clements,Nonbinary,1982-03-01,43,UK,Liverpool,Scientist,44718.18,30-50K,001-374-538-7465,amberreyes@example.org,Asthma,0.375,2025-06-30,Yes
+ID100972,Linda Gonzalez,Female,1975-03-03,50,India,Kolkata,Scientist,82014.1,80-120K,001-974-747-5694x66759,clarkeaaron@example.com,Cancer,0.844,2024-02-14,No
+ID100973,Nathan Cohen,Female,1996-02-02,29,UK,Liverpool,Scientist,78076.74,50-80K,843-949-3510,proy@example.org,Cancer,0.754,2024-05-16,No
+ID100974,Timothy Gonzalez,Nonbinary,1986-12-03,39,India,Kolkata,Engineer,61249.41,50-80K,+1-859-268-8660x34588,casejoanne@example.org,Diabetes,0.597,2024-09-18,No
+ID100975,Michael Martin,Male,1953-04-10,72,India,Kolkata,Artist,45754.79,30-50K,516-777-4818,keithdakota@example.net,Diabetes,0.732,2023-10-27,No
+ID100976,Angela Larson,Nonbinary,1984-09-06,41,Canada,Montreal,Artist,96728.3,80-120K,228.967.2345x986,kirk86@example.net,Alzheimer's,0.866,2024-07-23,No
+ID100977,Thomas Acosta,Female,1941-08-21,84,USA,New York,Nurse,104630.25,80-120K,724.356.7473,patriciawolfe@example.com,Alzheimer's,1.0,2024-04-22,No
+ID100978,Andrew Wood,Female,1996-10-22,29,Canada,Vancouver,Scientist,47743.32,30-50K,001-876-460-7959x07904,bdavis@example.com,Diabetes,0.693,2024-05-08,Yes
+ID100979,Michael Mercado,Female,1997-04-06,28,UK,Liverpool,Doctor,48369.59,30-50K,810.277.5925,lisabanks@example.org,Diabetes,0.7,2024-03-17,Yes
+ID100980,John Fletcher,Nonbinary,1953-10-24,72,Canada,Calgary,Engineer,20000.0,<30K,319-960-1403,joseph01@example.net,Depression,0.256,2023-10-12,Yes
+ID100981,Sue Johnson,Nonbinary,1978-04-20,47,USA,Houston,Doctor,61637.96,50-80K,(920)831-5670x58890,irose@example.org,Diabetes,0.728,2025-05-17,Yes
+ID100982,Heather Joyce,Male,1935-05-20,90,USA,New York,Engineer,44022.12,30-50K,(876)543-1594x7857,juliejones@example.com,Depression,0.322,2024-09-28,Yes
+ID100983,Monica Rubio,Nonbinary,1966-04-05,59,UK,Edinburgh,Scientist,107287.69,80-120K,+1-894-637-1126x96169,hsmith@example.org,Alzheimer's,0.841,2023-10-16,No
+ID100984,Daniel Taylor,Female,1965-01-20,60,UK,Edinburgh,Manager,42515.83,30-50K,7669149849,angelawright@example.org,Depression,0.273,2024-01-05,Yes
+ID100985,Sarah Flores,Female,1983-10-17,42,India,Mumbai,Teacher,81013.61,80-120K,336-211-9247,williamblake@example.org,Cancer,0.898,2023-10-21,No
+ID100986,Brandon Ward,Nonbinary,1978-11-23,47,USA,Houston,Doctor,85675.6,80-120K,555-123-1234,jennifermeadows@example.org,Cancer,0.773,2024-02-09,Yes
+ID100987,Jeffrey Levine,Nonbinary,1970-09-12,55,USA,Houston,Artist,58789.99,50-80K,+1-286-736-0129x40037,jennifer78@example.net,Diabetes,0.672,2023-09-25,No
+ID100988,Kimberly Montgomery,Male,1957-07-14,68,USA,Los Angeles,Nurse,48524.22,30-50K,535.578.8459x192,kevin84@example.net,Asthma,0.348,2024-12-18,Yes
+ID100989,Mary Robinson,Male,1941-04-27,84,USA,Los Angeles,Engineer,99578.92,80-120K,582-796-0092x36285,willie57@example.net,Alzheimer's,1.0,2024-07-30,Yes
+ID100990,Christopher Bird,Female,1983-07-21,42,UK,Manchester,Scientist,58288.48,50-80K,+1-340-764-7684,joseph67@example.com,Diabetes,0.626,2025-06-06,No
+ID100991,Alexandra Harris,Male,1958-03-08,67,Canada,Montreal,Manager,38008.13,30-50K,206.476.9283x627,jmendoza@example.com,Asthma,0.363,2023-11-10,No
+ID100992,Dr. Benjamin Weber,Male,1983-11-22,42,India,Mumbai,Scientist,42648.1,30-50K,(914)536-0638x83774,suzannemeyer@example.com,Hypertension,0.541,2024-06-10,No
+ID100993,Robert Torres,Male,2002-11-06,23,UK,Manchester,Doctor,41234.91,30-50K,(366)887-7587,alejandraduke@example.org,Hypertension,0.588,2024-06-24,Yes
+ID100994,Daniel Cooke,Female,1984-08-14,41,UK,London,Nurse,30558.23,30-50K,+1-866-323-9217x9575,kmoore@example.net,Depression,0.318,2024-05-17,No
+ID100995,Angela Allen,Nonbinary,1990-01-18,35,Canada,Vancouver,Artist,85059.08,80-120K,408.782.1632,spadilla@example.net,Cancer,0.789,2025-04-08,No
+ID100996,Candace Brady,Nonbinary,1971-09-07,54,USA,New York,Engineer,36742.51,30-50K,8117143811,yrogers@example.com,Diabetes,0.592,2024-11-22,Yes
+ID100997,Antonio Thornton,Male,1958-12-03,67,UK,London,Doctor,35825.33,30-50K,665-236-4142x356,mgarcia@example.net,Asthma,0.278,2024-04-23,Yes
+ID100998,Justin Gregory,Male,1950-02-28,75,Canada,Montreal,Teacher,81745.62,80-120K,3382976250,jholder@example.com,Cancer,0.881,2024-01-11,Yes
+ID100999,Patrick Freeman,Female,1960-02-27,65,USA,Houston,Nurse,50675.6,50-80K,+1-549-529-5964x750,jonathanramirez@example.com,Asthma,0.354,2024-08-04,No
